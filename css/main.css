@@ -6,6 +6,44 @@ body {
   background-image: url('/img/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  text-shadow: 1px 1px 3px #222;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  display: table;
+  height: 100%;
+  min-height: 100%;
+}
+
+.middle-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 6.5em;
+  /* Just a little higher than the middle */
+  margin-top: -10%;
+}
+
+.subtitle {
+  font-weight: 100;
+  font-size: 2em;
+}
+
+footer {
+  font-weight: 300;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 20px;
+}
+
+a, a:hover {
   color: white;
 }
 
