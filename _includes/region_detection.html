@@ -1,0 +1,14 @@
+<script>
+  window.region = "EU"; // Default to EU
+  window.geocallback = function(data) {
+    country_code = data.country_code;
+    // US and CA will get the US localised version
+    if (country_code == "US" || country_code == "CA") {
+      window.region = "US";
+    }
+    console.log(window.region);
+  }
+  // IP in the us for testing:
+  // $.get("https://freegeoip.net/json/8.8.8.8?callback=geocallback")
+  $.get("https://freegeoip.net/json/?callback=geocallback")
+</script>
