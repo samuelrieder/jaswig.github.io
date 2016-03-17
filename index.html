@@ -4,20 +4,16 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Jaswig</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam ducimus dignissimos fuga error ad facere repellat, excepturi doloribus, saepe porro cupiditate expedita. Voluptatem iste assumenda voluptas magni, esse nemo, a!
+  </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <ul>
+    <li>Small: <span data-us-content="$299" data-eu-content="€375"></span></li>
+    <li>Medium: <span data-us-content="$399" data-eu-content="€449"></span></li>
+    <li>Large: <span data-us-content="$499" data-eu-content="€499"></span></li>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
