@@ -1,0 +1,13 @@
+#scroll-desk {
+  position: relative;
+  height: 400px;
+  margin-left: 300px;
+  #desk-legs {
+    position: absolute;
+  }
+  #desk-top {
+    position: absolute;
+    bottom: 132px;
+    left: 45px;
+  }
+}
