@@ -50,3 +50,39 @@ $("#regionSelector").on("click", function() {
   }
   changeRegion(newRegion);
 })
+
+// Scroll desk
+window.scrollDeskPosition = 1;
+
+$(document).on('click', '#scroll-desk-up', function(event) {
+  if(window.scrollDeskPosition < 7) {
+    updateScrollDeskPosition(1);
+  }
+})
+$(document).on('click', '#scroll-desk-down', function(event) {
+  if(window.scrollDeskPosition > 1) {
+    updateScrollDeskPosition(-1);
+  }
+})
+function updateScrollDeskPosition(delta) {
+  window.scrollDeskPosition += delta;
+  var position = window.scrollDeskPosition,
+      deskTop = $("#desk-top"),
+      left = parseInt(deskTop.css("left")),
+      bottom = parseInt(deskTop.css("bottom")),
+      hasTransitioned = false;
+
+  $("#scroll-desk-position").html(position);
+  deskTop.css("transform", "rotate(7deg)");
+  deskTop.css("left", left + 15);
+  deskTop.css("bottom", bottom + 18);
+  deskTop.on("transitionend", function(event) {
+    if(!hasTransitioned) {
+      hasTransitioned = true;
+      console.log("going", delta);
+      deskTop.css("transform", "rotate(0deg)");
+      deskTop.css("left", left - 4 * delta);
+      deskTop.css("bottom", bottom + 10 * delta);
+    }
+  })
+}
