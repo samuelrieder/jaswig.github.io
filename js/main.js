@@ -53,36 +53,93 @@ $("#regionSelector").on("click", function() {
 
 // Scroll desk
 window.scrollDeskPosition = 1;
+ // 0 = rest
+ // 1 = rotating to user
+ // 2 = adjusting height
+ // 3 = rotating away from user
+window.scrollDeskState = 0;
+window.scrollDeskIsTransitioning = false;
 
 $(document).on('click', '#scroll-desk-up', function(event) {
   if(window.scrollDeskPosition < 7) {
     updateScrollDeskPosition(1);
   }
-})
+});
+
 $(document).on('click', '#scroll-desk-down', function(event) {
   if(window.scrollDeskPosition > 1) {
     updateScrollDeskPosition(-1);
   }
-})
-function updateScrollDeskPosition(delta) {
-  window.scrollDeskPosition += delta;
-  var position = window.scrollDeskPosition,
-      deskTop = $("#desk-top"),
-      left = parseInt(deskTop.css("left")),
-      bottom = parseInt(deskTop.css("bottom")),
-      hasTransitioned = false;
+});
 
-  $("#scroll-desk-position").html(position);
-  deskTop.css("transform", "rotate(7deg)");
-  deskTop.css("left", left + 15);
-  deskTop.css("bottom", bottom + 18);
-  deskTop.on("transitionend", function(event) {
-    if(!hasTransitioned) {
-      hasTransitioned = true;
-      console.log("going", delta);
-      deskTop.css("transform", "rotate(0deg)");
-      deskTop.css("left", left - 4 * delta);
-      deskTop.css("bottom", bottom + 10 * delta);
+function updateScrollDeskPosition(delta) {
+  if(window.scrollDeskState < 2) {
+    // Only allow updates while rotating
+    window.scrollDeskPosition += delta;
+    $("#scroll-desk-position").html(window.scrollDeskPosition);
+  }
+  if(window.scrollDeskState == 0) {
+    scrollDeskNextState();
+  }
+}
+
+function scrollDeskNextState() {
+  if(!window.scrollDeskIsTransitioning) {
+    window.scrollDeskIsTransitioning = true;
+    console.log("Desk state", window.scrollDeskState)
+    var position = window.scrollDeskPosition,
+        deskTop = $("#desk-top"),
+        left = parseInt(deskTop.css("left")),
+        bottom = parseInt(deskTop.css("bottom"));
+        win = false;
+
+    switch(window.scrollDeskState) {
+      case 0: // Rotating towards user
+        window.scrollDeskState = 1;
+        console.log("Rotating towards user", window.scrollDeskState)
+        deskTop.css({
+          "transform": "rotate(7deg)",
+          "left": left + 15,
+          "bottom": bottom + 18,
+        });
+        waitForNextStep()
+        break;
+      case 1: // Adjusting height
+        window.scrollDeskState = 2;
+        console.log("Adjusting height", window.scrollDeskState)
+        deskTop.css({
+          "left": 45 - 4 * (position-1) + 15,
+          "bottom": 132 + 10 * (position-1) + 18,
+        });
+        waitForNextStep()
+        break;
+      case 2: // Rotating away from user
+        window.scrollDeskState = 3;
+        console.log("Rotating away from user", window.scrollDeskState)
+        deskTop.css({
+          "transform": "rotate(0deg)",
+          "left": left - 15,
+          "bottom": bottom - 18,
+        });
+        waitForNextStep()
+        break;
+      case 3: // After last step, reset to rest position
+        window.scrollDeskState = 0;
+        window.scrollDeskIsTransitioning = false;
+        break;
     }
-  })
+  }
+}
+
+function waitForNextStep() {
+  window.setTimeout(function() {
+    $("#desk-top").on("transitionend", function() {
+      console.log("transitioned")
+      if(window.scrollDeskIsTransitioning) {
+        $("#desk-top").off("transitionend")
+        window.scrollDeskIsTransitioning = false;
+        scrollDeskNextState();
+      }
+    });
+  }, 0);
 }
