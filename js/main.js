@@ -62,21 +62,34 @@ window.scrollDeskIsTransitioning = false;
 
 $(document).on('click', '#scroll-desk-up', function(event) {
   if(window.scrollDeskPosition < 7) {
-    updateScrollDeskPosition(1);
+    updateScrollDeskPosition(window.scrollDeskPosition + 1);
   }
 });
 
 $(document).on('click', '#scroll-desk-down', function(event) {
   if(window.scrollDeskPosition > 1) {
-    updateScrollDeskPosition(-1);
+    updateScrollDeskPosition(window.scrollDeskPosition - 1);
   }
 });
 
-function updateScrollDeskPosition(delta) {
+$(document).on('input', '#scroll-desk-position', function(event) {
+  new_value = parseInt($('#scroll-desk-position').val())
+  if (new_value > 7) {
+    updateScrollDeskPosition(7);
+  } else if (new_value < 1) {
+    updateScrollDeskPosition(1);
+  } else if (1 <= new_value && new_value <= 7){
+    updateScrollDeskPosition(new_value);
+  }
+});
+
+function updateScrollDeskPosition(new_position) {
   if(window.scrollDeskState < 2) {
     // Only allow updates while rotating
-    window.scrollDeskPosition += delta;
-    $("#scroll-desk-position").html(window.scrollDeskPosition);
+    window.scrollDeskPosition = new_position;
+    if($("#scroll-desk-position").val() != new_position) {
+      $("#scroll-desk-position").val(new_position);
+    }
   }
   if(window.scrollDeskState == 0) {
     scrollDeskNextState();
