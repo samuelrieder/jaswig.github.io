@@ -106,6 +106,8 @@ function scrollDeskNextState() {
     window.scrollDesk.transitioning = true;
 
     var position = window.scrollDesk.position,
+        positionLabel = $("#scroll-desk-position-label"),
+        heightLabel = $("#scroll-desk-position-height"),
         deskTop = $("#desk-top"),
         left = parseInt(deskTop.css("left")),
         bottom = parseInt(deskTop.css("bottom"));
@@ -128,8 +130,8 @@ function scrollDeskNextState() {
       case 1: // Adjusting height
         window.scrollDesk.state = 2;
         deskTop.css({
-          "left": 45 + stepLeft * (position-1) + rotateLeft,
-          "bottom": 132 + stepUp * (position-1) + rotateUp,
+          "left": 46 + stepLeft * (position-1) + rotateLeft,
+          "bottom": 50 + stepUp * (position-1) + rotateUp,
         });
         waitForNextStep()
         break;
@@ -145,6 +147,8 @@ function scrollDeskNextState() {
       case 3: // After last step, reset to rest position
         window.scrollDesk.state = 0;
         window.scrollDesk.transitioning = false;
+        positionLabel.text(window.scrollDesk.position);
+        heightLabel.text(100+8*(window.scrollDesk.position-1));
         break;
     }
   }
