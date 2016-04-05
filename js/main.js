@@ -113,7 +113,7 @@ function scrollDeskNextState() {
         bottom = parseInt(deskTop.css("bottom"));
 
     var rotateUp = 8,
-        rotateLeft = 15,
+        rotateLeft = 17,
         stepUp = 10,
         stepLeft = -3.5;
 
