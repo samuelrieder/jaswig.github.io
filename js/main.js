@@ -50,24 +50,30 @@ $(document).on("click", "#regionSelector", function() {
   changeRegion(newRegion);
 })
 
+//
 // Scroll desk
-window.scrollDeskPosition = 1;
- // 0 = rest
- // 1 = rotating to user
- // 2 = adjusting height
- // 3 = rotating away from user
-window.scrollDeskState = 0;
-window.scrollDeskIsTransitioning = false;
+//
+
+// States:
+// 0 = rest
+// 1 = rotating to user
+// 2 = adjusting height
+// 3 = rotating away from user
+window.scrollDesk = {
+  state: 0,
+  position: 1,
+  transitioning: false,
+}
 
 $(document).on('click', '#scroll-desk-up', function(event) {
-  if(window.scrollDeskPosition < 7) {
-    updateScrollDeskPosition(window.scrollDeskPosition + 1);
+  if(window.scrollDesk.position < 7) {
+    updateScrollDeskPosition(window.scrollDesk.position + 1);
   }
 });
 
 $(document).on('click', '#scroll-desk-down', function(event) {
-  if(window.scrollDeskPosition > 1) {
-    updateScrollDeskPosition(window.scrollDeskPosition - 1);
+  if(window.scrollDesk.position > 1) {
+    updateScrollDeskPosition(window.scrollDesk.position - 1);
   }
 });
 
@@ -83,73 +89,75 @@ $(document).on('input', '#scroll-desk-position', function(event) {
 });
 
 function updateScrollDeskPosition(new_position) {
-  if(window.scrollDeskState < 2) {
-    // Only allow updates while rotating
-    window.scrollDeskPosition = new_position;
+  if(window.scrollDesk.state < 2) {
+    // Only allow updates while in state 0 or 1
+    window.scrollDesk.position = new_position;
     if($("#scroll-desk-position").val() != new_position) {
       $("#scroll-desk-position").val(new_position);
     }
   }
-  if(window.scrollDeskState == 0) {
+  if(window.scrollDesk.state == 0) {
     scrollDeskNextState();
   }
 }
 
 function scrollDeskNextState() {
-  if(!window.scrollDeskIsTransitioning) {
-    window.scrollDeskIsTransitioning = true;
-    console.log("Desk state", window.scrollDeskState)
-    var position = window.scrollDeskPosition,
+  if(!window.scrollDesk.transitioning) {
+    window.scrollDesk.transitioning = true;
+
+    var position = window.scrollDesk.position,
         deskTop = $("#desk-top"),
         left = parseInt(deskTop.css("left")),
         bottom = parseInt(deskTop.css("bottom"));
-        win = false;
 
-    switch(window.scrollDeskState) {
+    var rotateUp = 8,
+        rotateLeft = 15,
+        stepUp = 10,
+        stepLeft = -3.5;
+
+    switch(window.scrollDesk.state) {
       case 0: // Rotating towards user
-        window.scrollDeskState = 1;
-        console.log("Rotating towards user", window.scrollDeskState)
+        window.scrollDesk.state = 1;
         deskTop.css({
           "transform": "rotate(7deg)",
-          "left": left + 15,
-          "bottom": bottom + 18,
+          "left": left + rotateLeft,
+          "bottom": bottom + rotateUp,
         });
         waitForNextStep()
         break;
       case 1: // Adjusting height
-        window.scrollDeskState = 2;
-        console.log("Adjusting height", window.scrollDeskState)
+        window.scrollDesk.state = 2;
         deskTop.css({
-          "left": 45 - 4 * (position-1) + 15,
-          "bottom": 132 + 10 * (position-1) + 18,
+          "left": 45 + stepLeft * (position-1) + rotateLeft,
+          "bottom": 132 + stepUp * (position-1) + rotateUp,
         });
         waitForNextStep()
         break;
       case 2: // Rotating away from user
-        window.scrollDeskState = 3;
-        console.log("Rotating away from user", window.scrollDeskState)
+        window.scrollDesk.state = 3;
         deskTop.css({
           "transform": "rotate(0deg)",
-          "left": left - 15,
-          "bottom": bottom - 18,
+          "left": left - rotateLeft,
+          "bottom": bottom - rotateUp,
         });
         waitForNextStep()
         break;
       case 3: // After last step, reset to rest position
-        window.scrollDeskState = 0;
-        window.scrollDeskIsTransitioning = false;
+        window.scrollDesk.state = 0;
+        window.scrollDesk.transitioning = false;
         break;
     }
   }
 }
 
 function waitForNextStep() {
+  // Needs the setTimeout
   window.setTimeout(function() {
     $("#desk-top").on("transitionend", function() {
-      console.log("transitioned")
-      if(window.scrollDeskIsTransitioning) {
+      if(window.scrollDesk.transitioning) {
+        // Must turn the event off so we don't trigger multiple times
         $("#desk-top").off("transitionend")
-        window.scrollDeskIsTransitioning = false;
+        window.scrollDesk.transitioning = false;
         scrollDeskNextState();
       }
     });
