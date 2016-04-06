@@ -148,7 +148,7 @@ function scrollDeskNextState() {
         window.scrollDesk.state = 0;
         window.scrollDesk.transitioning = false;
         positionLabel.text(window.scrollDesk.position);
-        heightLabel.text(100+8*(window.scrollDesk.position-1));
+        heightLabel.text(Math.round(64+3.333*(window.scrollDesk.position-1)));
         break;
     }
   }
