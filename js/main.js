@@ -38,8 +38,8 @@ function geocallback(data) {
 }
 
 // IP in the us for testing:
-// $.get("https://freegeoip.net/json/8.8.8.8?callback=geocallback")
-$.get("https://freegeoip.net/json/?callback=geocallback")
+// $.get("https://freegeoip.io/json/8.8.8.8?callback=geocallback")
+$.get("https://freegeoip.io/json/?callback=geocallback")
 
 $(document).on("click", "#regionSelector", function() {
   if (window.region == "US") {
