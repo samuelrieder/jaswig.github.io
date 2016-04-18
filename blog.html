@@ -5,22 +5,24 @@ permalink: /blog/
 position: 3
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<div class="container padding">
+  <div class="row">
+    <div class="col-xs-12">
+      <h1 class="large">Blog</h1>
+    </div>
+  </div>
+  <div class="row">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+    <div class="col-xs-4">
+      <div class="blogpost">
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p>
+          {% if post.excerpt %}
+            {{ post.excerpt }}
+          {% endif %}
+        </p>
+      </div>
+    </div>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </div>
 </div>

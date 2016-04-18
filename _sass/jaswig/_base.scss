@@ -1,0 +1,374 @@
+@import "bootstrap/grid-setup";
+
+/* Color variables */
+$color-primary: #F68F1F;
+$color-primary-dark: #DB5F26;
+$color-secondary: #6BC6B8;
+$color-red: #D0021B;
+$color-dark: #1C1B1A;
+$color-brown: #978B7D;
+$color-brown-light: #F1EEE9;
+$color-subtle: #F5F3EF;
+$color-subtle-line: #FBFAF8;
+
+/* Font variables */
+$font-base: 'Roboto';
+$font-secondary: 'Brandon Grotesque';
+
+/* Typography */
+h1 {
+  font-family: $font-secondary;
+  font-size: 48px;
+  font-weight: 500;
+  color: $color-dark;
+  margin-bottom: 60px;
+}
+
+h1.large {
+  color: $color-primary;
+  font-size: 72px;
+}
+
+h2 {
+  font-family: $font-secondary;
+  color: $color-dark;
+  font-size: 36px;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: $font-base;
+  color: $color-dark;
+  font-size: 20px;
+  line-height: 35px;
+  font-weight: 300;
+  margin-bottom: 40px;
+
+  strong {
+    font-weight: 500;
+  }
+}
+
+p {
+  font-family: $font-base;
+  color: $color-brown;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 30px;
+  max-width: 800px;
+}
+
+/* Tables */
+.table,
+%table {
+  display: table;
+  width: 100%;
+}
+.table .table-row,
+%table-row {
+  display: table-row;
+}
+
+.table .table-cell,
+%table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* Lists */
+.list {
+  padding: 0;
+}
+.list.list-left {
+  display: inline-block;
+}
+.list.list-left li {
+  list-style-type: none;
+  float: left;
+
+  &:not(:last-child) {
+    margin-right: 30px;
+  }
+}
+
+/* Utilities */
+.padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.padding-bottom {
+  padding-bottom: 70px;
+}
+
+.alignr {
+  text-align: right;
+}
+
+/* Html, body */
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Background image */
+.background {
+  height: 57vw;
+  background-image: url('/images/jaswig-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #ccc;
+}
+
+/* Header */
+header {
+  padding-top: 30px;
+}
+
+header .header-table {
+  @extend %table;
+}
+
+header .header-row {
+  @extend %table-row;
+}
+
+header .brand {
+  @extend %table-cell;
+}
+
+header .brand img {
+  width: 2.6vw;
+  max-width: 50px;
+}
+
+header nav {
+  @extend %table-cell;
+  text-align: right;
+}
+
+header nav ul {
+  display: none;
+}
+
+header nav ul li {
+  list-style-type: none;
+  float: left;
+}
+
+header nav ul li a {
+  transition: 0.3s all;
+  display: block;
+  font-family: $font-secondary;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 50px;
+  padding: 10px 20px;
+  margin-right: 15px;
+  color: $color-dark;
+  background-color: rgba(255,255,255,.75);
+
+  &:hover {
+    background-color: white;
+  }
+
+  &.active {
+    color: white;
+    background-color: rgba(0,0,0,.6);
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  header nav ul {
+    display: inline-block;
+  }
+}
+
+/* Hero */
+.hero {
+  text-align: center;
+}
+
+.hero .headline {
+  color: white;
+  font-size: 3vw;
+  font-weight: 600;
+  width: 40vw;
+  line-height: 4vw;
+  margin: 0px auto;
+  margin-top: 9vw;
+  margin-bottom: 5vw;
+  text-shadow: 0px 5px 10px rgba(110,72,31,0.83);
+}
+
+.hero .play {
+  display: block;
+  margin-bottom: 3vw;
+}
+
+.hero .play img {
+  width: 8vw;
+}
+
+.hero .cta {
+  background-color: $color-primary;
+  display: inline-block;
+  font-family: $font-secondary;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1vw;
+  font-weight: 600;
+  border-radius: 50px;
+  padding: 1.3vw 3.4vw;
+  color: white;
+  box-shadow: 0px 15px 25px 0px rgba(110,72,31,0.63);
+  transition: 0.3s all;
+
+  &:hover {
+    background-color: $color-primary + 10;
+    box-shadow: 0px 10px 20px 0px rgba(110,72,31,0.43);
+  }
+}
+
+/* Footer */
+footer {
+  background-color: $color-primary;
+  padding: 80px 0;
+  color: white;
+}
+
+footer .footer-table {
+  @extend %table;
+}
+
+footer .footer-row {
+  @extend %table-row;
+}
+
+footer .brand {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+footer .brand img {
+  height: 30px;
+}
+
+footer .terms {
+  text-align: center;
+}
+
+footer .terms .list.list-left li {
+  float: none;
+  margin-right: 0;
+}
+
+footer .terms .list.list-left li a {
+  display: block;
+  color: rgba(255,255,255,.7);
+  font-family: $font-secondary;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  padding-bottom: 10px;
+
+  &:hover {
+    color: rgba(255,255,255,1);
+  }
+}
+
+footer .social-media {
+  text-align: center;
+
+  a {
+    color: white;
+    font-size: 23px;
+    opacity: .7;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  footer .brand,
+  footer .terms,
+  footer .social-media {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  footer .brand {
+    text-align: left;
+    padding-bottom: 0;
+  }
+
+  footer .terms {
+    text-align: center;
+  }
+
+  footer .terms .list.list-left li {
+    float: left;
+
+    &:not(:last-child) {
+      margin-right: 30px;
+    }
+  }
+
+  footer .terms .list.list-left li a {
+    padding-bottom: 0;
+  }
+
+  footer .social-media {
+    text-align: right;
+  }
+}
+
+
+/* Scroll desk */
+@import "scroll-desk";
+
+
+#why-jaswig {
+  h3,
+  p {
+    max-width: 400px;
+  }
+}
+
+#why-jaswig-image img {
+  margin-top: 50px;
+  width: 100%;
+}
+
+@media (min-width: $screen-md-min) {
+  #why-jaswig-image {
+    text-align: right;
+  }
+
+  #why-jaswig-image img {
+    margin-top: 0;
+    width: auto;
+  }
+}
+
+
+#how-jaswig-was-born img {
+  margin-top: 20px;
+  width: 100%;
+}
+
+@media (min-width: $screen-md-min) {
+  #how-jaswig-was-born img {
+    margin-top: 0;
+  }
+}
