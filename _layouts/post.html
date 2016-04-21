@@ -1,15 +1,24 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post">
+  <div class="post-background" style="background-image: url('https://scontent-amt2-1.cdninstagram.com/t51.2885-15/e35/12628117_1022066901168090_1325432572_n.jpg?ig_cache_key=MTE4NjQ3NDk3ODY3OTg3NzkzMg%3D%3D.2')"></div>
+  <div class="post-background-gradient"></div>
+  <div class="post-inner container">
+    <div class="row padding-bottom">
+      <div class="col-xs-12">
+        <article itemscope itemtype="http://schema.org/BlogPosting">
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+          </header>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+          <div class="post-content" itemprop="articleBody">
+            {{ content }}
+          </div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+        </article>
+      </div>
+    </div>
   </div>
-
-</article>
+</div>

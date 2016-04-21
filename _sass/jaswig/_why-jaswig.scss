@@ -1,0 +1,27 @@
+.why-jaswig {
+  background-color: #FBFAF9;
+  border-bottom: 1px solid $color-subtle;
+}
+
+.why-jaswig-text {
+  h3,
+  p {
+    max-width: 400px;
+  }
+}
+
+.why-jaswig-image img {
+  margin-top: 50px;
+  width: 100%;
+}
+
+@media (min-width: $screen-md-min) {
+  .why-jaswig-image {
+    text-align: right;
+  }
+
+  .why-jaswig-image img {
+    margin-top: 0;
+    width: auto;
+  }
+}

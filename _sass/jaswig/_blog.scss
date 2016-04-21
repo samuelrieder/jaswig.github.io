@@ -1,0 +1,29 @@
+.blog {
+  padding-top: 90px;
+  padding-bottom: 120px;
+}
+
+.blogpost {
+  border: 1px solid $color-subtle;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.blogpost img {
+  width: 100%;
+}
+
+.blogpost-inner {
+  padding: 35px;
+}
+
+.blogpost-inner-title a {
+  text-decoration: none;
+  color: $color-dark;
+}
+
+.blogpost-inner p {
+  font-size: 14px;
+  line-height: 27px;
+}

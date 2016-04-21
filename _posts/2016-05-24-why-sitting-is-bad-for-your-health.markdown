@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Why sitting is bad for your health"
 date: "2016-02-23 22:10:27 +0100"
 categories: jekyll update
 published: true

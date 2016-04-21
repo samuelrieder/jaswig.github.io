@@ -1,0 +1,81 @@
+.contact {
+  padding-top: 90px;
+  padding-bottom: 120px;
+}
+
+.contact-locations {}
+
+.contact-locations h2 {
+  margin-top: 0;
+}
+
+.contact-locations-box {
+  margin-bottom: 60px;
+  border: 1px solid $color-subtle;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.contact-locations-image {
+  width: 100%;
+}
+
+.contact-locations-general {
+  padding: 30px;
+  border-bottom: 1px solid $color-subtle;
+  text-align: center;
+  font-size: 18px;
+  font-family: $font-base;
+  font-weight: 300;
+}
+
+.contact-locations-people {
+  & .first {
+    border-bottom: 1px solid $color-subtle;
+  }
+}
+
+.contact-locations-person {
+  padding: 30px;
+  overflow: hidden;
+}
+
+.person-image {
+  float: left;
+}
+
+.person-image img {
+  width: 150px;
+  margin-right: 20px;
+}
+
+.person-info {
+}
+
+.person-info span {
+  display: block;
+  font-family: $font-base;
+  color: $color-brown;
+  margin-top: 20px;
+}
+
+.person-info span i {
+  margin-right: 5px;
+  color: $color-secondary;
+  width: 30px;
+}
+
+.contact-form {
+  display: none;
+}
+
+@media (min-width: $screen-md-min) {
+  .contact-locations-people .first {
+    border-bottom: 0;
+    border-right: 1px solid $color-subtle;
+  }
+
+  .contact-locations-people .last .contact-locations-person {
+    padding-left: 15px;
+  }
+}
