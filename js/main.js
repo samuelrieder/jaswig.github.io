@@ -16,10 +16,18 @@ $(document).on('changeRegion', function(event, region) {
     $("[data-us-content]").each(function(idx, element) {
       $(element).html($(element).data("us-content"))
     })
+
+    $("[data-us-link]").each(function(idx, element) {
+      $(element).attr("href", $(element).data("us-link"))
+    })
   } else {
     regionImage = "/images/eu.png";
     $("[data-eu-content]").each(function(idx, element) {
       $(element).html($(element).data("eu-content"))
+    })
+
+    $("[data-eu-link]").each(function(idx, element) {
+      $(element).attr("href", $(element).data("eu-link"))
     })
   }
   $("#regionSelector").attr("src", regionImage);

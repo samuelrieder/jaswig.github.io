@@ -1,0 +1,71 @@
+header {
+  padding-top: 30px;
+}
+
+header .header-table {
+  @extend %table;
+}
+
+header .header-row {
+  @extend %table-row;
+}
+
+header .brand {
+  @extend %table-cell;
+}
+
+header .brand img {
+  width: 2.6vw;
+  max-width: 50px;
+}
+
+header nav {
+  @extend %table-cell;
+  text-align: right;
+}
+
+header nav ul {
+  display: none;
+}
+
+header nav ul li {
+  list-style-type: none;
+  float: left;
+}
+
+header nav ul li a {
+  transition: 0.3s all;
+  display: block;
+  font-family: $font-secondary;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 50px;
+  padding: 10px 20px;
+  margin-right: 15px;
+  color: $color-dark;
+  background-color: rgba(255,255,255,.75);
+
+  &:hover {
+    background-color: white;
+  }
+
+  &.active {
+    color: white;
+    background-color: rgba(0,0,0,.6);
+  }
+}
+
+header #regionSelector {
+  margin-top: 6px;
+  width: 39px;
+  cursor: pointer;
+}
+
+@media (min-width: $screen-md-min) {
+  header nav ul {
+    display: inline-block;
+  }
+}
