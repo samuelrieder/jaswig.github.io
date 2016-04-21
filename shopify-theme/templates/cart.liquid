@@ -188,6 +188,14 @@
               <small class="cart-subtotal__savings">{{ 'cart.general.savings_html' | t: price: savings }}</small>
             {% endif %}
           </p>
+
+          <div style="text-align: right">
+            <p class="cart-attribute__field">
+              <label for="vat-number-company-purchase-only"><strong>For company purchase, enter your VAT number below</strong></label>
+              <input placeholder="VAT number" style="width: 400px; display: inline-block" type="text" id="vat-number-company-purchase-only" name="attributes[VAT number (company purchase only)]" value="{{ cart.attributes["VAT number (company purchase only)"] }}">
+            </p>
+          </div>
+
           <p><em>{{ 'cart.general.shipping_at_checkout' | t }}</em></p>
           <input type="submit" name="update" class="btn--secondary update-cart" value="{{ 'cart.general.update' | t }}">
           <input type="submit" name="checkout" class="btn checkout" value="{{ 'cart.general.checkout' | t }}">
@@ -199,6 +207,8 @@
       </div>
 
     </div>
+
+
 
   </form>
 
