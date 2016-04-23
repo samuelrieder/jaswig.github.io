@@ -38,4 +38,4 @@ function jsonFlickrApi(response) {
 }
 
 // Fetch fotos
-$.get("https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&user_id=11805358@N03&api_key=f0b84fba1c00631410b85b90720f52ba&format=json")
+$.get("https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&user_id=140453763@N07&api_key=f0b84fba1c00631410b85b90720f52ba&format=json")
