@@ -19,4 +19,6 @@ Also [Huffington Post](http://www.huffingtonpost.com/kristin-duquette/10-crucial
 
 Here are two of many examples in the world on how to excel together.
 
-Our flat-packed jigsaw puzzled desk comes with a hardware bag to fit the pieces together. Those bags are packed by a group of great people who stuff it with respect and gratitude. Our colleagues all have some kind of disability that makes them unique. In order to make this happen we work with local initiatives like UDS in Akron and a “Beschutte werkplaats” in Belgium. Those organizations assist disabled people with getting a job and learning new things. They make sure the disabled people can work in a good and supportive environment for their capabilities and special needs.
+Our flat-packed jigsaw puzzled desk comes with a hardware bag to fit the pieces together. Those bags are packed by a group of great people who stuff it with respect and gratitude. Our colleagues all have some kind of disability that makes them unique. In order to make this happen we work with local initiatives like [UDS in Akron](https://www.udsakron.org) and a “[Beschutte werkplaats](http://www.socialeeconomie.be/beschuttewerkplaatsen)” in Belgium. Those organizations assist disabled people with getting a job and learning new things. They make sure the disabled people can work in a good and supportive environment for their capabilities and special needs.
+
+![Bagging](/images/blog/bagging.jpg)
