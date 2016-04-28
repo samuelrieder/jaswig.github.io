@@ -2,8 +2,8 @@
 layout: post
 title: "Why should I use a standing desk?"
 date: "2016-04-26 22:10:27 +0100"
-cover: "/images/blog/01.jpg"
-thumbnail: "/images/blog/01.jpg"
+cover: "/images/blog/why-you-should-use-a-standing-desk.jpg"
+thumbnail: "/images/blog/why-you-should-use-a-standing-desk.jpg"
 categories: blog
 published: true
 
@@ -51,6 +51,6 @@ If you still need to convince someone, here is a summary listing research articl
 
 Now please, do you want to get your lazy ass out of your comfortable chair* and stand up for your future?
 
-![Standing Revolution](/images/blog/02.jpg)
+![Standing Revolution](/images/blog/standing-revolution.jpg)
 
 *Use a chair as a luxury product and really enjoy when you’re sitting down… 

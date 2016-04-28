@@ -65,59 +65,82 @@ position: 4
   </div>
 
   <div class="contact-form row">
+    <a name="success"></a>
     <div class="col-xs-12">
       <h2>For information or just to say Hello</h2>
     </div>
     <div class="col-xs-12">
       <div class="contact-box">
-        <div class="row contact-input-group">
-          <div class="col-xs-12 col-md-4">
-            <label for="fname">Firstname *</label>
-          </div>
-          <div class="col-xs-12 col-md-8">
-            <input type="text" id="fname">
-          </div>
-        </div>
-        <div class="row contact-input-group">
-          <div class="col-xs-12 col-md-4">
-            <label for="lname">Lastname *</label>
-          </div>
-          <div class="col-xs-12 col-md-8">
-            <input type="text" name="lname">
+        <div class="row contact-success">
+          <div class="col-xs-12">
+            <h3>Thanks!</h3>
+            <p>
+              We’re excited that you’ve taken the time to write us. One of us will get back to you as soon as possible.
+            </p>
+            <p>
+              Have an outstanding day, <br>
+              The Jaswig team
+            </p>
           </div>
         </div>
-        <div class="row contact-input-group padding-below">
-          <div class="col-xs-12 col-md-4">
-            <label for="email">Email Address *</label>
+        <form action="https://www.getform.org/f/eb913d63-8cbb-4ef4-9998-75fed4446feb" method="POST">
+          <div class="row contact-input-group">
+            <div class="col-xs-12 col-md-4">
+              <label for="firstname">Firstname *</label>
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <input type="text" id="firstname">
+            </div>
           </div>
-          <div class="col-xs-12 col-md-8">
-            <input type="text" name="email">
+          <div class="row contact-input-group">
+            <div class="col-xs-12 col-md-4">
+              <label for="lastname">Lastname *</label>
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <input type="text" name="lastname">
+            </div>
           </div>
-        </div>
-        <div class="row contact-input-group">
-          <div class="col-xs-12 col-md-4">
-            <label for="fname">Subject *</label>
+          <div class="row contact-input-group padding-below">
+            <div class="col-xs-12 col-md-4">
+              <label for="email">Email Address *</label>
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <input type="text" name="email">
+            </div>
           </div>
-          <div class="col-xs-12 col-md-8">
-            <input type="text" name="fname">
+          <div class="row contact-input-group">
+            <div class="col-xs-12 col-md-4">
+              <label for="subject">Subject *</label>
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <input type="text" name="subject">
+            </div>
           </div>
-        </div>
-        <div class="row contact-input-group">
-          <div class="col-xs-12 col-md-4">
-            <label for="fname">Message *</label>
+          <div class="row contact-input-group">
+            <div class="col-xs-12 col-md-4">
+              <label for="message">Message *</label>
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <textarea name="message" id="" cols="30" rows="10"></textarea>
+            </div>
           </div>
-          <div class="col-xs-12 col-md-8">
-            <textarea name="message" id="" cols="30" rows="10"></textarea>
+          <div class="row contact-input-group">
+            <div class="col-xs-12 col-md-4">
+            </div>
+            <div class="col-xs-12 col-md-8">
+              <input type="submit" value="Send" class="btn btn-primary">
+            </div>
           </div>
-        </div>
-        <div class="row contact-input-group">
-          <div class="col-xs-12 col-md-4">
-          </div>
-          <div class="col-xs-12 col-md-8">
-            <a type="submit" value="Send" class="btn btn-primary">Send</a>
-          </div>
-        </div>
+        </form>
       </div>
     </div>
   </div>
 </div>
+
+<script>
+  $(function() {
+    if (location.hash === "#success") {
+        $('.contact-success').show();
+    }
+  });
+</script>

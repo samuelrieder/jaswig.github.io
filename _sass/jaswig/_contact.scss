@@ -72,6 +72,10 @@ span.person-av {
   opacity: 0.7;
 }
 
+.contact-form {
+  display: none;
+}
+
 .contact-box {
   border-radius: 5px;
   border: 1px solid $color-subtle;
@@ -111,6 +115,23 @@ span.person-av {
     outline: none;
     border: 1px solid $color-brown + 40;
   }
+}
+
+.contact-box input[type="submit"] {
+  border: none;
+}
+
+.contact-success {
+  background-color: $color-secondary;
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 50px;
+  display: none;
+}
+
+.contact-success h3,
+.contact-success p {
+  color: white;
 }
 
 @media (min-width: $screen-md-min) {

@@ -186,21 +186,23 @@ a.upper {
   color: $color-primary + 30;
 }
 
-.btn {
+.btn,
+.btn--secondary {
   display: inline-block;
-  font-family: $font-secondary;
+  font-family: $font-secondary !important;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 13px;
-  font-weight: 600;
-  border-radius: 50px;
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  border-radius: 50px !important;
   padding: 10px 20px;
   transition: 0.3s all;
 }
 
+.btn,
 .btn.btn-primary {
-  background-color: $color-primary;
+  background-color: $color-primary !important;
   color: white;
   box-shadow: 0px 10px 20px 0px rgba(110,72,31,0.13);
   cursor: pointer;
@@ -208,6 +210,15 @@ a.upper {
   &:hover {
     background-color: $color-primary + 10;
     box-shadow: 0px 7px 15px 0px rgba(110,72,31,0.08);
+  }
+}
+
+.btn-secondary,
+.btn--secondary {
+  background-color: $color-brown !important;
+
+  &:hover {
+    background-color: $color-brown + 10;
   }
 }
 
@@ -241,7 +252,7 @@ body {
 /* Background image */
 .background {
   height: 57vw;
-  background-image: url('/images/jaswig-background.png');
+  background-image: url('/images/jaswig-standing-desk.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

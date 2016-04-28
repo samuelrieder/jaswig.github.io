@@ -15,15 +15,23 @@
 }
 
 .press ul li img {
-  height: 50px;
+  height: 35px;
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
 
 @media (min-width: $screen-md-min) {
+  .press ul {
+    padding-left: 30px
+  }
+
   .press ul li {
     width: auto;
     margin-right: 30px !important;
     margin-bottom: 0;
+  }
+
+  .press ul li img {
+    height: 50px;
   }
 }

@@ -34,6 +34,12 @@
   <!-- CSS ================================================== -->
   {{ 'timber.scss.css' | asset_url | stylesheet_tag }}
   {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
+  {{ 'timber-or.css' | asset_url | stylesheet_tag }}
+  {{ 'main.css' | asset_url | stylesheet_tag }}
+
+  <!-- FONTS =========================================== -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
   {% include 'google-fonts' %}
 
@@ -56,81 +62,7 @@
 
 <body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}" >
 
-  {% include 'header-bar' %}
-
-  <header class="site-header" role="banner">
-    <div class="wrapper">
-
-      {% if settings.nav_below_logo %}
-
-      <div class="grid--full">
-        <div class="grid__item">
-          {% if template == 'index' %}
-            <h1 class="site-header__logo{% if settings.left_aligned_logo %} large--left{% endif %}" itemscope itemtype="http://schema.org/Organization">
-          {% else %}
-            <div class="h1 site-header__logo{% if settings.left_aligned_logo %} large--left{% endif %}" itemscope itemtype="http://schema.org/Organization">
-          {% endif %}
-            {% if settings.logo_use_image %}
-              <a href="/" class="logo-wrapper" itemprop="url">
-                <img src="{{ 'logo.png' | asset_url }}" alt="{{ shop.name }}" itemprop="logo">
-              </a>
-            {% else %}
-              <a href="/" itemprop="url">{{ shop.name }}</a>
-            {% endif %}
-          {% if template == 'index' %}
-            </h1>
-          {% else %}
-            </div>
-          {% endif %}
-          {% if settings.header_message != blank %}
-            <p class="header-message large--hide">
-              <small>{{ settings.header_message }}</small>
-            </p>
-          {% endif %}
-        </div>
-      </div>
-      <div class="grid--full medium-down--hide">
-        <div class="grid__item">
-          {% include 'site-nav' %}
-        </div>
-      </div>
-
-      {% else %}
-
-      <div class="grid--full large--display-table">
-        <div class="grid__item large--one-third large--display-table-cell">
-          {% if template == 'index' %}
-            <h1 class="site-header__logo large--left" itemscope itemtype="http://schema.org/Organization">
-          {% else %}
-            <div class="h1 site-header__logo large--left" itemscope itemtype="http://schema.org/Organization">
-          {% endif %}
-            {% if settings.logo_use_image %}
-              <a href="/" class="logo-wrapper" itemprop="url">
-                <img src="{{ 'logo.png' | asset_url }}" alt="{{ shop.name }}" itemprop="logo">
-              </a>
-            {% else %}
-              <a href="/" itemprop="url">{{ shop.name }}</a>
-            {% endif %}
-          {% if template == 'index' %}
-            </h1>
-          {% else %}
-            </div>
-          {% endif %}
-          {% if settings.header_message != blank %}
-            <p class="header-message large--hide">
-              <small>{{ settings.header_message }}</small>
-            </p>
-          {% endif %}
-        </div>
-        <div class="grid__item large--two-thirds large--display-table-cell medium-down--hide">
-          {% include 'site-nav' %}
-        </div>
-      </div>
-
-      {% endif %}
-
-    </div>
-  </header>
+  {% include 'jaswig-header' %}
 
   <main class="wrapper main-content" role="main">
     <div class="grid">
@@ -140,147 +72,34 @@
     </div>
   </main>
 
-  <footer class="site-footer small--text-center" role="contentinfo">
-
-    <div class="wrapper">
-
-      <div class="grid-uniform">
-
-        {% comment %}
-          Calculate the number of footer columns shown
-        {% endcomment %}
-        {% assign num_footer_columns = 0 %}
-        {% if settings.footer_blog_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-        {% if settings.footer_quicklinks_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-        {% if settings.footer_second_menu_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-        {% if settings.footer_social_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-        {% if settings.footer_contact_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-        {% if settings.footer_newsletter_enable %}
-          {% assign num_footer_columns = num_footer_columns | plus: 1 %}
-        {% endif %}
-
-        {% case num_footer_columns %}
-          {% when 0 %}
-          {% when 1 %}
-            {% assign footer_column_width = 'text-center' %}
-          {% when 2 %}
-            {% assign footer_column_width = 'large--one-half medium--one-half' %}
-          {% when 3 %}
-            {% assign footer_column_width = 'large--one-third medium--one-third' %}
-          {% when 4 %}
-            {% assign footer_column_width = 'large--one-quarter medium--one-half' %}
-          {% when 5 %}
-            {% assign footer_column_width = 'large--one-fifth medium--one-half' %}
-          {% when 6 %}
-            {% assign footer_column_width = 'large--one-sixth medium--one-half' %}
-        {% endcase %}
-
-        {% if settings.footer_blog_enable %}
-          <div class="grid__item {{ footer_column_width }} site-footer__links article">
-            <h4><a href="/blogs/{{ settings.footer_blog }}">{{ 'layout.footer.blog_title' | t }}</a></h4>
-            {% assign article = blogs[settings.footer_blog].articles.first %}
-            <p class="h5">{{ article.title | link_to: article.url }}</p>
-            {% if article.image %}
-              {% assign image_alt = article.title | escape %}
-              <p>{{ article | img_url: 'large' | img_tag: image_alt, 'article__image' | link_to: article.url }}</p>
-            {% endif %}
-            {% if article.excerpt.size > 0 %}
-            <div class="clearfix">
-              {{ article.excerpt }}
-            </div>
-            {% else %}
-            <p>{{ article.content | strip_html | truncatewords: 30 }}</p>
-            {% endif %}
+  <footer>
+    <div class="container">
+      <div class="footer-table">
+        <div class="footer-row">
+          <div class="brand">
+            <img src="{{ 'jaswig-logo-white.svg' | asset_url }}" alt="">
           </div>
-        {% endif %}
-
-        {% if settings.footer_quicklinks_enable %}
-          <div class="grid__item {{ footer_column_width }}">
-            {% unless num_footer_columns == 1 %}
-            <h4>{{ 'layout.footer.linklist_title' | t }}</h4>
-            {% endunless %}
-            <ul class="site-footer__links{% if num_footer_columns == 1 %} inline-list{% endif %}">
-              {% for link in linklists[settings.footer_quicklinks_linklist].links %}
-                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-              {% endfor %}
+          <div class="terms">
+            <ul class="list list-left">
+              <li><a href="http://www.jaswig.com/privacy">Privacy policy</a></li>
+              <li><a href="http://www.jaswig.com/terms">Terms &amp; conditions</a></li>
+              <li><a href="http://www.jaswig.com/warranty">Warranty policy</a></li>
             </ul>
           </div>
-        {% endif %}
-
-        {% if settings.footer_second_menu_enable %}
-          <div class="grid__item {{ footer_column_width }}">
-            <h4>{{ linklists[settings.footer_second_menu].title }}</h4>
-            <ul class="site-footer__links">
-              {% for link in linklists[settings.footer_second_menu].links %}
-                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-              {% endfor %}
+          <div class="social-media">
+            <ul class="list list-left">
+              <li><a href="https://www.facebook.com/jaswighq"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.instagram.com/jaswighq"><i class="fa fa-instagram"></i></a></li>
+              <li><a href="https://twitter.com/jaswighq"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.pinterest.com/jaswighq"><i class="fa fa-pinterest"></i></a></li>
+              <li><a href="https://www.youtube.com/channel/UC2CWqP7IMVS6awIUWDMf9jg"><i class="fa fa-youtube"></i></a></li>
             </ul>
           </div>
-        {% endif %}
-
-        {% if settings.footer_social_enable %}
-          <div class="grid__item {{ footer_column_width }}">
-            <h4>{{ 'layout.footer.social_title' | t }}</h4>
-              {% comment %}
-                Loop through the social network links
-              {% endcomment %}
-              {% include 'social-links' %}
-          </div>
-        {% endif %}
-
-        {% if settings.footer_contact_enable %}
-          <div class="grid__item {{ footer_column_width }}">
-            <h4>{{ 'layout.footer.contact_title' | t }}</h4>
-            <div class="rte">{{ settings.footer_contact_text }}</div>
-          </div>
-        {% endif %}
-
-        {% if settings.footer_newsletter_enable %}
-          <div class="grid__item {{ footer_column_width }}">
-            <h4>{{ 'layout.footer.newsletter_title' | t }}</h4>
-            <p>{{ 'layout.footer.newsletter_caption' | t }}</p>
-            {% include 'newsletter-form' %}
-          </div>
-        {% endif %}
+        </div>
       </div>
-
-      <hr class="hr--small hr--clear">
-
-      {% if settings.footer_show_methods_of_payment %}
-        {% unless shop.enabled_payment_types == empty %}
-        <div class="grid">
-           <div class="grid__item text-center">
-             <ul class="inline-list payment-icons">
-               {% for type in shop.enabled_payment_types %}
-                 <li>
-                   <img src="{{ type | payment_type_img_url }}">
-                 </li>
-               {% endfor %}
-             </ul>
-           </div>
-         </div>
-         {% endunless %}
-       {% endif %}
-
-       <div class="grid">
-         <div class="grid__item text-center">
-           <p class="site-footer__links">{{ 'layout.footer.copyright' | t }} &copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: '/' }}. {{ powered_by_link }}</p>
-         </div>
-       </div>
-
     </div>
-
   </footer>
+
 
   {% for i in (1..4) %}
     {% capture home_section %}home_section_{{ i }}{% endcapture %}
