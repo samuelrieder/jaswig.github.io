@@ -83,6 +83,16 @@ p,
   font-size: 16px;
   line-height: 30px;
   max-width: 800px;
+
+  strong,
+  .strong,
+  &.strong {
+    font-weight: 500;
+  }
+
+  &:not(:last-of-type) {
+    padding-bottom: 20px;
+  }
 }
 
 p.lead {
@@ -92,10 +102,6 @@ p.lead {
   line-height: 35px;
   font-weight: 300;
   margin-bottom: 40px;
-
-  strong {
-    font-weight: 500;
-  }
 }
 
 span.attention {
@@ -105,6 +111,19 @@ span.attention {
   letter-spacing: 1px;
   font-size: 11px;
   font-weight: 800;
+}
+
+span.preorder {
+  color: white;
+  background-color: $color-dark;
+  font-family: $font-secondary;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+  font-weight: 500;
+  border-radius: 2px;
+  padding: 2px 7px;
+  opacity: 0.3;
 }
 
 /* Tables */
@@ -141,7 +160,12 @@ span.attention {
 }
 
 /* Links */
-.arrow {
+a {
+  color: $color-primary;
+}
+
+.arrow,
+a.upper {
   display: block;
   color: $color-primary;
   font-family: $font-secondary;
@@ -162,10 +186,32 @@ span.attention {
   color: $color-primary + 30;
 }
 
-article a {
+.btn {
+  display: inline-block;
+  font-family: $font-secondary;
   text-decoration: none;
-  color: $color-primary;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 50px;
+  padding: 10px 20px;
+  transition: 0.3s all;
 }
+
+.btn.btn-primary {
+  background-color: $color-primary;
+  color: white;
+  box-shadow: 0px 10px 20px 0px rgba(110,72,31,0.13);
+  cursor: pointer;
+
+  &:hover {
+    background-color: $color-primary + 10;
+    box-shadow: 0px 7px 15px 0px rgba(110,72,31,0.08);
+  }
+}
+
+
 
 /* Utilities */
 .padding {
@@ -200,4 +246,9 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #ccc;
+}
+
+/* Hide modal when Vue isn't loaded yet */
+[v-cloak] {
+  display: none;
 }

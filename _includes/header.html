@@ -11,11 +11,11 @@
         </a>
       </div>
       <nav>
-        <ul>
+        <ul class="horizontal">
           {% assign pages = site.pages | sort: "position"  %}
           {% for my_page in pages %}
-            {% if my_page.title %}
-            <li>
+            {% if my_page.title and my_page.position %}
+            <li class="nav-item">
               {% if page.url == my_page.url %}
                 <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               {% else %}
@@ -24,8 +24,32 @@
             </li>
             {% endif %}
           {% endfor %}
-          <li>
+        </ul>
+        <ul class="horizontal">
+          <li class="nav-region">
             {% include region_selector.html %}
+          </li>
+          <li class="nav-hamburger">
+            <input type="checkbox" id="checkbox_toggle">
+            <label for="checkbox_toggle"><i class="fa fa-bars"></i></label>
+            <div class="nav-mobile">
+              <div class="nav-mobile-inner">
+                <ul>
+                  {% assign pages = site.pages | sort: "position"  %}
+                  {% for my_page in pages %}
+                    {% if my_page.title and my_page.position %}
+                    <li>
+                      {% if page.url == my_page.url %}
+                        <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                      {% else %}
+                        <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                      {% endif %}
+                    </li>
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
           </li>
         </ul>
       </nav>

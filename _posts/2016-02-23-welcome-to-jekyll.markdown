@@ -1,30 +1,56 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: "2016-02-23 22:10:27 +0100"
-categories: jekyll update
+title: "Why should I use a standing desk?"
+date: "2016-04-26 22:10:27 +0100"
+cover: "/images/blog/01.jpg"
+thumbnail: "/images/blog/01.jpg"
+categories: blog
 published: true
+
+shareBox: true
+shareSocial: true
+shareTagline: "A healthy standing desk that fits perfectly in your life"
+shareTaglineAction: "More info"
+shareTaglineUrl: "http://www.jaswig.com"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### Sitting all day makes you lazy… 
+
+How many hours did you sat down yesterday (yes please, do the [calculation](http://www.juststand.org/tabid/866/Default.aspx))? You might think you’re an active person, but chances are high you sit down for more than 16 hours a day and are only active for about 2-4 hours.
 <!--more-->
+I admit; I was one of those people. Only 25 years and already suffering from back and neck issues because of my horrible posture. Nope, I can’t accept living a life in pain! And those few hours at the gym didn’t solve it…
 
-This was me.
+Digging around to learn more about this “sitting disease” made me realize I’m so average! There are so many of us suffering from an unhealthy sedentary lifestyle. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Talking to Murat Dalkilinç, the guy behind two viral TED-Ed videos, made us join his mission: Helping people to move better. So… Let’s move! 
 
-Jekyll also offers powerful support for code snippets:
+[Why sitting is bad for you](http://ed.ted.com/lessons/why-sitting-is-bad-for-you-murat-dalkilinc)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[The benefits of a good posture](http://ed.ted.com/lessons/the-benefits-of-good-posture-murat-dalkinic)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Our sitting habits have become a globe concern. Even Michelle Obama took on a mission too get children moving again with her [Let’s Move campaign](http://www.letsmove.gov), hoping to help solve the obesity problem. 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Famous Crossfit couple Kelly & Juliet Starrett want to provide every public school child with a standing desk with their organisation standupkids.org. 
+
+The UK is taking it a little bit more humoristic with their “Wiggle it, Waggle it, Just don’t sit on it” [On Your Feet campaign](http://www.getbritainstanding.org).
+
+
+### Ok, maybe you’ll have to admit you sit too much… But what can a standing desk do for you?
+According to a [BBC experiment](http://www.bbc.co.uk/programmes/articles/31TVF5dHY342pN9pPgJ30rg/the-big-standing-up-experiment): “Standing only for 4 hours a day leads to the equivalent number of **calories burned** as if you'd run about 10 marathons in a year.”
+
+[When used properly](http://www.gadgetreview.com/how-to-properly-use-a-standing-desk), a standing desk can **relieve pressure on your spine**, thus alleviating neck and back pain. 
+Even [small movements](http://www.womenshealthmag.com/fitness/sedentary-lifestyle) active your **muscles** and **metabolism**, and boosts your blood flow giving more **oxygen** to your brains. It makes you more concentrated (both your waist and your attention). 
+
+You shouldn’t be standing all day either. A height-adjustable standing desk allows you to [change position](http://www.fastcompany.com/3021985/work-smart/the-science-of-posture-why-sitting-up-straight-makes-you-happier-and-more-product): the best position is the next position. So **adjust your posture** regularly and use a standing desk at your ergonomic height to keep feeling comfortable.
+
+It's simply **hard to fall asleep** when standing up – we’re no giraffes… 
+
+
+
+If you still need to convince someone, here is a summary listing research articles, media coverage and books about the sitting disease and the benefits of standing desks.
+
+Now please, do you want to get your lazy ass out of your comfortable chair* and stand up for your future?
+
+![Standing Revolution](/images/blog/02.jpg)
+
+*Use a chair as a luxury product and really enjoy when you’re sitting down… 

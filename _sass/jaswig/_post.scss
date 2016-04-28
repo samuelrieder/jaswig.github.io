@@ -23,8 +23,17 @@
 }
 
 .post-inner {
-  padding-top: 250px;
+  padding-top: 80px;
   padding-bottom: 70px;
+
+  a {
+    text-decoration: none;
+    color: $color-primary;
+  }
+
+  img {
+    width: 100%;
+  }
 }
 
 .post-title {

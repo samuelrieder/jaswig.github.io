@@ -1,62 +1,17 @@
-//
-// Region detection
-//
+$(function() {
+    $('.order-card-text').matchHeight({byRow: true});
 
-function changeRegion(region) {
-  if (window.region != region) {
-    $(document).trigger('changeRegion', region);
-  }
-  window.region = region;
-  console.log("Region:", window.region);
-}
+    $('.hero .cta').click(function() {
+        var anchor = $("#order");
+        $('html,body').animate({'scrollTop' : anchor.offset().top}, 900);
+    });
 
-$(document).on('changeRegion', function(event, region) {
-  if (region == "US") {
-    regionImage = "/images/us.png";
-    $("[data-us-content]").each(function(idx, element) {
-      $(element).html($(element).data("us-content"))
-    })
-
-    $("[data-us-link]").each(function(idx, element) {
-      $(element).attr("href", $(element).data("us-link"))
-    })
-  } else {
-    regionImage = "/images/eu.png";
-    $("[data-eu-content]").each(function(idx, element) {
-      $(element).html($(element).data("eu-content"))
-    })
-
-    $("[data-eu-link]").each(function(idx, element) {
-      $(element).attr("href", $(element).data("eu-link"))
-    })
-  }
-  $("#regionSelector").attr("src", regionImage);
-})
-
-$(document).on("ready", function() {
-  changeRegion("EU"); // Default to EU
-})
-
-function geocallback(data) {
-  country_code = data.country_code;
-  // US and CA will get the US localised version
-  if (country_code == "US" || country_code == "CA") {
-    changeRegion("US");
-  }
-}
-
-// IP in the us for testing:
-// $.get("https://freegeoip.io/json/8.8.8.8?callback=geocallback")
-$.get("https://freegeoip.io/json/?callback=geocallback")
-
-$(document).on("click", "#regionSelector", function() {
-  if (window.region == "US") {
-    newRegion = "EU";
-  } else {
-    newRegion = "US";
-  }
-  changeRegion(newRegion);
-})
+    $('.play-video').click(function (e) {
+      var video = $(this).data('video');
+      modal.openModal(video);
+      e.preventDefault();
+    });
+});
 
 //
 // Scroll desk

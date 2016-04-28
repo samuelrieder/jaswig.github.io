@@ -23,7 +23,13 @@
   color: $color-dark;
 }
 
-.blogpost-inner p {
+.blogpost-inner p,
+.blogpost-inner h1,
+.blogpost-inner h2,
+.blogpost-inner h3 {
+  font-family: $font-base;
   font-size: 14px;
   line-height: 27px;
+  color: $color-brown;
+  font-weight: 300;
 }

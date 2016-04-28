@@ -11,3 +11,10 @@
   font-weight: 400;
   font-size: 35px;
 }
+
+.quote .sign {
+  display: block;
+  font-family: $font-secondary;
+  color: rgba($color-brown, .5);
+  margin-top: 10px;
+}

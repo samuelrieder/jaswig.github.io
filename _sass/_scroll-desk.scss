@@ -1,5 +1,6 @@
 #scroll-desk-container {
-  float: right;
+  display: inline-block;
+  text-align: left;
   padding: 0 20px;
 }
 
@@ -27,17 +28,45 @@
   }
 }
 
+
 #scroll-desk-control {
   text-align: center;
-  padding-top: 10px;
-  input {
-    text-align: center;
+}
+
+#scroll-desk-control-wrapper {
+  overflow: hidden;
+  display: inline-block;
+  background-color: white;
+  box-shadow: 0px 35px 80px 14px rgba(151,139,125,0.15);
+  border-radius: 200px;
+  border: 1px solid $color-subtle;
+}
+
+#scroll-desk-down,
+#scroll-desk-up {
+  padding: 11px 14px;
+  text-align: center;
+  transition: 0.3s all;
+
+  &:hover {
+    color: white;
+    background-color: $color-primary;
   }
-  a {
-    color: #999;
+}
+
+#scroll-desk-up {
+  padding-bottom: 5px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: 1px solid $color-subtle;
+
+  &:hover {
+    border-bottom: 1px solid $color-primary - 10;
   }
-  a:hover {
-    text-decoration: none;
-    color: #888;
-  }
+}
+
+#scroll-desk-down {
+  padding-top: 5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
 }

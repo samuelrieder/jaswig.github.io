@@ -1,26 +1,55 @@
 Vue.config.delimiters = ['{', '}'];
 
-var instagram = new Vue({
-  el: '#vue-instagram',
-  data: {
-    photos: false,
+var instagramPhoto = Vue.extend({
+  props: ['photos', 'id'],
+
+  template: '<a href="http://www.instagram.com/jaswighq" :style.sync="getBackgroundImage">{photo}</a>',
+
+  data: function () {
+    return {
+      tmpPhotos: this.photos
+    }
   },
 
-  methods: {
-    getRandomPhoto: function(){
-      return Math.floor(Math.random()*this.photos.length);
+  computed: {
+    getBackgroundImage: function () {
+      return "background-image: url('"+ this.tmpPhotos[this.id] +"')"
+    }
+  }
+});
+
+var instagram = new Vue({
+  el: '#vue-instagram',
+
+  components: {
+    'instagram-photo': instagramPhoto
+  },
+
+  data: {
+    photos: null
+  },
+
+  computed: {
+    basePhotos: function () {
+      return this.photos.slice(0, 10)
+    },
+    restPhotos: function () {
+      return this.photos.slice(10)
     }
   },
 
   created: function () {
     setInterval(function(){
-      if(this.photos) {
-        this.photos.$set(
-          Math.floor(Math.random()*this.photos.length),
-          this.photos[Math.floor(Math.random()*this.photos.length)]
-        );
-      }
-    }.bind(this), 10000);
+      if(!this.photos) return false
+
+      var randomBaseId = Math.floor(Math.random()*this.basePhotos.length);
+      var randomRestId = Math.floor(Math.random()*this.restPhotos.length);
+
+      var tmpBasePhoto = this.basePhotos[randomBaseId];
+
+      this.basePhotos.$set(randomBaseId, this.restPhotos[randomRestId]);
+      this.restPhotos.$set(randomRestId, tmpBasePhoto);
+    }.bind(this), 5000);
   }
 });
 

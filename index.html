@@ -35,16 +35,13 @@ position: 1
             <div id="scroll-desk">
               <img src="/images/desk_legs.png" height="300" alt="desk legs" id="desk-legs">
               <img src="/images/desk_top.png" height="337" alt="desk legs" id="desk-top">
-              <span class="note">
-                Position <span id="scroll-desk-position-label">1</span>:
-                height <span id="scroll-desk-position-height">64</span>cm.
-              </span>
             </div>
 
             <div id="scroll-desk-control">
-              <a id="scroll-desk-down" href="javascript:void(0);">&#x25BC;</a>
-              <input type="text" id="scroll-desk-position" size="1" value="1">
-              <a id="scroll-desk-up" href="javascript:void(0);">&#x25B2;</a>
+              <div id="scroll-desk-control-wrapper">
+                <a id="scroll-desk-up" class="upper" href="javascript:void(0);">Up</a>
+                <a id="scroll-desk-down" class="upper" href="javascript:void(0);">Down</a>
+              </div>
             </div>
           </div>
         </div>
@@ -65,11 +62,11 @@ position: 1
         <div class="testimonial">
           <div class="test-avatar">
             <img src="/images/bart.png" class="test-avatar-img" alt="">
-            <a href="https://www.youtube.com/watch?v=DBvZLzV4X-g" target="_blank"><img src="/images/play-small.svg" alt="" class="test-avatar-play"></a>
+            <a href="#" class="test-avatar-play play-video" data-video="https://www.youtube.com/embed/DBvZLzV4X-g?rel=0&amp;autoplay=1&amp;showinfo=0"><img src="/images/play-small.svg" alt=""></a>
           </div>
           <div class="test-quote">
             <h3>&ldquo;This desk is perfect for an open workspace because it stimulates collaboration.&rdquo;</h3>
-            <span class="p">Tom</span>
+            <span class="p">Tom, co-working space Ajuinlei</span>
           </div>
         </div>
       </div>
@@ -77,11 +74,11 @@ position: 1
         <div class="testimonial">
           <div class="test-avatar">
             <img src="/images/nic.png" class="test-avatar-img" alt="">
-            <a href="https://www.youtube.com/watch?v=ju7fiFlduhQ" target="_blank"><img src="/images/play-small.svg" alt="" class="test-avatar-play"></a>
+            <a href="#" class="test-avatar-play play-video" data-video="https://www.youtube.com/embed/ju7fiFlduhQ?rel=0&amp;autoplay=1&amp;showinfo=0"><img src="/images/play-small.svg" alt=""></a>
           </div>
           <div class="test-quote">
             <h3>&ldquo;My little girl has finally a desk that allows her to move her whole body while she's working.&rdquo;</h3>
-            <span class="p">Nic &amp; Lila</span>
+            <span class="p">Nic &amp; Lila, homeschooling parent &amp; daughter</span>
           </div>
         </div>
       </div>
@@ -104,15 +101,16 @@ position: 1
                   <a href="#"><img src="/images/standup/first.png" alt=""></a>
                 </div>
                 <div class="order-card-text">
-                  <h3>The First StandUp</h3>
-                  <h3 class="order-card-price" data-us-content="$299" data-eu-content="€375"></h3>
-                  <p>This cute desk is your kids' buddy for play or homework. It grows with them.</p>
-                  <a href="#"
-                    class="arrow"
-                    data-us-link="https://jaswig-staging.myshopify.com/products/the-first-standup#us"
-                    data-eu-link="https://jaswig-staging.myshopify.com/products/the-first-standup#eu">
-                    Order now
-                  </a>
+                  <h3>The First StandUp <span class="preorder">Pre-order</span></h3>
+                  <h3 class="order-card-price" data-show="us">$299</h3>
+                  <h3 class="order-card-price" data-show="eu">€375</h3>
+                  <p>This cute desk is your kids’ buddy for play or homework. It grows with them. If demand is high enough, they will go into production July 15th, 2016 and will be delivered before Sept. 30th.</p>
+                  <p class="strong">
+                    Height ranges: <span data-show="us">27 – 35 inch</span><span data-show="eu">69 - 89 cm</span><br>
+                    Desktop size: <span data-show="us">17.5 x 23 inch</span><span data-show="eu">45 x 58 cm</span>
+                  </p>
+                  <a href="{{ "/products/the-first-standup" | prepend: site.shopify_us }}" class="arrow" data-show="us">Pre-order now</a>
+                  <a href="{{ "/products/the-first-standup" | prepend: site.shopify_eu }}" class="arrow" data-show="eu">Pre-order now</a>
                 </div>
               </div>
             </div>
@@ -122,15 +120,16 @@ position: 1
                   <a href="#"><img src="/images/standup/nomad.png" alt=""></a>
                 </div>
                 <div class="order-card-text">
-                  <h3>The First StandUp</h3>
-                  <h3 class="order-card-price" data-us-content="$399" data-eu-content="€449"></h3>
-                  <p>This cute desk is your kids' buddy for play or homework. It grows with them.</p>
-                  <a href="#" 
-                    class="arrow"
-                    data-us-link="https://jaswig-staging.myshopify.com/products/the-standup-creative#us"
-                    data-eu-link="https://jaswig-staging.myshopify.com/products/the-standup-creative#eu">
-                    Order now
-                  </a>
+                  <h3>The StandUp Nomad</h3>
+                  <h3 class="order-card-price" data-show="us">$399</h3>
+                  <h3 class="order-card-price" data-show="eu">€449</h3>
+                  <p>The compact desktop size allows you to take it with you: perfect for daily home activities.</p>
+                  <p class="strong">
+                    Height ranges: <span data-show="us">36.5 – 48 inch</span><span data-show="eu">93 – 122 cm</span><br>
+                    Desktop size: <span data-show="us">20 x 25.5 inch</span><span data-show="eu">50 x 65 cm</span>
+                  </p>
+                  <a href="{{ "/products/the-standup-creative" | prepend: site.shopify_us }}" class="arrow" data-show="us">Order now</a>
+                  <a href="{{ "/products/the-standup-creative" | prepend: site.shopify_eu }}" class="arrow" data-show="eu">Order now</a>
                 </div>
               </div>
             </div>
@@ -140,30 +139,21 @@ position: 1
                   <a href="#"><img src="/images/standup/worker.png" alt=""></a>
                 </div>
                 <div class="order-card-text">
-                  <h3>The First StandUp <span class="attention">extra wide</span></h3>
-                  <h3 class="order-card-price" data-us-content="$499" data-eu-content="€499"></h3>
-                  <p>This cute desk is your kids' buddy for play or homework. It grows with them.</p>
-                  <a href="#" 
-                    class="arrow"
-                    data-us-link="https://jaswig-staging.myshopify.com/products/the-standup-worker#us"
-                    data-eu-link="https://jaswig-staging.myshopify.com/products/the-standup-worker#eu">
-                    Order now
-                  </a>
+                  <h3>The StandUp Worker <span class="attention">extra wide</span></h3>
+                  <h3 class="order-card-price" data-show="us">$499</h3>
+                  <h3 class="order-card-price" data-show="eu">€499</h3>
+                  <p>Its larger desktop size makes it ideal for your creative and happy workspace.</p>
+                  <p class="strong">
+                    Height ranges: <span data-show="us">36.5 – 48 inch</span><span data-show="eu">93 – 122 cm</span><br>
+                    Desktop size: <span data-show="us">21.5 x 31.5 inch</span><span data-show="eu">55 x 80 cm</span>
+                  </p>
+                  <a href="{{ "/products/the-standup-worker" | prepend: site.shopify_us }}" class="arrow" data-show="us">Order now</a>
+                  <a href="{{ "/products/the-standup-worker" | prepend: site.shopify_eu }}" class="arrow" data-show="eu">Order now</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="quote padding">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <h2>&ldquo;a beautiful wooden standing desk which adjusts to any height and is suitable for anyone, anywhere.&rdquo;</h2>
       </div>
     </div>
   </div>
@@ -177,14 +167,25 @@ position: 1
       </div>
       <div class="col-xs-12">
         <ul class="list list-left">
-          <li><a href="#" target="_blank"><img src="images/press/destandaard.png" alt="De Standaard"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/product-hunt.jpg" alt="Product Hunt"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/today.jpg" alt="Today"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/metro.jpg" alt="Metro"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/gizmag.jpg" alt="Gizmag"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/inhabitat.jpg" alt="Inhabitat"></a></li>
-          <li><a href="#" target="_blank"><img src="images/press/fast-company.gif" alt="Fast Company"></a></li>
+          <li><a href="http://www.standaard.be/cnt/dmf20150820_01825577" target="_blank"><img src="images/press/destandaard.png" alt="De Standaard"></a></li>
+          <li><a href="http://www.producthunt.com/tech/jaswig" target="_blank"><img src="images/press/product-hunt.jpg" alt="Product Hunt"></a></li>
+          <li><a href="http://www.today.com/money/standing-desk-kids-jaswigs-standup-lets-children-sit-or-stand-t42861" target="_blank"><img src="images/press/today.jpg" alt="Today"></a></li>
+          <li><a href="http://nl.metrotime.be/2015/08/21/must-read/gentse-start-up-wil-jongeren-rechtstaand-les-laten-volgen/" target="_blank"><img src="images/press/metro.jpg" alt="Metro"></a></li>
+          <li><a href="http://www.gizmag.com/jaswig-standing-desk-kids-adults/39194/" target="_blank"><img src="images/press/gizmag.jpg" alt="Gizmag"></a></li>
+          <li><a href="http://inhabitat.com/jaswigs-standing-desk-adjusts-to-any-height-and-helps-prolong-your-life/" target="_blank"><img src="images/press/inhabitat.jpg" alt="Inhabitat"></a></li>
+          <li><a href="http://www.fastcoexist.com/3050523/world-changing-ideas/a-standing-desk-for-kids-to-help-change-sitting-culture-theres-an-adult" target="_blank"><img src="images/press/fast-company.gif" alt="Fast Company"></a></li>
         </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="quote padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>&ldquo;A beautiful wooden standing desk which adjusts to any height and is suitable for anyone, anywhere.&rdquo;</h2>
+        <span class="sign">&mdash; Inhabitat</span>
       </div>
     </div>
   </div>
@@ -200,29 +201,29 @@ position: 1
         <div class="instagram-container container">
           <div class="instagram-row">
             <div class="instagram-col">
-              <a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a>
+              <instagram-photo id="0" :photos="basePhotos"></instagram-photo>
             </div>
             <div class="instagram-col">
               <div class="instagram-row">
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
+                <div class="instagram-col-half"><instagram-photo id="1" :photos="basePhotos"></instagram-photo></div>
+                <div class="instagram-col-half"><instagram-photo id="2" :photos="basePhotos"></instagram-photo></div>
               </div>
               <div class="instagram-row">
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
+                <div class="instagram-col-half"><instagram-photo id="3" :photos="basePhotos"></instagram-photo></div>
+                <div class="instagram-col-half"><instagram-photo id="4" :photos="basePhotos"></instagram-photo></div>
               </div>
             </div>
             <div class="instagram-col">
-              <a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a>
+              <instagram-photo id="5" :photos="basePhotos"></instagram-photo>
             </div>
             <div class="instagram-col">
               <div class="instagram-row">
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
+                <div class="instagram-col-half"><instagram-photo id="6" :photos="basePhotos"></instagram-photo></div>
+                <div class="instagram-col-half"><instagram-photo id="7" :photos="basePhotos"></instagram-photo></div>
               </div>
               <div class="instagram-row">
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
-                <div class="instagram-col-half"><a href="http://www.instagram.com/jaswighq" style="background-image: url('{photos[getRandomPhoto()]}')"></a></div>
+                <div class="instagram-col-half"><instagram-photo id="8" :photos="basePhotos"></instagram-photo></div>
+                <div class="instagram-col-half"><instagram-photo id="9" :photos="basePhotos"></instagram-photo></div>
               </div>
             </div>
           </div>
@@ -235,6 +236,7 @@ position: 1
 
 <script src="http://cdnjs.cloudflare.com/ajax/libs/vue/1.0.21/vue.min.js"></script>
 <script src="{{ "/js/instagram.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/videomodal.js" | prepend: site.baseurl }}"></script>
 
 <!--
 <div id="scroll-desk-container">

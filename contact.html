@@ -31,25 +31,31 @@ position: 4
         <div class="contact-locations-people row">
           <div class="col-xs-12 col-md-6 first">
             <div class="contact-locations-person">
-              <div class="person-image">
-                <img src="/images/team/mathias.png" alt="">
-              </div>
-              <div class="person-info">
-                <h3>Mathias Ellegiers (USA)</h3>
-                <span><i class="fa fa-envelope"></i> Mathias@jaswig.com</span>
-                <span><i class="fa fa-phone"></i> +1 (330) 400.3057</span>
+              <div class="row">
+                <div class="person-image col-xs-12 col-md-4">
+                  <img src="/images/team/mathias.png" alt="">
+                </div>
+                <div class="person-info col-xs-12 col-md-8">
+                  <h3>Mathias Ellegiers (USA)</h3>
+                  <span><i class="fa fa-envelope"></i> Mathias@jaswig.com</span>
+                  <span><i class="fa fa-phone"></i> +1 (330) 400.3057</span>
+                  <span class="person-av">Phone availability: 6AM - 2PM (EST, GMT+5)</span>
+                </div>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-md-6 last">
             <div class="contact-locations-person">
-              <div class="person-image">
-                <img src="/images/team/henri.png" alt="">
-              </div>
-              <div class="person-info">
-                <h3>Henri Verheughe (Belgium)</h3>
-                <span><i class="fa fa-envelope"></i> Henri@jaswig.com</span>
-                <span><i class="fa fa-phone"></i> +32 (478) 28.78.20</span>
+              <div class="row">
+                <div class="person-image col-xs-12 col-md-4">
+                  <img src="/images/team/henri.png" alt="">
+                </div>
+                <div class="person-info col-xs-12 col-md-8">
+                  <h3>Henri Verheughe (Belgium)</h3>
+                  <span><i class="fa fa-envelope"></i> Henri@jaswig.com</span>
+                  <span><i class="fa fa-phone"></i> +32 (478) 28.78.20</span>
+                  <span class="person-av">Phone availability: 9:00h - 18:00h (CET, GMT-1)</span>
+                </div>
               </div>
             </div>
           </div>
@@ -63,7 +69,55 @@ position: 4
       <h2>For information or just to say Hello</h2>
     </div>
     <div class="col-xs-12">
-      form
+      <div class="contact-box">
+        <div class="row contact-input-group">
+          <div class="col-xs-12 col-md-4">
+            <label for="fname">Firstname *</label>
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <input type="text" id="fname">
+          </div>
+        </div>
+        <div class="row contact-input-group">
+          <div class="col-xs-12 col-md-4">
+            <label for="lname">Lastname *</label>
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <input type="text" name="lname">
+          </div>
+        </div>
+        <div class="row contact-input-group padding-below">
+          <div class="col-xs-12 col-md-4">
+            <label for="email">Email Address *</label>
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <input type="text" name="email">
+          </div>
+        </div>
+        <div class="row contact-input-group">
+          <div class="col-xs-12 col-md-4">
+            <label for="fname">Subject *</label>
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <input type="text" name="fname">
+          </div>
+        </div>
+        <div class="row contact-input-group">
+          <div class="col-xs-12 col-md-4">
+            <label for="fname">Message *</label>
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <textarea name="message" id="" cols="30" rows="10"></textarea>
+          </div>
+        </div>
+        <div class="row contact-input-group">
+          <div class="col-xs-12 col-md-4">
+          </div>
+          <div class="col-xs-12 col-md-8">
+            <a type="submit" value="Send" class="btn btn-primary">Send</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

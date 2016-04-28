@@ -15,15 +15,20 @@
 }
 
 .test-avatar-img {
+  position: relative;
   border-radius: 100px;
   height: 100px;
 }
 
 .test-avatar-play {
   position: absolute;
-  margin-top: -40px;
-  margin-left: 12px;
+  top: 27px;
+  left: 30px;
   cursor: pointer;
+}
+
+.test-avatar-play img {
+
 }
 
 .test-quote {
