@@ -39,3 +39,17 @@
 .post-title {
   color: $color-primary;
 }
+
+@media (min-width: $screen-md-min) {
+  img {
+    width: 100%;
+
+    &.medium {
+      width: 70%;
+    }
+
+    &.small {
+      width: 40%;
+    }
+  }
+}
