@@ -1,7 +1,7 @@
 $(function() {
     $('.order-card-text').matchHeight({byRow: true});
 
-    $('.hero .cta').click(function() {
+    $('.hero .cta, .mobile-content .cta').click(function() {
         var anchor = $("#order");
         $('html,body').animate({'scrollTop' : anchor.offset().top}, 900);
     });
