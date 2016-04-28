@@ -28,7 +28,7 @@ Since we really enjoyed [volunteering at Globo](http://jaswig.github.io/blog/201
 
 It's finally the time of the year: [Here](http://www.gardeningknowhow.com/ornamental/trees/willow/how-to-prune-willow-trees.htm) are some tips on how and when to prune willows. And [this link](http://eartheasy.com/grow_compost.html) gives a great overview on how to compost!
 
-![Mathias and Henri are volunteering](/images/blog/nature-mathias-henri.jpg)
+![Mathias and Henri are volunteering](/images/blog/nature-mathias-henri.jpg){:.medium}
 
 In the afternoon a young woman running came over to thank the group for the great work keeping the trails maintained. One guy from our group ran over to the flowerbed and picked a Daffodil for her. Talking about how easy it is to make people happy.
 
