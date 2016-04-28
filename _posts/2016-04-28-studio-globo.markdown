@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Act like a child when it comes to collaboration"
-date: "2016-04-28 22:10:27 +0100"
+date: "2016-04-27 22:10:27 +0100"
 cover: "/images/blog/globo-trein.jpg"
 thumbnail: "/images/blog/globo-trein.jpg"
 categories: blog
