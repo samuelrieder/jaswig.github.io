@@ -32,4 +32,3 @@ In the afternoon we visited Kuregem (the neighbourhood in Brussels where Studio 
 
 Bottom line of this adventure: The kids got out of their comfort zone, experienced and had to accept ethnical differences and they loved it! 
 We are daily going though this exercise, and can definitely learn from how accepting children are.  
-
