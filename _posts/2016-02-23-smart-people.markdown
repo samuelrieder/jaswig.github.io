@@ -14,9 +14,9 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com"
 ---
 
-##I like Smart people 
+## I like Smart people 
 
-###Einstein is one of them
+### Einstein is one of them
 
 ![GitHub Logo](/images/blog/random.gif)
 
