@@ -33,3 +33,12 @@
   color: $color-brown;
   font-weight: 300;
 }
+
+h3.blogpost-inner-title {
+  font-family: $font-secondary;
+  color: $color-dark;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 35px;
+  margin: 12px 0;
+}
