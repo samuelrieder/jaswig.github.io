@@ -45,7 +45,7 @@ You shouldn’t be standing all day either. A height-adjustable standing desk al
 
 It's simply **hard to fall asleep** when standing up – we’re no giraffes… 
 
-
+![Benefits of a JASWIG StandUp Desk](/images/blog/why-jaswig-infographic.jpg)
 
 If you still need to convince someone, here is a summary listing research articles, media coverage and books about the sitting disease and the benefits of standing desks.
 
