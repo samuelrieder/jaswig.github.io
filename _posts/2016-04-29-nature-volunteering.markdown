@@ -25,9 +25,12 @@ Our flat-packed jigsaw puzzled desk comes with a hardware bag to fit the pieces 
 
 Since we really enjoyed [volunteering at Globo](http://jaswig.github.io/blog/2016/04/26/nature-volunteering.html, we decided to organize another day. In Gent, Belgium we have a beautiful nature preserve called the [Bourgoyen](http://www.natuurpuntgent.be/de-natuur-in/natuurgebieden/bourgoyen-ossemeersen). It is managed by [Natuurpunt](http://www.natuurpuntgent.be/wie-zijn-we/voorstelling), a local non-profit that is funded by nature enthusiasts and works together with the [city of Gent](https://visit.gent.be/en/home) to keep the preserve clean. Henri and Mathias assisted a group of disabled people with cleaning pollard willows, filling the compost, and utilizing mulch in flowerbeds and hiking trails. 
 
-[Here](http://www.gardeningknowhow.com/ornamental/trees/willow/how-to-prune-willow-trees.htm) are some tips on how and when to prune willows. And [this link](http://eartheasy.com/grow_compost.html) gives a great overview on how to compost!
+It's finally the time of the year: [Here](http://www.gardeningknowhow.com/ornamental/trees/willow/how-to-prune-willow-trees.htm) are some tips on how and when to prune willows. And [this link](http://eartheasy.com/grow_compost.html) gives a great overview on how to compost!
 
 ![Mathias and Henri are volunteering](/images/blog/nature-mathias-henri.jpg)
 
+In the afternoon a young woman running came over to thank the group for the great work keeping the trails maintained. One guy from our group ran over to the flowerbed and picked a Daffodil for her. Talking about how easy it is to make people happy.
 
+It’s amazing and motivating to see how small efforts can have big impacts on people’s lives.  And how enjoyable life becomes when you add purpose to your actions. One option is embrace disabled people and support great initiatives working with them. They exist all over the world. 
+Find your local heroes and support them today. 
 
