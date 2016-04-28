@@ -2,8 +2,8 @@
 layout: post
 title: "Why should I use a standing desk?"
 date: "2016-04-26 22:10:27 +0100"
-cover: "/images/blog/why-you-should-use-a-standing-desk.jpg"
-thumbnail: "/images/blog/why-you-should-use-a-standing-desk.jpg"
+cover: "/images/blog/random.gif"
+thumbnail: "/images/blog/random.gif"
 categories: blog
 published: true
 
