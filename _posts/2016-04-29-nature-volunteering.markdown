@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Team building, improving public spaces & helping our friends with disabilities"
-date: "2016-04-28 22:10:27 +0100"
+date: "2016-04-27 22:10:27 +0100"
 cover: "/images/blog/nature-volunteering.jpg"
 thumbnail: "/images/blog/nature-volunteering.jpg"
 categories: blog
