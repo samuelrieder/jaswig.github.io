@@ -38,6 +38,10 @@ main.main-content {
   padding-bottom: 150px;
 }
 
+.jaswig-product-other {
+  margin-top: 10px;
+}
+
 @media (min-width: 992px) {
   .jaswig-product-info {
     padding-left: 80px;
