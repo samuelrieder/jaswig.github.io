@@ -3,7 +3,8 @@
   {% include head.html %}
 
   <body>
-
+    {% include ga.html %}
+    
     <div id="vue-modal">
       <div class="video-modal" v-if="modal" v-cloak>
         <div class="video-modal-background" v-on:click="closeModal"></div>
