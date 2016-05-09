@@ -1074,6 +1074,23 @@ footer .brand {
   text-align: center;
   padding-bottom: 20px; }
 
+footer .brand .site-title {
+  display: inline-block; }
+
+footer .flanders {
+  text-align: center;
+  padding: 0 30px; }
+
+footer .flanders-inner {
+  display: inline-block;
+  background-color: white;
+  border-radius: 3px;
+  padding: 0 20px;
+  line-height: 0; }
+
+footer .flanders-inner img {
+  height: 45px; }
+
 footer .brand img {
   height: 30px; }
 
@@ -1109,7 +1126,8 @@ footer .social-media {
 @media (min-width: 992px) {
   footer .brand,
   footer .terms,
-  footer .social-media {
+  footer .social-media,
+  footer .flanders {
     display: table-cell;
     vertical-align: middle; }
 
