@@ -70,5 +70,5 @@ function jsonFlickrApi(response) {
 $(document).on('ready', function() {
   window.setTimeout(function() {
     $.get("https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&user_id=140453763@N07&api_key=f0b84fba1c00631410b85b90720f52ba&format=json");
-  }, 200);
+  }, 1000);
 });
