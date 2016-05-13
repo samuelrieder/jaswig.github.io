@@ -8,12 +8,12 @@ var instagramPhoto = Vue.extend({
   data: function () {
     return {
       tmpPhotos: this.photos
-    }
+    };
   },
 
   computed: {
     getBackgroundImage: function () {
-      return "background-image: url('"+ this.tmpPhotos[this.id] +"')"
+      return "background-image: url('"+ this.tmpPhotos[this.id] +"')";
     }
   }
 });
@@ -31,16 +31,16 @@ var instagram = new Vue({
 
   computed: {
     basePhotos: function () {
-      return this.photos.slice(0, 10)
+      return this.photos.slice(0, 10);
     },
     restPhotos: function () {
-      return this.photos.slice(10)
+      return this.photos.slice(10);
     }
   },
 
   created: function () {
     setInterval(function(){
-      if(!this.photos) return false
+      if(!this.photos) return false;
 
       var randomBaseId = Math.floor(Math.random()*this.basePhotos.length);
       var randomRestId = Math.floor(Math.random()*this.restPhotos.length);
@@ -67,4 +67,8 @@ function jsonFlickrApi(response) {
 }
 
 // Fetch fotos
-$.get("https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&user_id=140453763@N07&api_key=f0b84fba1c00631410b85b90720f52ba&format=json");
+$(document).on('ready', function() {
+  window.setTimeout(function() {
+    $.get("https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&user_id=140453763@N07&api_key=f0b84fba1c00631410b85b90720f52ba&format=json");
+  }, 200);
+});
