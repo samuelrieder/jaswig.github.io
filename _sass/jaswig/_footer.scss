@@ -116,3 +116,11 @@ footer .social-media {
     text-align: right;
   }
 }
+
+// IE fix
+@media all and (-ms-high-contrast:none) {
+  footer .brand .site-title img {
+    width: 124px;
+  }
+}
+
