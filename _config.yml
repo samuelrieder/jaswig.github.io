@@ -7,11 +7,10 @@
 
 # Site settings
 title: Jaswig
-email: your-email@domain.com
+email: standup@jaswig.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Beautifully designed standing desk that is locally produced with high quality
+  wood. This standup desk is perfect for at home or in your office
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jaswig.com" # the base hostname & protocol for your site
 shopify_us: "http://us-store.jaswig.com"
