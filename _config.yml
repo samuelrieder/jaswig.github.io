@@ -16,10 +16,16 @@ url: "http://www.jaswig.com" # the base hostname & protocol for your site
 shopify_us: "http://us-store.jaswig.com"
 shopify_eu: "http://eu-store.jaswig.com"
 
+# Don't publish the shopify theme
+exclude:
+  - shopify-theme
+
 # Build settings
 markdown: kramdown
 
 # Blog settings
 excerpt_separator: <!--more-->
+
+# Gem plugins
 gems:
   - jekyll-sitemap
