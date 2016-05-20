@@ -21,3 +21,5 @@ markdown: kramdown
 
 # Blog settings
 excerpt_separator: <!--more-->
+gems:
+  - jekyll-sitemap
