@@ -63,7 +63,7 @@ Listen to your body, if something hurts you are probably not standing correct. I
 The “jigsaw puzzle” should be able to be solved in 10-15 min. It comes with a clear manual and if anything is still unclear, the Jaswig team is here to help. You can assemble the desk alone, and you don’t need any additional tool. 
 jaswig 
 
-![Flatpacked jaswig desk comes as a jigsaw puzzle](/images/blog/jigsaw puzzle.jpg ){:.medium}
+![Flatpacked jaswig desk comes as a jigsaw puzzle](/images/blog/jigsaw puzzle.jpg )
 
 ### Can the desks be disassembled?
 Yes, they are designed for disassembly. This allows you to easily take it to your next home or office in case you are moving. This also allows us to replace and refurbish a single piece if necessary.  
