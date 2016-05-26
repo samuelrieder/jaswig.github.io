@@ -21,11 +21,11 @@ The height range of the StandUp Nomad (normal and extra wide version) is 36.5 �
 Although not everyone has the same body dimensions, the desk should be perfect for people between 4’11” and 6’6” or 1.5 and 2 m. This is assuming you are standing at your desk with 90°-bend elbows. 
 
 ### Difference in desktop sizes
-Our StandUp Nomad comes with two desktop sizes.
+Our StandUp Nomad comes with two desktop sizes:
 
-- The normal version is more compact: 20 x 25.5 inch or 50 x 65 cm
+The **normal version** is more compact: 20 x 25.5 inch or 50 x 65 cm
 Perfect for working with a laptop, or reading your journal
-- The Extra Wide version: 21.5 x 31.5 inch 55 x 80 cm
+The **Extra Wide version**: 21.5 x 31.5 inch 55 x 80 cm
 Perfect for working with a laptop and a notebook, or including a monitor.
 
 ![Different Desktop Sizes](/images/blog/desktop sizes.png){:.small}
