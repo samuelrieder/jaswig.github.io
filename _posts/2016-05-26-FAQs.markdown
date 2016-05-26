@@ -22,10 +22,10 @@ Although not everyone has the same body dimensions, the desk should be perfect f
 
 ### Difference in desktop sizes
 Our StandUp Nomad comes with two desktop sizes.
-The normal version is more compact: 20 x 25.5 inch or 50 x 65 cm
+1. The normal version is more compact: 20 x 25.5 inch or 50 x 65 cm
 Perfect for working with a laptop, or reading your journal
 
-The Extra Wide version: 21.5 x 31.5 inch 55 x 80 cm
+2. The Extra Wide version: 21.5 x 31.5 inch 55 x 80 cm
 Perfect for working with a laptop and a notebook, or including a monitor.
 
 ![Different Desktop Sizes](/images/blog/desktop sizes.png){:.small}
@@ -36,7 +36,6 @@ The surface you need for putting the desk is the width of the desktop (depends o
 ### How do I use my standing desk?
 
 **What is the desk used for?**
-
 The StandUp can be used for individual work: e.g. responding to e-mails, making phone calls while having to write notes (standing up gives more energy in your voice), and heavy thinking (standing can help to be more focused). 
 
 The StandUp can mediate collaboration: Have a standing meeting around the StandUp or a more active brainstorming session, like the design team at [Balance, Inc.](http://www.balanceinc.com)
