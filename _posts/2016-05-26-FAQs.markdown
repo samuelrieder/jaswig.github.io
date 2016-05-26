@@ -35,7 +35,7 @@ The surface you need for putting the desk is the width of the desktop (depends o
 
 ### How do I use my standing desk?
 
-#### What is the desk used for? 
+**What is the desk used for?**
 The StandUp can be used for individual work: e.g. responding to e-mails, making phone calls while having to write notes (standing up gives more energy in your voice), and heavy thinking (standing can help to be more focused). 
 
 The StandUp can mediate collaboration: Have a standing meeting around the StandUp or a more active brainstorming session, like the design team at [Balance, Inc.](http://www.balanceinc.com)
@@ -46,15 +46,15 @@ It is also great for daily home activities like reading your journal or a book, 
 During pitching events we realized that the ease of adjusting its height makes it great as a presenter stage. No need to bend forward awkwardly. 
 And last but not least, the StandUp can be used for fun. We use it daily for our [ping-pong challenge}(https://www.youtube.com/watch?v=bNAKY009ljc).
 
-#### Placement
+**Placement**
 The StandUp is compact and lightweight, so you can easily replace it.
 If you use it for work, we recommend placing it close to an electric plug so you can easily charge your electronics while used at the desk.
 Placing it close to a window makes it more pleasant to use it thanks to natural light and fresh air when needed.
 
-#### Standing time 
+**Standing time**
 If you just start using a standing desk we recommend increasing your standing time in small steps: e.g. 30 min standing, 30 min sitting. The more you stand, the more your muscles will get used to it, allowing you to stand longer. However, you need to keep changing your postures: Never stand completely straight for long hours at once. Change from standing to sitting, and change your body weight while standing by using the footrest. 
 
-#### Ergonomics 
+**Ergonomics**
 Listen to your body, if something hurts you are probably not standing correct. If you mainly use the desk for computer work, we recommend using a laptop stand and external keyboard and mouse. Use something soft to stand on: an anti-fatigue mat in combination with good shoes. Don’t stand still; change posture often. Make sure to rest your arms regularly, they weigh 18% of your body weight and are an important factor leading to neck and back pain.
 
 ![How to use a jaswig standing desk correctly](/images/blog/ergonomics.jpg){:.medium}
