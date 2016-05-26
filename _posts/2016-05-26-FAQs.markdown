@@ -13,6 +13,7 @@ shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com"
 ---
+
 ### What is the size range of the desk and how tall should I be?
 
 The height range of the StandUp Nomad (normal and extra wide version) is 36.5 – 48 inch or 93 – 122 cm. The height can be [manually adjusted](https://www.youtube.com/watch?v=ey0lu2gvmB4) with 9 increments, each one of approx. 1.3” or 3.2 cm. No need for pumps or electricity. 
