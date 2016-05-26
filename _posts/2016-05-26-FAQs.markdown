@@ -38,7 +38,7 @@ The StandUp can be used for individual work: e.g. responding to e-mails, making 
 
 The StandUp can mediate collaboration: Have a standing meeting around the StandUp or a more active brainstorming session, like the design team at [Balance, Inc.](http://www.balanceinc.com)
 
-![Active brainstorming at Balance](/images/blog/balance.jpg){:.medium}
+![Active brainstorming at Balance](/images/blog/balance.jpg){:.small}
 
 It is also great for daily home activities like reading your journal or a book, filling in a Sudoku, cutting your vegetables, or as a high-table for presenting your snacks during a party. 
 During pitching events we realized that the ease of adjusting its height makes it great as a presenter stage. No need to bend forward awkwardly. 
