@@ -22,10 +22,13 @@ Although not everyone has the same body dimensions, the desk should be perfect f
 
 ### Difference in desktop sizes
 Our StandUp Nomad comes with two desktop sizes.
+
 The normal version is more compact: 20 x 25.5 inch or 50 x 65 cm
+
 Perfect for working with a laptop, or reading your journal
 
 The Extra Wide version: 21.5 x 31.5 inch 55 x 80 cm
+
 Perfect for working with a laptop and a notebook, or including a monitor.
 
 ![Different Desktop Sizes](/images/blog/desktop sizes.png){:.medium}
@@ -36,6 +39,7 @@ The surface you need for putting the desk is the width of the desktop (depends o
 ### How do I use my standing desk?
 
 **What is the desk used for?**
+
 The StandUp can be used for individual work: e.g. responding to e-mails, making phone calls while having to write notes (standing up gives more energy in your voice), and heavy thinking (standing can help to be more focused). 
 
 The StandUp can mediate collaboration: Have a standing meeting around the StandUp or a more active brainstorming session, like the design team at [Balance, Inc.](http://www.balanceinc.com)
@@ -47,14 +51,17 @@ During pitching events we realized that the ease of adjusting its height makes i
 And last but not least, the StandUp can be used for fun. We use it daily for our [ping-pong challenge}(https://www.youtube.com/watch?v=bNAKY009ljc).
 
 **Placement**
+
 The StandUp is compact and lightweight, so you can easily replace it.
 If you use it for work, we recommend placing it close to an electric plug so you can easily charge your electronics while used at the desk.
 Placing it close to a window makes it more pleasant to use it thanks to natural light and fresh air when needed.
 
 **Standing time**
+
 If you just start using a standing desk we recommend increasing your standing time in small steps: e.g. 30 min standing, 30 min sitting. The more you stand, the more your muscles will get used to it, allowing you to stand longer. However, you need to keep changing your postures: Never stand completely straight for long hours at once. Change from standing to sitting, and change your body weight while standing by using the footrest. 
 
 **Ergonomics**
+
 Listen to your body, if something hurts you are probably not standing correct. If you mainly use the desk for computer work, we recommend using a laptop stand and external keyboard and mouse. Use something soft to stand on: an anti-fatigue mat in combination with good shoes. Don’t stand still; change posture often. Make sure to rest your arms regularly, they weigh 18% of your body weight and are an important factor leading to neck and back pain.
 
 ![How to use a jaswig standing desk correctly](/images/blog/ergonomics.jpg){:.medium}
@@ -63,7 +70,7 @@ Listen to your body, if something hurts you are probably not standing correct. I
 The “jigsaw puzzle” should be able to be solved in 10-15 min. It comes with a clear manual and if anything is still unclear, the Jaswig team is here to help. You can assemble the desk alone, and you don’t need any additional tool. 
 jaswig 
 
-![Flatpacked jaswig desk comes as a jigsaw puzzle](/images/blog/jigsaw puzzle.jpg )
+![Flatpacked jaswig desk comes as a jigsaw puzzle](/images/blog/jaswig jigsaw puzzle.jpg)
 
 ### Can the desks be disassembled?
 Yes, they are designed for disassembly. This allows you to easily take it to your next home or office in case you are moving. This also allows us to replace and refurbish a single piece if necessary.  
