@@ -28,7 +28,7 @@ Perfect for working with a laptop, or reading your journal
 The Extra Wide version: 21.5 x 31.5 inch 55 x 80 cm
 Perfect for working with a laptop and a notebook, or including a monitor.
 
-![Different Desktop Sizes](/images/blog/desktop sizes.png){:.medium}
+![Different Desktop Sizes](/images/blog/desktop sizes.png){:.small}
 
 ### What is the floor space I need to put the desk?
 The surface you need for putting the desk is the width of the desktop (depends on the size you chose) and a depth of 2 ft or 61 cm. 
