@@ -23,10 +23,10 @@ Although not everyone has the same body dimensions, the desk should be perfect f
 ### Difference in desktop sizes
 Our StandUp Nomad comes with two desktop sizes:
 
-The **normal version** is more compact: 20 x 25.5 inch or 50 x 65 cm
+The **normal version** is more compact: 20 x 25.5 inch or 50 x 65 cm  
 Perfect for working with a laptop, or reading your journal
 
-The **Extra Wide version**: 21.5 x 31.5 inch 55 x 80 cm
+The **Extra Wide version**: 21.5 x 31.5 inch 55 x 80 cm  
 Perfect for working with a laptop and a notebook, or including a monitor.
 
 ![Different Desktop Sizes](/images/blog/desktop sizes.png){:.small}
