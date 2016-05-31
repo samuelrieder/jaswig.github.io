@@ -7,17 +7,12 @@
 {% include_relative region.js %}
 {% include_relative videomodal.js %}
 
-$(function() {
-    $('.order-card-text').matchHeight({byRow: true});
+$(document).on('ready', function() {
+  $('.order-card-text').matchHeight({byRow: true});
+});
 
-    $('.hero .cta, .mobile-content .cta').click(function() {
-        var anchor = $("#order");
-        $('html,body').animate({'scrollTop' : anchor.offset().top}, 900);
-    });
-
-    $('.play-video').click(function (e) {
-      var video = $(this).data('video');
-      modal.openModal(video);
-      e.preventDefault();
-    });
+$(document).on('click', '.hero .cta, .mobile-content .cta', function(event) {
+  event.preventDefault();
+  var anchor = $("#order");
+  $('html,body').animate({'scrollTop' : anchor.offset().top}, 900);
 });
