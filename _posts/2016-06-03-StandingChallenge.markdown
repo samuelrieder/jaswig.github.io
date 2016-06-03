@@ -30,4 +30,4 @@ Because it is not easy to undo a habit, we want to help you. We will remember yo
 We are excited that you want to join our standing revolution. [Download your outstanding June calendar here](/images/blog/outstandingjune.pdf). Share your successes, pains, feelings, tips & trics into the world using #StandingRevolution.
 
 Don’t let habits overrule your life and make you numb.  
-Let’s turn the [power of habits}(http://charlesduhigg.com/the-power-of-habit/) into your own advantage! 
+Let’s turn the [power of habits](http://charlesduhigg.com/the-power-of-habit/) into your own advantage! 
