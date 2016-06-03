@@ -3,7 +3,7 @@ layout: post
 title: "Start standing Strong"
 date: "2016-06-02 20:10:27 +0100"
 cover: "/images/blog/Runner.jpg"
-thumbnail: "/images/Runner.jpg"
+thumbnail: "/images/blog/Runner.jpg"
 categories: blog
 published: true
 
