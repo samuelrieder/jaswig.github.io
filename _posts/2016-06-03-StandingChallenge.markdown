@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start standing Strong"
-date: "2016-06-03 20:10:27 +0100"
+date: "2016-06-02 20:10:27 +0100"
 cover: "/images/blog/runner.jpg"
 thumbnail: "/images/runner.jpg"
 categories: blog
