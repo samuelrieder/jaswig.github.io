@@ -16,9 +16,12 @@ shareTaglineUrl: "http://www.jaswig.com"
 
 ## Start Standing Strong
 
-You are likely sitting when reading this. Why? Because you were sitting last hour, and were sitting yesterday and the day before. Our lives are dominated by patterns, or to put a human term on it: Habits. 
-Habits can be good: it allows us to follow a path without needing to spend much energy. Imagine every single thing you did would require as much brainpower and courage as doing something for the first time. Instead, your body gets used to things, and starts doing it automatically. It’s turning in “energy efficient” mode. It’s been proven neurologically. And our pattern is to trust scientists. So we do. 
-If you start doing things without thinking about it, it can save you energy or brainpower, but unfortunately it also takes away the emotions you felt the very first time. Imagine you wouldn’t enjoy someone smiling at you. Or you don’t notice someone saying hi to you in the morning. Or you didn’t feel flattered when someone gave you a compliment. Or you stopped tasting the taste of chocolate. What a sad world… 
+You are likely sitting when reading this. Why? Because you were sitting last hour, and were sitting yesterday and the day before. Our lives are dominated by patterns, or to put a human term on it: Habits.  
+
+Habits can be good: it allows us to follow a path without needing to spend much energy. Imagine every single thing you did would require as much brainpower and courage as doing something for the first time. Instead, your body gets used to things, and starts doing it automatically. It’s turning in “energy efficient” mode. It’s been proven neurologically. And our pattern is to trust scientists. So we do.  
+
+If you start doing things without thinking about it, it can save you energy or brainpower, but unfortunately it also takes away the emotions you felt the very first time. Imagine you wouldn’t enjoy someone smiling at you. Or you don’t notice someone saying hi to you in the morning. Or you didn’t feel flattered when someone gave you a compliment. Or you stopped tasting the taste of chocolate. What a sad world…  
+
 Well, I’m afraid I have to confess of being guilty of all these things happening to me. Days pass by emotionless; life is rushing by unnoticed. 
 
 When I started to think about of how many hours I was spending sitting, I started to become aware of so many other things. I learned how to listen to my body again, to notice things around me more deliberately, and to appreciate the feeling of my toothbrush cleaning my teeth. Things I did at first, but had forgotten. 
