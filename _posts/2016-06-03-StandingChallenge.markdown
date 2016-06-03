@@ -17,6 +17,7 @@ shareTaglineUrl: "http://www.jaswig.com"
 ## Start Standing Strong
 
 You are likely sitting when reading this. Why? Because you were sitting last hour, and were sitting yesterday and the day before. Our lives are dominated by patterns, or to put a human term on it: Habits.  
+<!--more-->
 
 Habits can be good: it allows us to follow a path without needing to spend much energy. Imagine every single thing you did would require as much brainpower and courage as doing something for the first time. Instead, your body gets used to things, and starts doing it automatically. It’s turning in “energy efficient” mode. It’s been proven neurologically. And our pattern is to trust scientists. So we do.  
 
