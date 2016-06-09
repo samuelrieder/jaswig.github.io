@@ -876,6 +876,9 @@ a.upper {
 .alignc {
   text-align: center; }
 
+.c-primary {
+  color: #F68F1F; }
+
 /* Html, body */
 html,
 body {
@@ -1148,6 +1151,9 @@ footer .social-media {
 
   footer .social-media {
     text-align: right; } }
+@media all and (-ms-high-contrast: none) {
+  footer .brand .site-title img {
+    width: 124px; } }
 header {
   padding-top: 10px; }
 
@@ -1266,6 +1272,9 @@ header input[type=checkbox] {
 
   .mobile-nav {
     display: none !important; } }
+@media all and (-ms-high-contrast: none) {
+  header .brand .site-title img {
+    width: 100%; } }
 .hero {
   text-align: center; }
 
