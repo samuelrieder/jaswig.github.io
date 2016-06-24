@@ -14,7 +14,7 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com"
 ---
 
-## Standing challenge
+### Standing challenge
 
 You are likely sitting when reading this. Why? Because you were sitting last hour, and were sitting yesterday and the day before. Our lives are dominated by patterns, or to put a human term on it: Habits.  
 <!--more-->
