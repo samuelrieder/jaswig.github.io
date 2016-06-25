@@ -19,7 +19,7 @@ shareTaglineUrl: "http://www.jaswig.com"
 Our philosophy is that sitting is a luxury, so you should be sitting well. You need to feel comfortable when sitting…
 <!--more-->
 
-![sitting is a luxury](/images/blog/happysitting.jpg){:.medium}
+![sitting is a luxury](/images/blog/happysitting.jpg){:.small}
 
 We did a market research to find the best stools that work well with height-adjustable standing desks, and are happy to share what we’ve learned. Unfortunately we were only able to test half of them (nicely given to us) but as we want to be fair in our judgment, we won’t tell you which ones. So not all of them have been tested on comfort.
 
@@ -40,7 +40,7 @@ Overall, we found lots of funky, crappy, and threatening stools. Luckily, some o
 
 ### Move by Varier  
 
-![Move seat by Varier](/images/blog/variermove.jpg){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Move seat by Varier](/images/blog/variermove.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 This beautiful looking stool has a very comfortable seat and allows for a range of motions. It is manufactured in Poland using environmentally friendly materials, which are sourced locally and meet sustainable standards – read more. Varier, headquartered in Norway, has high ethical and environmental practices and has a culture to turn profits into value for future generations. Interesting to know, Varier has been formed out of the “Movement by Stokke” (best known for their Tripp Trapp chair) explaining the simplicity and user-friendliness of the design and its great price-quality.  
 
 Different models:
@@ -56,11 +56,11 @@ Price: From €399 up to €629
 
 ### Focal Upright seating series: Mogo – Pivot – Mobis – Locus 
 
-![Focal Upright seating series](/images/blog/focalpivot.jpg){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Focal Upright seating series](/images/blog/focalpivot.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Focal Upright positions itself in ergonomic office furniture, making their studies available online. Their seats indeed score very high on ergonomics, but this goes with a bit of compromise in the details of design. According to them, the perfect posture for your body is a 135° leaning posture, which is supported with their seats. Their most affordable model, the Mogo seat, is the most simple of all the stools we’ve seen, and its very mobile. Their most expensive version, the locus seat, includes a nicely integrated anti-fatigue mat.
 
-![Mogo seat by Focal Upright](/images/blog/focalmogo.jpg){:.medium} ![Locus seat by Focal Upright](/images/blog/ focallocus.jpg){:.medium}
+![Mogo seat by Focal Upright](/images/blog/focalmogo.jpg){:.small} ![Locus seat by Focal Upright](/images/blog/focallocus.jpg){:.small}
 
 The seat parts are sourced in Germany and China, and assembled in Rhode Island. Material spec lists are available for each product on their website. 
 The seats come with different color options and prices range from $99 to $715. A nice comparison list to find your perfect fit is available on their website.
@@ -68,7 +68,7 @@ The seats come with different color options and prices range from $99 to $715. A
 
 ### The Muvman sit-stand stool by Aeris 
 
-![The Muvman sit-stand stool by Aeris](/images/blog/aerismuvman.png){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![The Muvman sit-stand stool by Aeris](/images/blog/aerismuvman.png){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 On first sight the Muvman seems similar to Focal’s Mobis seat, with the price difference of $200 more. However, the Muvman has some important features that make it even more ergonomic: it has a handle bar to carry it around, and it has a unique seat technology and cushioning which gives way to body pressure and thus ensures free blood circulation and a pleasant seat climate. The Muvman also makes a clear statement in design: stylish, elegant, and distinctive. 
 The seats are manufactured in Horgau, Germany, and the product specs are available here and here (more material details). Translated from their website: ”Aeris products are durable, reparable, practically 100% recyclable and of natural ergonomic excellence.”
@@ -77,20 +77,20 @@ The base (Glass-fibre reinforced polyamide, coated) comes in black and grey, and
 
 ### Thread stool family by Coordination  
 
-![Thread stool family by Coordination](/images/blog/coordinationthread.jpg){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Thread stool family by Coordination](/images/blog/coordinationthread.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 This one is for design lovers! Having these stools in your office is a clear fashion statement. Surprisingly, they also score very high on the ecofriendly scale, and can be proud about their Green Product Award 2014‘.The steel frames are hard-soldered by one of the last remaining European bicycle manufacturers. All woodwork is done by a third-generation family enterprise in the south of Germany established in 1946. Finally, the stools are assembled in Berlin. Unfortunately great design comes with a price; prices start from €545. 
 
 
 ### The stand-up by Wilkhahn
 
-![The stand-up by Wilkhahn](/images/blog/wilkhahnstandup.jpg){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![The stand-up by Wilkhahn](/images/blog/wilkhahnstandup.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Actually, these colorful, cheerful and eye-catching objects are even more a fashion statement. However, they score better on ergonomics, as they support a leaning posture thanks to their 50° angle, rather than a normal sitting position. The hollow body is made from expanded polypropylene and the base from black, anti-slip plastic. The fabrics comes in 5 colors: black, red, orange, green, and blue. They come with a strap, so you can easily carry them around for a more flexible way of working. The standups are 67 cm/26.4 inch, and cost €251.
 
 ### The HiLo by Knoll
 
-![The HiLo by Knoll](/images/blog/knollhilo.jpg){:.medium}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![The HiLo by Knoll](/images/blog/knollhilo.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 This cool looking pogo stick is the newest and creates a refreshing addition to our favorite stools list. The first prototypes debuted at NeoCon on June 14th in Chicago, with the expectation of having the product available in the fall of this year. The seat is a perfect interplay between fun and functional. Keep an eye out to be the first one to get the HiLo into your (home) office!
 
@@ -99,5 +99,5 @@ Although we believe sitting shouldn’t be the standard, we do believe that stoo
 We’d love to hear from you if you have been using one of these listed here, or if we missed one that you are particularly happy with. 
 Happy stand-sitting! 
 
-![Everyone loves sitting](/images/blog/piglovessitting.jpg){:.medium}
+![Everyone loves sitting](/images/blog/piglovessitting.jpg){:.small}
 
