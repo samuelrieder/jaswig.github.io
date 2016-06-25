@@ -5,7 +5,7 @@ date: "2016-06-21 06:10:27 +0100"
 cover: "/images/blog/stoollist.jpg"
 thumbnail: "/images/blog/stoollist.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
@@ -23,24 +23,25 @@ Our philosophy is that sitting is a luxury, so you should be sitting well. You n
 
 We did a market research to find the best stools that work well with height-adjustable standing desks, and are happy to share what we’ve learned. Unfortunately we were only able to test half of them (nicely given to us) but as we want to be fair in our judgment, we won’t tell you which ones. So not all of them have been tested on comfort.
 
-The way we did our evaluation:
-Step 1: Binge Google: find every possible stool 
-Step 2: Remove the most hideous ones 
+The way we did our evaluation:  
+Step 1: Binge Google: find every possible stool  
+Step 2: Remove the most hideous ones   
 Step 3: Learn more about criteria important to us 
-•	Materials used
-•	Manufacturing location
-•	Corporate social responsibility
-•	Customer service
-•	Price
-Step 4: Send out e-mails to top 10 to test their customer service
+*	Materials used
+*	Manufacturing location
+*	Corporate social responsibility
+*	Customer service
+*	Price  
+Step 4: Send out e-mails to top 10 to test their customer service  
 Step 5: Choose top 5
+
 
 Overall, we found lots of funky, crappy, and threatening stools. Luckily, some of them actually seemed to fit our philosophy of “luxury product”. In general it was very hard to find out where the stools were manufactured and the material specs were not easily accessible. Our e-mails asking more info about materials and manufacturing wasn’t ignored: 8 out of 10 companies responded within 4 days, with Aeris as a winner who responded the next day.
 
 
 ### Move by Varier  
 
-![Move seat by Varier](/images/blog/variermove.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Move seat by Varier](/images/blog/variermove.jpg){:.small}{:style="float: left"}
 This beautiful looking stool has a very comfortable seat and allows for a range of motions. It is manufactured in Poland using environmentally friendly materials, which are sourced locally and meet sustainable standards – read more. Varier, headquartered in Norway, has high ethical and environmental practices and has a culture to turn profits into value for future generations. Interesting to know, Varier has been formed out of the “Movement by Stokke” (best known for their Tripp Trapp chair) explaining the simplicity and user-friendliness of the design and its great price-quality.  
 
 Different models:
