@@ -26,12 +26,13 @@ We did a market research to find the best stools that work well with height-adju
 The way we did our evaluation:  
 Step 1: Binge Google: find every possible stool  
 Step 2: Remove the most hideous ones   
-Step 3: Learn more about criteria important to us
-*	Materials used
-*	Manufacturing location
-*	Corporate social responsibility
-*	Customer service
-*	Price
+Step 3: Learn more about criteria important to us  
+
+1. Materials used
+2. Manufacturing location
+3. Corporate social responsibility
+4. Customer service
+5. Price  
 
 Step 4: Send out e-mails to top 10 to test their customer service  
 Step 5: Choose top 5
@@ -42,7 +43,7 @@ Overall, we found lots of funky, crappy, and threatening stools. Luckily, some o
 
 ### Move by Varier  
 
-![Move seat by Varier](/images/blog/variermove.jpg){:.small}{:style="float: left ;margin-right: 10 px;margin-top: 7px;"}
+![Move seat by Varier](/images/blog/variermove.jpg){:.small}{:style="float: left ;margin-right: 100 px;margin-top: 7px;"}
 This beautiful looking stool has a very comfortable seat and allows for a range of motions. It is manufactured in Poland using environmentally friendly materials, which are sourced locally and meet sustainable standards – read more. Varier, headquartered in Norway, has high ethical and environmental practices and has a culture to turn profits into value for future generations. Interesting to know, Varier has been formed out of the “Movement by Stokke” (best known for their Tripp Trapp chair) explaining the simplicity and user-friendliness of the design and its great price-quality.  
 
 Different models:
