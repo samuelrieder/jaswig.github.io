@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which stools work well with my standing desk?"
-date: "2016-06-21 06:10:27 +0100"
+date: "2016-06-27 06:10:27 +0100"
 cover: "/images/blog/stoollist.jpg"
 thumbnail: "/images/blog/stoollist.jpg"
 categories: blog
@@ -87,8 +87,8 @@ Actually, these colorful, cheerful and eye-catching objects are even more a fash
 Although we believe sitting shouldn’t be the standard, we do believe that stools need to perform above our current standards! Hopefully this list helps you find your perfect seat, so you can enjoy working optimally at your standing desk. 
 
 We’d love to hear from you if you have been using one of these listed here, or if we missed one that you are particularly happy with.  
-
+Happy stand-sitting!  
 ![Everyone loves sitting](/images/blog/piglovessitting.jpg){:.small}  
 
-Happy stand-sitting!
+
 
