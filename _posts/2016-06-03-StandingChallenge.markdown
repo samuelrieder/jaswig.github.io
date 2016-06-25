@@ -5,7 +5,7 @@ date: "2016-06-02 20:10:27 +0100"
 cover: "/images/blog/runner.jpg"
 thumbnail: "/images/blog/runner.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
