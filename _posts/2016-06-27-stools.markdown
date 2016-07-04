@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which stools work well with my standing desk?"
-date: "2016-06-27 06:10:27 +0100"
+date: "2016-06-25 20:10:27 +0100"
 cover: "/images/blog/stoollist.jpg"
 thumbnail: "/images/blog/stoollist.jpg"
 categories: blog
