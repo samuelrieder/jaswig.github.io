@@ -62,6 +62,6 @@ There are hundreds of options to introduce a more inclusive “management” tec
 
 Autonomy also reflects the space where people work and the rules at those places. A [study of Stanford University](https://www.gsb.stanford.edu/insights/researchers-flexibility-may-be-key-increased-productivity) showed that if people are granted the chance to work from where ever they want (co-working space, home office, other company) they become happier and it gives them a performance boost. 
 
-Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings [(why not stand up while meeting?)]( http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17).
+Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings ([why not stand up while meeting?]( http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17)).
 
 [Watch us](https://www.youtube.com/watch?v=83UODs4TXcI) standing at our prototype standup meeting table, made out of one single plate of bamboo!
