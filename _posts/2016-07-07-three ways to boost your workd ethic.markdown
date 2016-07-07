@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Three ways to boost our work ethic"
+date: "2016-07-07 20:10:27 +0100"
+cover: "/images/blog/Love for Nature.jpg"
+thumbnail: "/images/blog/Love for Nature.jpg"
+categories: blog
+published: false
+
+shareBox: true
+shareSocial: true
+shareTagline: "A healthy standing desk that fits perfectly in your life"
+shareTaglineAction: "More info"
+shareTaglineUrl: "http://www.jaswig.com/2016-07-07-three ways to boost your workd ethic.html"
+---
+
+### Tips for work ethic improvement
+
+A big portion of our lives is devoted to work. And work is done in offices. But the meaning of an “office” is changing in a time where people are craving for flexibility, health and happiness. 
+<!--more-->
+
+![Happy Office](/images/blog/Happy Office 1.jpg){:.small}
+
+At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces [(this one is our ultimate favourite)](https://www.thesurfoffice.com/) in a cubicle or if  “lucky” in a room of their company, at home, in the airport, train, etc… Flexibility is the keyword. Inspiration about beautiful workspaces can be found on our Pinterest page. 
+
+Our work environment and ethic is influenced by a lot of factors. Our managers, office design, colleagues, personal health, family situation, etc… They are all interrelated and make up a very complex reality. Nevertheless, there are always a few things we can do to cheer up our environment and build everything around us to strive for a happy working life (I will only discuss a few topics so let us know your thoughts if you missed something).
+
+### Impact of Nature inspired design
+
+People have a preprogramed preference for natural elements. Philosopher Yannick Joye from Ghent University, Belgium devoted his PhD to this subject (. Giving us some pretty interesting insights. It turns out that our brain has specific modules for handling natural and non-natural stimuli that could explain us the [biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis) or the love of living systems. 
+
+![Love for Nature](/images/blog/Love for Nature.jpg){:.small}
+
+Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM cool video fractals). Fractals are patterns with a certain repetitiveness that displays at every scale and thus showcase an infinite amount of detail. Joye continues his argument that fractal patterns have a stress reducing and aesthetic impact on human beings and thus promote well-being. 
+
+**Introducing these forms can be done in several ways:**
+- Introduce fractal forms in architecture [(examples)](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/)
+- Support grass root organisations that preserve nature outside and inside the city 
+- Regularly spend time in nature
+
+**As John Muir would say:**
+
+*"Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. – John Muir -"*
+
+**Give yourself and others the space to slow down**
+
+Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([This article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes this nicely. 
+
+![Slow it Down](/images/blog/Slow it down.jpg){:.small}
+
+However, our busy lives are actually leading to stressful unproductive lives and work environments. 
+From now on, actively take a step back from time to time ([This](http://www.kikki-k.com/hourglass-pause) will help to take a pause.  It will increase happiness and boost creativity. You can also take a walk in the park or have a walking meeting.
+
+**Work towards Autonomy**
+
+People love to have a certain amount of freedom and autonomy. The pressure to be present just for the sake of being present is something that is out-dated and outright dangerous when thinking about the millennials that are flooding the labour market. 
+
+Freedom and autonomy also reflects in the way people are included in certain processes and decisions. We have to try and give everyone in the organisation a voice so that creativity keeps flowing. This doesn’t mean everything should become unorganized and untargeted. 
+
+There are hundreds of options to introduce a more inclusive “management” technique. Books related to this topic include Reinventing Organizations by Frederic Laloux and Holacracy by Brain Robertson. A nice blog post about this subject can be found [here](https://medium.com/creative-order/beyond-hierarchy-holacracy-truly-responsive-organisations-love-authority-18e659d70297#.hk9a9y161).
+
+![Holacracy Infographic](/images/blog/Holacracy Infographic.jpg){:.small}
+
+Autonomy also reflects the space where people work and the rules at those places. A [study of Stanford University](https://www.gsb.stanford.edu/insights/researchers-flexibility-may-be-key-increased-productivity) showed that if people are granted the chance to work from where ever they want (co-working space, home office, other company) they become happier and it gives them a performance boost. 
+
+Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings (why not stand up? http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17) or is it just a psychological effect? 
+
+[Watch us](https://www.youtube.com/watch?v=83UODs4TXcI) standing at our prototype standup meeting table, made out of one single plate of bamboo!
