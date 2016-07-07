@@ -44,7 +44,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 
 **Give yourself and others the space to slow down**
 
-Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([This article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes this nicely. 
+Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([this article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes "the busy phenomenon" nicely. 
 
 ![Slow it Down](/images/blog/Slow it down.jpg){:.small}
 
@@ -63,6 +63,6 @@ There are hundreds of options to introduce a more inclusive “management” tec
 
 Autonomy also reflects the space where people work and the rules at those places. A [study of Stanford University](https://www.gsb.stanford.edu/insights/researchers-flexibility-may-be-key-increased-productivity) showed that if people are granted the chance to work from where ever they want (co-working space, home office, other company) they become happier and it gives them a performance boost. 
 
-Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings (why not stand up? http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17) or is it just a psychological effect? 
+Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings ([why not stand up while meeting?]( http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17).
 
 [Watch us](https://www.youtube.com/watch?v=83UODs4TXcI) standing at our prototype standup meeting table, made out of one single plate of bamboo!
