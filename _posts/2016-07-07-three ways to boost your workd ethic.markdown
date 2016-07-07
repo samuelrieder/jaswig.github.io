@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three ways to boost our work ethic"
-date: "2016-07-07 20:10:27 +0100"
+date: "2016-07-07 12:00:27 +0100"
 cover: "/images/blog/Love for Nature.jpg"
 thumbnail: "/images/blog/Love for Nature.jpg"
 categories: blog
