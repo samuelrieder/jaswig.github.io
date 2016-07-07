@@ -48,7 +48,7 @@ Slowing down is a very hard thing to do; it requires a mindset shift. We are alw
 ![Slow it Down](/images/blog/Slow it down.jpg){:.small}
 
 However, our busy lives are actually leading to stressful unproductive lives and work environments. 
-From now on, actively take a step back from time to time. You can find nice ideas to take a pause [here](http://www.kikki-k.com/hourglass-pause) will help to take a pause.  It will increase happiness and boost creativity. You can also take a walk in the park or have a walking meeting.
+From now on, actively take a step back from time to time. You can find some nice ideas on how to take a good pause [here](http://www.kikki-k.com/hourglass-pause).  It will increase happiness and boost creativity. You can also take a walk in the park or have a walking meeting.
 
 **Work towards Autonomy**
 
