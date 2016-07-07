@@ -11,7 +11,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.com/2016-07-07-three ways to boost your workd ethic.html"
+shareTaglineUrl: "http://www.jaswig.com/2016-07-07-three ways to boost your work ethic.html"
 ---
 
 ### Tips for work ethic improvement
