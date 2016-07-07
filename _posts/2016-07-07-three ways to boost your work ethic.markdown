@@ -25,7 +25,7 @@ At Jaswig we believe that the term “office” applies to a whole range of plac
 
 Our work environment and ethic is influenced by a lot of factors. Our managers, office design, colleagues, personal health, family situation, etc… They are all interrelated and make up a very complex reality. Nevertheless, there are always a few things we can do to cheer up our environment and build everything around us to strive for a happy working life (I will only discuss a few topics so let us know your thoughts if you missed something).
 
-### Impact of Nature inspired design
+### Impact of nature inspired design
 
 People have a preprogramed preference for natural elements. Philosopher Yannick Joye from Ghent University, Belgium devoted his PhD to this subject (. Giving us some pretty interesting insights. It turns out that our brain has specific modules for handling natural and non-natural stimuli that could explain us the [biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis) or the love of living systems. 
 
@@ -41,7 +41,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 *"Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. – John Muir -"*
 
 
-**Give yourself and others the space to slow down**
+### Give yourself and others the space to slow down
 
 Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([this article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes "the busy phenomenon" nicely. 
 
@@ -50,7 +50,7 @@ Slowing down is a very hard thing to do; it requires a mindset shift. We are alw
 However, our busy lives are actually leading to stressful unproductive lives and work environments. 
 From now on, actively take a step back from time to time. You can find some nice ideas on how to take a good pause [here](http://www.kikki-k.com/hourglass-pause).  It will increase happiness and boost creativity. You can also take a walk in the park or have a walking meeting.
 
-**Work towards Autonomy**
+### Work towards autonomy
 
 People love to have a certain amount of freedom and autonomy. The pressure to be present just for the sake of being present is something that is out-dated and outright dangerous when thinking about the millennials that are flooding the labour market. 
 
