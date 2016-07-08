@@ -38,6 +38,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 - Support grass root organisations that preserve nature outside and inside the city 
 - Regularly spend time in nature
 
+
 *"Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. – John Muir -"*
 
 
