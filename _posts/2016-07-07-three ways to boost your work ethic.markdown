@@ -21,7 +21,7 @@ A big portion of our lives is devoted to work. And work is done in offices. But 
 
 ![Happy Office](/images/blog/Happy Office 1.jpg){:.small}
 
-At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces [(this one is our ultimate favourite)](https://www.thesurfoffice.com/) in a cubicle or if  “lucky” in a room of their company, at home, in the airport, train, etc… Flexibility is the keyword. Inspiration about beautiful workspaces can be found on our Pinterest page. 
+At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces ([this one is our ultimate favourite](https://www.thesurfoffice.com/)) in a cubicle or if  “lucky” in a room of their company, at home, in the airport, train, etc… Flexibility is the keyword. Inspiration about beautiful workspaces can be found on our Pinterest page. 
 
 Our work environment and ethic is influenced by a lot of factors. Our managers, office design, colleagues, personal health, family situation, etc… They are all interrelated and make up a very complex reality. Nevertheless, there are always a few things we can do to cheer up our environment and build everything around us to strive for a happy working life (I will only discuss a few topics so let us know your thoughts if you missed something).
 
@@ -34,7 +34,7 @@ People have a preprogramed preference for natural elements. Philosopher Yannick 
 Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM cool video fractals). Fractals are patterns with a certain repetitiveness that displays at every scale and thus showcase an infinite amount of detail. Joye continues his argument that fractal patterns have a stress reducing and aesthetic impact on human beings and thus promote well-being. 
 
 **Introducing these forms can be done in several ways:**
-- Introduce fractal forms in architecture (some very nice examples [here](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/) and a a review on a new book on fractal form in nature can be found [here](http://www.smithsonianmag.com/science-nature/science-behind-natures-patterns-180959033/?no-ist)
+- Introduce fractal forms in architecture (inspiration can be found in [this](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/) TED blog and a a review on a new book on fractal form in nature can be found [here](http://www.smithsonianmag.com/science-nature/science-behind-natures-patterns-180959033/?no-ist))
 - Support grass root organisations that preserve nature outside and inside the city 
 - Regularly spend time in nature
 
