@@ -44,7 +44,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 
 ### Give yourself and others the space to slow down
 
-Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([this article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes "the busy phenomenon" nicely. 
+Slowing down is a very hard thing to do; it requires a mindset shift. We are always busy. And we use it as our measure of success. In fact when prompted the question of how life is, one almost always answers “Busy” ([this article](https://medium.com/adventures-in-consumer-technology/there-s-never-any-time-adfe472d8613#.uanxg6zc4) describes "the busy phenomenon" nicely). 
 
 ![Slow it Down](/images/blog/Slow it down.jpg){:.small}
 
