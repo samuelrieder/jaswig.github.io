@@ -21,7 +21,7 @@ A big portion of our lives is devoted to work. And work is done in offices. But 
 
 ![Happy Office](/images/blog/Happy Office 1.jpg){:.small}
 
-At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces ([The Surf Office](https://www.thesurfoffice.com/) is our one of our ultimate favourites) in a cubicle or if  “lucky” in a room of their company, at home, in the airport, train, etc… Flexibility is the keyword. Inspiration about beautiful workspaces can be found on our Pinterest page. 
+At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces ([The Surf Office](https://www.thesurfoffice.com/) is one of our favourites) in a cubicle or if  “lucky” in a room of their company, at home, in the airport, train, etc… Flexibility is the keyword. Inspiration about beautiful workspaces can be found on our Pinterest page. 
 
 Our work environment and ethic is influenced by a lot of factors. Our managers, office design, colleagues, personal health, family situation, etc… They are all interrelated and make up a very complex reality. Nevertheless, there are always a few things we can do to cheer up our environment and build everything around us to strive for a happy working life (I will only discuss a few topics so let us know your thoughts if you missed something).
 
