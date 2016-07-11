@@ -25,7 +25,7 @@ At Jaswig we believe that the term “office” applies to a whole range of plac
 
 Our work environment and ethic is influenced by a lot of factors. Our managers, office design, colleagues, personal health, family situation, etc… They are all interrelated and make up a very complex reality. Nevertheless, there are always a few things we can do to cheer up our environment and build a happy working life.
 
-### Impact of nature inspired design
+### Incorporate nature inspired design
 
 People have a preprogramed preference for natural elements. Philosopher Yannick Joye from Ghent University, Belgium devoted his PhD to this subject. Giving us some pretty interesting insights. It turns out that our brain has specific modules for handling natural and non-natural stimuli that could explain us the [biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis) or the love of living systems. 
 
