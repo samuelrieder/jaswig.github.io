@@ -41,7 +41,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 
 *"Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. – John Muir -"*
 
-Inspiration on how to introduce fractal forms in architecture can be found in [this](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/) TED blog post and a a review on a new book on fractal form in nature can be found [here](http://www.smithsonianmag.com/science-nature/science-behind-natures-patterns-180959033/?no-ist).
+Inspiration on how to introduce fractal forms in architecture can be found in [this](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/) TED blog post and a review of a new book on fractal form in nature can be found [here](http://www.smithsonianmag.com/science-nature/science-behind-natures-patterns-180959033/?no-ist).
 
 ### Give yourself and others the space to slow down
 
