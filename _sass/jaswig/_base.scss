@@ -76,7 +76,9 @@ h4.upper {
 }
 
 p,
-.p {
+.p,
+ul,
+ol {
   font-family: $font-base;
   color: $color-brown;
   font-weight: 300;

@@ -34,7 +34,8 @@ People have a preprogramed preference for natural elements. Philosopher Yannick 
 Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM cool video fractals). Fractals are patterns with a certain repetitiveness that displays at every scale and thus showcase an infinite amount of detail. Joye continues his argument that fractal patterns have a stress reducing and aesthetic impact on human beings and thus promote well-being. 
 
 **Introducing these forms can be done in several ways:**
-* Introduce fractal forms in architecture 
+
+* Introduce fractal forms in architecture
 * Support grass root organisations that preserve nature outside and inside the city
 * Regularly spend time in nature
 
