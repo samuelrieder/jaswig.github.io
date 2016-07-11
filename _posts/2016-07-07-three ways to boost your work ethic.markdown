@@ -35,7 +35,7 @@ Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM
 
 **Introducing these forms can be done in several ways:**
 
-* Introduce fractal forms in architecture (inspiration can be found in [this](http://blog.ted.com/architecture-infused-with-fractals-ron-eglash-and-xavier-vilalta/) TED blog and a a review on a new book on fractal form in nature can be found [here](http://www.smithsonianmag.com/science-nature/science-behind-natures-patterns-180959033/?no-ist))
+* Introduce fractal forms in architecture 
 * Support grass root organisations that preserve nature outside and inside the city
 * Regularly spend time in nature
 
