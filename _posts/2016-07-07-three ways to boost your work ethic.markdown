@@ -16,7 +16,7 @@ shareTaglineUrl: "http://www.jaswig.com/2016-07-07-three ways to boost your work
 
 ### Tips for work ethic improvement
 
-A big portion of our lives is devoted to work. And work is done in offices. But the meaning of an “office” is changing in a time where people are craving for flexibility, health and happiness. 
+A big portion of our lives is devoted to work. And work is done in offices. But what is the defenition of the term "office" in a time in a time where people are craving for flexibility, health and happiness. 
 <!--more-->
 
 ![Happy Office](/images/blog/Happy Office 1.jpg){:.medium}
