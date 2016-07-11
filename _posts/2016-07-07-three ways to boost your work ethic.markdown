@@ -19,7 +19,7 @@ shareTaglineUrl: "http://www.jaswig.com/2016-07-07-three ways to boost your work
 A big portion of our lives is devoted to work. And work is done in offices. But the meaning of an “office” is changing in a time where people are craving for flexibility, health and happiness. 
 <!--more-->
 
-![Happy Office](/images/blog/Happy Office 1.jpg){:.small}
+![Happy Office](/images/blog/Happy Office 1.jpg){:.medium}
 
 At Jaswig we believe that the term “office” applies to a whole range of places. People work in co-working spaces ([The Surf Office](https://www.thesurfoffice.com/) is one of our favourites), cubicles, at their home office, in the airport, on the train, etc… Because people work in all these different places flexibility is key in the contemporary work environment! Inspiration on beautiful, flexible workspaces can be found on [our Pinterest page](https://www.pinterest.com/jaswighq/). 
 
@@ -29,7 +29,7 @@ Our work environment and ethic is influenced by a lot of factors. Our managers, 
 
 People have a preprogramed preference for natural elements. Philosopher Yannick Joye from Ghent University, Belgium devoted his PhD to this subject. Giving us some pretty interesting insights. It turns out that our brain has specific modules for handling natural and non-natural stimuli that could explain us the [biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis) or the love of living systems. 
 
-![Love for Nature](/images/blog/Love for Nature.jpg){:.small}
+![Love for Nature](/images/blog/Love for Nature.jpg){:.medium}
 
 Nature is full of [fractal patterns](https://www.youtube.com/watch?v=I_rw-AJqpCM cool video fractals). Fractals are patterns with a certain repetitiveness that displays at every scale and thus showcase an infinite amount of detail. Joye continues his argument that fractal patterns have a stress reducing and aesthetic impact on human beings and thus promote well-being. 
 
@@ -59,7 +59,7 @@ Freedom and autonomy also reflects in the way people are included in certain pro
 
 There are hundreds of options to introduce a more inclusive “management” technique. Books related to this topic include Reinventing Organizations by Frederic Laloux and Holacracy by Brain Robertson. A nice blog post about this subject can be found [here](https://medium.com/creative-order/beyond-hierarchy-holacracy-truly-responsive-organisations-love-authority-18e659d70297#.hk9a9y161).
 
-![Holacracy Infographic](/images/blog/Holacracy Infographic.jpg){:.small}
+![Holacracy Infographic](/images/blog/Holacracy Infographic.jpg){:.medium}
 
 Autonomy also reflects the space where people work and the rules at those places. A [study of Stanford University](https://www.gsb.stanford.edu/insights/researchers-flexibility-may-be-key-increased-productivity) showed that if people are granted the chance to work from where ever they want (co-working space, home office, other company) they become happier and it gives them a performance boost. 
 
