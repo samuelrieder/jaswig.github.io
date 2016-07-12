@@ -39,6 +39,7 @@ This post should be constantly evolving. So check it out regularly if you are ou
 
 **The responsible company: What We've Learned From Patagonia's First 40 Years**
 
+![The Responsible Company](/images/blog/theresponsiblecompany.jpg){:.small}{:style="float: right;margin-right: 7px;margin-top: 7px;"} Incredibly interesting insights on how Yvon Chouinard & Vincent Stanley interpret the first 40 years of Patagonia which is one of the companies at the forefront of a benefit driven economy.
 
 [http://www.patagonia.com/books](http://eu.patagonia.com/enBE/product/the-responsible-company-what-weve-learned-from-patagonias-first-forty-years-paperback-book?p=BK230-0)
 
