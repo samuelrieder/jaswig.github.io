@@ -5,7 +5,7 @@ date: "2016-07-12 10:10:45 +0100"
 cover: "/images/blog/Love for Nature.jpg"
 thumbnail: "/images/blog/Love for Nature.jpg"
 categories: blog
-published: true
+published: false
 
 shareBox: true
 shareSocial: true
