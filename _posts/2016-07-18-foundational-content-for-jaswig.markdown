@@ -2,8 +2,8 @@
 layout: post
 title: "Foundational Content for Jaswig"
 date: "2016-07-12 10:10:45 +0100"
-cover: "/images/blog/Love for Nature.jpg"
-thumbnail: "/images/blog/Love for Nature.jpg"
+cover: "/images/blog/SongKul2.jpg"
+thumbnail: "/images/blog/SongKul2.jpg"
 categories: blog
 published: false
 
@@ -86,10 +86,10 @@ Inspirational US organisation that nurtures and curates the emergence of the new
 We love to be outdoors and interact with nature. This has lead to some very cool travels over the last couple of year. We would love to share some nice spots we have called home for at least a few days in the last 15 years of our lives.
 
 **Allah Kul, Kyrgystan**
-![Allah Kul 1](/images/blog/AllahKul1.jpg)[Allah Kul 2](/images/blog/AllahKul2.jpg)
+![Allah Kul 1](/images/blog/AllahKul1.jpg)![Allah Kul 2](/images/blog/AllahKul2.jpg)
 
 **Song Kul, Kyrgystan**
-![Song Kul 1](/images/blog/SongKul1.jpg)[Allah Kul 2](/images/blog/SongKul2.jpg)
+![Song Kul 1](/images/blog/SongKul1.jpg)![Song Kul 2](/images/blog/SongKul2.jpg)
 
 **La Grave, France**
 ![La Grave](/images/blog/LaGrave.jpg)
