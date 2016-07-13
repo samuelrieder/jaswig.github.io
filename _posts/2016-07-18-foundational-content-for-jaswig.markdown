@@ -86,22 +86,22 @@ Inspirational US organisation that nurtures and curates the emergence of the new
 We love to be outdoors and interact with nature. This has lead to some very cool travels over the last couple of year. We would love to share some nice spots we have called home for at least a few days in the last 15 years of our lives.
 
 **Allah Kul, Kyrgystan**
-[Allah Kul 1](/images/blog/AllahKul1.jpg)[Allah Kul 2](/images/blog/AllahKul2.jpg)
+![Allah Kul 1](/images/blog/AllahKul1.jpg)[Allah Kul 2](/images/blog/AllahKul2.jpg)
 
 **Song Kul, Kyrgystan**
-[Song Kul 1](/images/blog/SongKul1.jpg)[Allah Kul 2](/images/blog/SongKul2.jpg)
+![Song Kul 1](/images/blog/SongKul1.jpg)[Allah Kul 2](/images/blog/SongKul2.jpg)
 
 **La Grave, France**
-[La Grave](/images/blog/LaGrave.jpg)
+![La Grave](/images/blog/LaGrave.jpg)
 
 **Leh, India**
-[Leh](/images/blog/Leh.jpg)
+![Leh](/images/blog/Leh.jpg)
 
 **The Ardennes, Belgium**
-[Ardennes](/images/blog/Ardennes.jpg)
+![Ardennes](/images/blog/Ardennes.jpg)
 
 **Gasterntal, Switzerland**
-[Switzerland](/images/blog/Swiss.jpg)
+![Switzerland](/images/blog/Swiss.jpg)
 
 ### Movies
 
