@@ -152,3 +152,9 @@ Really cool adventure of two guys who made their small house on the beach from s
 What questions do we ask ourselves to choose are life’s path? Do we ask questions at all?
 
 [https://vimeo.com/TheQuestionsWeAsk](https://vimeo.com/TheQuestionsWeAsk)
+
+**The Happy Secret to Better Work**
+
+We believe we should work hard in order to be happy, but could we be thinking about things backwards? In this fast-moving and very funny talk, psychologist Shawn Achor argues that, actually, happiness inspires us to be more productive.
+
+[https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?language=en)
