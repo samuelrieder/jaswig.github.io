@@ -3,7 +3,7 @@ layout: post
 title: "Three ways to boost your work ethic"
 date: "2016-07-07 12:00:27 +0100"
 cover: "/images/blog/AllahKul2.jpg"
-thumbnail: "/images/blog/AllahKul2e.jpg"
+thumbnail: "/images/blog/AllahKul2.jpg"
 categories: blog
 published: true
 
