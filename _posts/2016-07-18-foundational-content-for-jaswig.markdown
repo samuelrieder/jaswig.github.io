@@ -19,9 +19,9 @@ shareTaglineUrl: "http://www.jaswig.com"
 Great books, movies, articles and locations that were extremely important in shaping our thoughts and vision. So important that we couldn’t resist sharing them!
 <!--more-->
 
-Our group has been build on sharing ideas and discussing them we always share interesting content internally but why not put it online and let other people potentially benefit from it either…
+Our group has been build on sharing ideas and discussing them thoroughly. So, we thought why not share them with our community as well?
 
-This post should be constantly evolving. So check it out regularly if you are out of inspiration ☺!
+This post should be constantly evolving. So check it out regularly if you are in need of inspiration ☺!
 
 ### Books
 
@@ -34,13 +34,13 @@ We are influenced by our surroundings. It affects the choices we make, how we fe
 
 **The Purpose Economy: How Your Desire for Impact, Personal Growth and Community Is Changing the World**
 
-![The Purpose Economy](/images/blog/thepurposeeconomy.jpg){:style="width:100px;float: left;margin:0 30px 30px 0"} Aaron Hurst argues that after information, purpose will dominate our economic system for the coming decades. Why do we do what we do? What is our legacy? How is our economy shifting towards a sharing economy with purpose as a place to start?
+![The Purpose Economy](/images/blog/thepurposeeconomy.jpg){:style="width:100px;float: left;margin:0 30px 30px 0"} Aaron Hurst argues that after information, purpose will dominate our economic system for the coming years. Why do we do what we do? What is our legacy? Why is our economy shifting towards a sharing economy (of which co-working spaces are an example) with purpose as a place to start?
 
 [http://purposeeconomy.com](http://purposeeconomy.com)
 
 **The responsible company: What We've Learned From Patagonia's First 40 Years**
 
-![The Responsible Company](/images/blog/theresponsiblecompany.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} Incredibly interesting insights on how Yvon Chouinard & Vincent Stanley interpret the first 40 years of Patagonia which is one of the companies at the forefront of a benefit driven economy.
+![The Responsible Company](/images/blog/theresponsiblecompany.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} Incredibly interesting insights on how Yvon Chouinard & Vincent Stanley interpret the first 40 years of Patagonia, which is one of the companies at the forefront of the benefit driven economy.
 
 [http://www.patagonia.com/books](http://eu.patagonia.com/enBE/product/the-responsible-company-what-weve-learned-from-patagonias-first-forty-years-paperback-book?p=BK230-0)
 
@@ -52,7 +52,7 @@ We are influenced by our surroundings. It affects the choices we make, how we fe
 
 **Reinventing Organizations**
 
-![Reinventing Organizations](/images/blog/reinventingorganizations.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} How we kept inventing a radically more productive organizational model time and again? How can I run my organization in a soulful way? What are the conditions for a new organization to thrive?
+![Reinventing Organizations](/images/blog/reinventingorganizations.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} How we kept inventing radically more productive organizational models time and again? How can I run my organization in a soulful way? What are the conditions for a new organization to thrive?
 
 [http://www.reinventingorganizations.com/](http://www.reinventingorganizations.com/)
 
@@ -129,6 +129,12 @@ The golden circle for inspirational leadership
 He challenges the economic principles of today. How can we invest in our future in a time of recession, climate change and inequality.
 
 [http://www.ted.com/talks/tim_jackson_s_economic_reality_check](http://www.ted.com/talks/tim_jackson_s_economic_reality_check?language=en)
+
+**Check out this Carbon positive country**
+
+Very interesting talk, where the prime minister of Bhutan explains his vision on the future. This really is an inspirational country.
+
+[https://www.ted.com/talks/Bhutan-the-carbon-positive-country](https://www.ted.com/talks/tshering_tobgay_this_country_isn_t_just_carbon_neutral_it_s_carbon_negative)
 
 **180 degrees south**
 
