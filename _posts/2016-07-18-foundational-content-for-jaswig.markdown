@@ -84,7 +84,7 @@ Inspirational US organisation that nurtures and curates the emergence of the new
 
 ### Places
 
-We love to be outdoors and interact with nature. This has lead to some very cool travels over the last couple of year. We would love to share some nice spots we have called home for at least a few days in the last 15 years of our lives.
+We love to be outdoors and be supmerged in nature. This has led to some very cool travels over the last couple of year. We would love to share some nice spots we have called home for at least a few days in the last couple of years.
 
 **Allah Kul, Kyrgystan**
 ![Allah Kul 1](/images/blog/AllahKul1.jpg)![Allah Kul 2](/images/blog/AllahKul2.jpg)
