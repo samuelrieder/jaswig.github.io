@@ -2,8 +2,8 @@
 layout: post
 title: "Foundational Content for Jaswig"
 date: "2016-07-12 10:10:45 +0100"
-cover: "/images/blog/SongKul2.jpg"
-thumbnail: "/images/blog/SongKul2.jpg"
+cover: "/images/blog/teamjaswig.jpg"
+thumbnail: "/images/blog/teamjaswig.jpg"
 categories: blog
 published: true
 
