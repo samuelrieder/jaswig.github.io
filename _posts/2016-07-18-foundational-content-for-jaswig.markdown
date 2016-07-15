@@ -5,7 +5,7 @@ date: "2016-07-12 10:10:45 +0100"
 cover: "/images/blog/SongKul2.jpg"
 thumbnail: "/images/blog/SongKul2.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
