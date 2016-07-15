@@ -27,7 +27,7 @@ This post should be constantly evolving. So check it out regularly if you are ou
 
 **Nudge: Improving Decisions About Health, Wealth and Happiness**
 
-![Nudge](/images/blog/Nudge.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"}
+![Nudge](/images/blog/nudge.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"}
 We are influenced by our surroundings. It affects the choices we make, how we feel and behave. Understanding how this works is very powerful indeed.
 
 [https://www.amazon.com/Nudge](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
