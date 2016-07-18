@@ -62,6 +62,24 @@ We are influenced by our surroundings. It affects the choices we make, how we fe
 
 [http://www.happinesshypothesis.com/](http://www.happinesshypothesis.com/)
 
+**The Upcycle Beyond Sustainability Designing Abundance**
+
+![The Up Cycle](/images/blog/theupcycle.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} The long awaited follow-up of of the book Cradle to Crade. The authors present their experience of putting cradle to cradle into practice for the past 10 years. 
+
+[https://www.amazon.com/The-Upcycle-Beyond-Sustainability-Designing-Abundance](https://www.amazon.com/Upcycle-Beyond-Sustainability-Designing-Abundance/dp/0865477485/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=H6VV354XAMEDQFD0T6XB)
+
+**Biomimicry**
+
+![Biomimicry](/images/blog/biomimicry.jpg){:style="width:120px;float: left;margin:0 30px 30px 0"} This book, by Jeanine Benyus, created a paradigm shift. The way we look at nature really changed bigtime. Nature is one big collection of inspiration to make our world a better place. Let's get started!
+
+[http://biomimicry.net/BioMimicry-the-book](http://biomimicry.net/about/biomimicry/janines-book/)
+
+**Thinking in Systems**
+
+![Thinking in Systems](/images/blog/thinkinginsystems.jpg){:style="width:100px;float:right;margin-left:30px;margin-left:10px"} This books helps you to create insight in problem solving. Be it on a personal or global level. The hypothesis that the big problems in the world are essentially system failures creates large potential!
+
+[https://www.amazon.com/Thinking-Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557/ref=pd_sim_14_4?ie=UTF8&dpID=51NNRZBJ%2BsL&dpSrc=sims&preST=_AC_UL320_SR212%2C320_&psc=1&refRID=N5R8MZNYMVH8QNEJSECB)
+
 ### Websites or foundations
 
 **Circular economy**
