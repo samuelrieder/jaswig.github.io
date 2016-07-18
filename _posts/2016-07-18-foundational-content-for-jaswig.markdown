@@ -70,7 +70,7 @@ We are influenced by our surroundings. It affects the choices we make, how we fe
 
 **Biomimicry**
 
-![Biomimicry](/images/blog/biomimicry.jpg){:style="width:120px;float: left;margin:0 30px 30px 0"} This book, by Jeanine Benyus, created a paradigm shift. The way we look at nature really changed bigtime. Nature is one big collection of inspiration to make our world a better place. Let's get started!
+![Biomimicry](/images/blog/biomimicry.jpg){:style="width:120px;float: left;margin:0 25px 30px 0"} This book, by Jeanine Benyus, created a paradigm shift. The way we look at nature really changed bigtime. Nature is one big collection of inspiration to make our world a better place. Let's get started!
 
 [http://biomimicry.net/BioMimicry-the-book](http://biomimicry.net/about/biomimicry/janines-book/)
 
