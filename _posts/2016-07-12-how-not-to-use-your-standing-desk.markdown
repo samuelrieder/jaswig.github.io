@@ -2,8 +2,8 @@
 layout: post
 title: "How not to use your standing desk"
 date: "2016-07-26 10:10:45 +0100"
-cover: "/images/blog/Love for Nature.jpg"
-thumbnail: "/images/blog/Love for Nature.jpg"
+cover: "/images/blog/nycstandup.jpg"
+thumbnail: "/images/blog/nycstandup.jpg"
 categories: blog
 published: true
 
