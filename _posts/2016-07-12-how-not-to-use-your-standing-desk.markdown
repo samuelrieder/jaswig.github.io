@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "How not to use your standing desk"
-date: "2016-07-12 10:10:45 +0100"
+date: "2016-07-26 10:10:45 +0100"
 cover: "/images/blog/Love for Nature.jpg"
 thumbnail: "/images/blog/Love for Nature.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
