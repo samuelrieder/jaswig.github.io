@@ -27,6 +27,8 @@ We also recommend to slowly ramp up  your hours worked while standing. ALWAYS LI
 
 Standing while wearing high heals is not the best thing to do. So, if you are standing behind your desk please take of your heals and give your feet some rest.
 
+![NoHeels](/images/blog/noheels.jpg)
+
 **3. Stand straight without switching positions**
 
 Standing without changing your posture is bad. Use the footrest of your desk or if you don’t have a footrest put your leg on your chair and stretch a little while standing. This increases your activity and lets you change positions, which is key!
