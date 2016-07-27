@@ -4,6 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
   <!-- Search engines -->
   <meta name="description" content="Beautifully designed standing desk that is locally produced with high quality wood. This standup desk is perfect for at home or in your office">
