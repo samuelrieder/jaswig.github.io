@@ -5,8 +5,23 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   
+   <!-- Search engines -->
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-
+   <!-- Google Plus -->
+  {% if page.title %}<meta itemprop="name" content="{{ page.title }}">{% endif %}
+  {% if page.description %}<meta itemprop="description" content="{{ page.description }}">{% endif %}
+  {% if page.thumbnail %}<meta itemprop="image" content="{{ page.thumbnail | prepend: site.url }}">{% endif %}
+  
+   <!-- Twitter -->
+   {% if page.description %}<meta name="twitter:title" content="{{ page.title }}">{% endif %}
+   {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% endif %}
+   {% if page.description %}<meta name="twitter:image:src" content="{{ page.thumbnail | prepend: site.url }}">{% endif %}
+   
+    <!-- Open Graph General (Facebook & Pinterest) -->
+    {% if page.description %}<meta name="og:title" content="{{ page.title }}">{% endif %}
+    {% if page.description %}<meta name="og:description" content="{{ page.description }}">{% endif %}
+    {% if page.description %}<meta name="og:image" content="{{ page.thumbnail | prepend: site.url }}">{% endif %}
+    
   <!-- Search engines -->
   <meta name="description" content="Beautifully designed standing desk that is locally produced with high quality wood. This standup desk is perfect for at home or in your office">
   <!-- Google Plus -->
