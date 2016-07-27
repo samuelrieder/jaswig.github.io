@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Foundational Content for Jaswig"
+description: Inspiring content that was at the base of Jaswig and keeps us going!
 date: "2016-07-12 10:10:45 +0100"
 cover: "/images/blog/teamjaswig.jpg"
 thumbnail: "/images/blog/teamjaswig.jpg"
