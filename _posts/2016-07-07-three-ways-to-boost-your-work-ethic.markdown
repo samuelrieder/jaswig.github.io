@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three ways to boost your work ethic"
+description: Our enviroment has an impact on our work ethic lets have a look at three ways to boost yours!
 date: "2016-07-07 12:00:27 +0100"
 cover: "/images/blog/AllahKul2.jpg"
 thumbnail: "/images/blog/AllahKul2.jpg"
