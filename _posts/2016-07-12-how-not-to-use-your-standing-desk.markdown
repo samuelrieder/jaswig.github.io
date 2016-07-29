@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How not to use your standing desk"
+description: Some people use their standing desks wrongly. Just a quick wrap up of how you shouldn't use yours!
 date: "2016-07-26 10:10:45 +0100"
 cover: "/images/blog/nycstandup.jpg"
 thumbnail: "/images/blog/nycstandup.jpg"
