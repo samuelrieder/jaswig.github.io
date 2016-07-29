@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why should I use a standing desk?"
+description: Think about your day and check out how many hours you sit a day!
 date: "2016-04-14 22:10:27 +0100"
 cover: "/images/blog/why-you-should-use-a-standing-desk.jpg"
 thumbnail: "/images/blog/why-you-should-use-a-standing-desk.jpg"
