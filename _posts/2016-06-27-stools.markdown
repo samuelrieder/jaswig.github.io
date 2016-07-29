@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Which stools work well with my standing desk?"
+description: Standing all day is not the purpose of a standing desk, here are some great stools so you can change from sitting to standing quick and in style!
 date: "2016-06-25 20:10:27 +0100"
 cover: "/images/blog/stoollist.jpg"
 thumbnail: "/images/blog/stoollist.jpg"
