@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FAQs"
+description: The answers to the most frequently asked questions about the StandUp
 date: "2016-05-25 22:10:27 +0100"
 cover: "/images/blog/jaswig jigsaw puzzle.jpg"
 thumbnail: "/images/blog/jaswig jigsaw puzzle.jpg"
