@@ -49,16 +49,17 @@
     {% else %}
     <meta property="og:url" content="http://www.jaswig.com">
     {% endif %}
-    {% if page.description %}<meta name="og:title" content="{{ page.title }}">
+    {% if page.description %}<meta property="og:title" content="{{ page.title }}">
     {% else %}
     <meta property="og:title" content="Furniture that aims to increase your happiness!">
     {% endif %}
-    {% if page.description %}<meta name="og:description" content="{{ page.description }}">
+    <meta property="og:type" content="website">
+    {% if page.description %}<meta property="og:description" content="{{ page.description }}">
     {% else %}
      <meta property="og:description" content="A flexible standing desk for your home or office.">
     {% endif %}
     <meta property="og:site_name" content="Jaswig StandUp desks">
-    {% if page.description %}<meta name="og:image" content="{{ page.thumbnail | prepend: site.url }}">
+    {% if page.description %}<meta property="og:image" content="{{ page.thumbnail | prepend: site.url }}">
     {% else %}
      <meta property="og:image" content="{{ "/images/StandUp%20Nomad%20Coffee.jpeg" | prepend: site.url }}">
     {% endif %}
