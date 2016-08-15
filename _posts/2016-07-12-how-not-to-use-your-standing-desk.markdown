@@ -2,7 +2,7 @@
 layout: post
 title: "How not to use your standing desk"
 description: Some people use their standing desks wrongly. Just a quick wrap up of how you shouldn't use yours!
-url: http://www.jaswig.com/blog/2016/07/12/foundational-content-for-jaswig.html
+url: /blog/2016/07/12/foundational-content-for-jaswig.html
 date: "2016-07-26 10:10:45 +0100"
 cover: "/images/blog/nycstandup.jpg"
 thumbnail: "/images/blog/nycstandup.jpg"
