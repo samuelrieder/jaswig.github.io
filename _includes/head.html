@@ -45,7 +45,10 @@
    {% endif %}
    
     <!-- Open Graph General (Facebook & Pinterest) -->
+    {% if page.description %}<meta property="og:url" content="{{ page.url }}">
+    {% else %}
     <meta property="og:url" content="http://www.jaswig.com">
+    {% endif %}
     {% if page.description %}<meta name="og:title" content="{{ page.title }}">
     {% else %}
     <meta property="og:title" content="Furniture that aims to increase your happiness!">
