@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FAQs"
+description: The answers to the most frequently asked questions about the StandUp
 date: "2016-05-25 22:10:27 +0100"
 cover: "/images/blog/jaswig jigsaw puzzle.jpg"
 thumbnail: "/images/blog/jaswig jigsaw puzzle.jpg"
@@ -82,4 +83,4 @@ For USA orders: Akron & Middlefield (Ohio)
 Unfortunately, currently we only ship to USA and European Union countries. Local production is important to us, as we want to minimize shipping pollution and bring back economic value to our local communities. However, we are working hard on opening other manufacturing hubs in other countries in the near future. The more supporters, the more likely and the faster we will be able to open one close to you.
 
 ### How long does shipping take?
-We use ground shipping because this minimizes transportation pollution. Generally this takes 3 to 5 working days. Please don’t hesitate contacting us if you have been waiting longer than this. 
+We use ground shipping because this minimizes transportation pollution. Lead times will be communicated on the product page as we are currently not able to guarantee constant lead times due to difficult predictions in supply and demand. Please don’t hesitate contacting us if you have been waiting longer than this. 

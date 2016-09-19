@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Act like a child when it comes to collaboration"
+desciption: What we learned from a day of volunteering with some kids from a Freinet school.
 date: "2016-04-25 22:10:27 +0100"
 cover: "/images/blog/globo-trein.jpg"
 thumbnail: "/images/blog/globo-trein.jpg"

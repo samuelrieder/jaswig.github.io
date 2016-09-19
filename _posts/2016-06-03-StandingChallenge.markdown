@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Start standing strong"
+description: Join us to get used to standing and being more active!
 date: "2016-06-02 20:10:27 +0100"
 cover: "/images/blog/runner.jpg"
 thumbnail: "/images/blog/runner.jpg"
@@ -14,7 +15,7 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com"
 ---
 
-## Standing challenge
+### Standing challenge
 
 You are likely sitting when reading this. Why? Because you were sitting last hour, and were sitting yesterday and the day before. Our lives are dominated by patterns, or to put a human term on it: Habits.  
 <!--more-->
