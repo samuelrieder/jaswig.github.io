@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "Foundational Content for Jaswig"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.com"
+shareTaglineUrl: "http://www.jaswig.eu"
 ---
 
 ### Highly interesting books, movies and articles
