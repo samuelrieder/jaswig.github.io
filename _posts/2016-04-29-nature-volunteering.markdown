@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.com"
+shareTaglineUrl: "http://www.jaswig.eu"
 ---
 
 According to [NPR](http://www.npr.org/sections/health-shots/2015/07/23/424990474/why-disability-and-poverty-still-go-hand-in-hand-25-years-after-landmark-law?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150723), “in the US, fewer than one in five disabled adults are employed.” 
