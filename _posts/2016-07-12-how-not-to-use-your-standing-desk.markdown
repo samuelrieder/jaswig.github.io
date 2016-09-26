@@ -13,7 +13,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "How not to use your standing desk"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.com"
+shareTaglineUrl: "http://www.jaswig.eu"
 ---
 
 Some tips on how NOT to use your desk. The desk is meant to keep you healthy not to harm you :)!
