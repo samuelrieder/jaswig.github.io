@@ -7,13 +7,12 @@
 
 # Site settings
 title: Jaswig
-email: standup@jaswig.com
+email: standup@jaswig.eu
 description: > # this means to ignore newlines until "baseurl:"
   Beautifully designed standing desk that is locally produced with high quality
   wood. This standup desk is perfect for at home or in your office
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.jaswig.com" # the base hostname & protocol for your site
-shopify_us: "http://us-store.jaswig.com"
+url: "http://www.jaswig.eu" # the base hostname & protocol for your site
 shopify_eu: "http://eu-store.jaswig.com"
 
 # Don't publish the shopify theme
