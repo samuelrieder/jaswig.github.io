@@ -20,6 +20,8 @@ shareTaglineUrl: "http://www.jaswig.eu"
 The world around us is very complicated but maybe it doesn’t have to be that way?! We would like to experiment with full transparency to make the reality we are building around us more digestible.
 <!--more-->
 
+One thing I learned to run human systems is transparency. Transparent organizations are more powerful. They much open because of their transparency. As a consequence they are much more collaborative this means they are also less top down and heirarchical and more connected in rich relationships of people that try to get their work done.
+
 We hope to achieve the following things by choosing this radically different way of working:
 
 * Get as much feedback as possible on important issues that would otherwise be impossible.
