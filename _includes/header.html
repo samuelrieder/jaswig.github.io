@@ -26,9 +26,11 @@
           {% endfor %}
         </ul>
         <ul class="horizontal">
-           <li img id="regionSelector" src="/images/us.png" href="http://www.jaswig.com" alt="switch region" title="Switch region">
+           <a href="http://www.jaswig.com">
+             <li img id="regionSelector" src="/images/us.png" alt="Jaswig USA" title="Switch region">
             {% include region_selector.html %}
-          </li>
+             </li>
+          </a>
           <li class="nav-hamburger">
             <input type="checkbox" id="checkbox_toggle">
             <label for="checkbox_toggle"><i class="fa fa-bars"></i></label>
