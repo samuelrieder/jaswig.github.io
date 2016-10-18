@@ -11,9 +11,6 @@
         </a>
       </div>
       <nav>
-        <a href="http://www.jaswig.com">
-          <img src="/images/us.png" alt="Jaswig USA" title="Jaswig USA">
-        </a>
         <ul class="horizontal">
           {% assign pages = site.pages | sort: "position"  %}
           {% for my_page in pages %}
@@ -28,6 +25,9 @@
             {% endif %}
           {% endfor %}
         </ul>
+        <a href="http://www.jaswig.com">
+          <img src="/images/us.png" alt="Jaswig USA" title="Jaswig USA">
+        </a>
         <ul class="horizontal">
           <li class="nav-hamburger">
             <input type="checkbox" id="checkbox_toggle">
