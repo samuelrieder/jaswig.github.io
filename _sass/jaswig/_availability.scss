@@ -1,0 +1,9 @@
+.availability {
+  padding: 50px 0 100px;
+
+  &__calendar {
+    iframe {
+      width: 100%;
+    }
+  }
+}

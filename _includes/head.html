@@ -4,13 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  
+
    <!-- Search engines -->
   {% if page.description %}<meta name="description" content="{{ page.description }}">
   {% else %}
   <meta name="description" content="Beautifully designed standing desk that is locally produced with high quality wood. This standup desk is perfect for at home or in your office">
   {% endif %}
-  
+
   <!-- Start of Async HubSpot Analytics Code -->
   <script type="text/javascript">
     (function(d,s,i,r) {
@@ -21,7 +21,7 @@
     })(document,"script","hs-analytics",300000);
   </script>
 <!-- End of Async HubSpot Analytics Code -->
-  
+
   <!-- Google Plus -->
   <!-- Update your html tag to include the itemscope and itemtype attributes. -->
   <!-- html itemscope itemtype="http://schema.org/{CONTENT_TYPE}" -->
@@ -37,7 +37,7 @@
    {% else %}
    <meta itemprop="image" content="{{ "/images/StandUp%20Nomad-square.jpg" | prepend: site.url }}">
   {% endif %}
-  
+
    <!-- Twitter -->
    <meta name="twitter:card" content="Sitting long hours is not healthy. We stand for quality of life and the environment by making design products locally. #liveactively">
    <meta name="twitter:site" content="@jaswighq">
@@ -54,7 +54,7 @@
    {% else %}
    <meta name="twitter:image:src" content="{{ "/images/StandUp%20Nomad-square.jpg" | prepend: site.url }}">
    {% endif %}
-   
+
     <!-- Open Graph General (Facebook & Pinterest) -->
     {% if page.description %}<meta property="og:url" content="{{ page.url | prepend: site.url}}">
     {% else %}
@@ -74,7 +74,7 @@
     {% else %}
      <meta property="og:image" content="{{ "/images/StandUp%20Nomad%20Coffee.jpeg" | prepend: site.url }}">
     {% endif %}
-    
+
     <!-- Facebook Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -90,8 +90,7 @@
     /></noscript>
     <!-- DO NOT MODIFY -->
     <!-- End Facebook Pixel Code -->
-    
-    
+
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
