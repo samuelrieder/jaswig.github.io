@@ -18,7 +18,7 @@
     @include cf;
     max-width: 440px;
 
-    // it's the input wrapper
+    /* it's the input wrapper*/
     > div:first-child {
       width: 65%;
       float: left;
@@ -85,14 +85,20 @@
     margin: 0 0 5px;
   }
 
-  // subnav center
+  /* subnav center*/
   &.-subnav {
     width: 100%;
     max-width: none;
     margin: 30px auto 0;
     float: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
     align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
     justify-content: center
   }
 
@@ -105,8 +111,19 @@
     }
   }
 
-  // form left, icons right
+  /* form left, icons right*/
   &.-left {
-    
+    position: relative;
+    float: none;
+  }
+
+  &.-left & {
+    &__title {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+    &__form {
+      width: 400px;
+    }
   }
 }
