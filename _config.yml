@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   wood. This standup desk is perfect for at home or in your office
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jaswig.eu" # the base hostname & protocol for your site
-shopify_eu: "http://eu-store.jaswig.com"
+shopify_eu: "http://store.jaswig.eu"
 
 # Don't publish the shopify theme
 exclude:
