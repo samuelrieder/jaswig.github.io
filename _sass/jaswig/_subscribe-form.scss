@@ -1,0 +1,141 @@
+.subscribe-form {
+  max-width: 440px;
+  width: 100%;
+  margin: 0 auto;
+  font-family: "Roboto";
+  @include cf;
+
+  * {
+    @include box-sizing(border-box);
+  }
+
+  .hs-form-required {
+    display: none;
+  }
+
+  .hs-form {
+    position: relative;
+    @include cf;
+    max-width: 440px;
+
+    /* it's the input wrapper*/
+    > div:first-child {
+      width: 65%;
+      float: left;
+    }
+
+    .hs_email {
+
+      .input {
+
+        input {
+          margin: 0;
+          padding: 0 10px;
+          border: 0;
+          width: 100%;
+          height: 38px;
+          outline: none;
+          font-family: inherit;;
+        }
+        
+      }
+    }
+
+    .hs-error-msgs.inputs-list {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      font-size: 12px;
+      line-height: 15px;
+      list-style: none;
+      margin: 10px 0 0;
+      padding: 0;
+      color: #fff;
+    }
+
+    .hs-button.primary.large {
+      float: left;
+      width: 35%;
+      margin: 0;
+      font-family: "Roboto";
+      border: 0;
+      height: 38px;
+      background: none;
+      border: 2px solid #FFF;
+      color: #FFF;
+      cursor: pointer;
+      min-width: 80px;
+      outline: none;
+    }
+
+    .hs-button.primary.large:hover {
+      background-color: #FFF;
+      color: #f68f1f;
+      border-left: 2px solid #f68f1f;
+    }
+  }
+
+  &__title {
+    font-family: inherit;
+    color: #FFF;
+    text-align: center;
+    font-size: 1em;
+    opacity: 0.7;
+    font-weight: normal;
+    margin: 0 0 10px;
+  }
+
+  /* subnav center*/
+  &.-subnav {
+    width: 100%;
+    max-width: none;
+    margin: 30px auto 0;
+    float: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+  }
+
+  &.-subnav & {
+    &__title {
+      margin: 0 20px 0 0;
+    }
+    &__form {
+      width: 300px;
+    }
+  }
+
+  /* form left, icons right*/
+  &.-left {
+    position: relative;
+    float: none;
+  }
+
+  &.-left & {
+    &__title {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+    &__form {
+      width: 400px;
+    }
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .subscribe-form {
+    float: right;
+
+    &__title {
+      text-align: right;
+      margin: 0 0 5px;
+    }
+  }
+}

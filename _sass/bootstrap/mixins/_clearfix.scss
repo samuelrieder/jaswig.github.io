@@ -20,3 +20,12 @@
     clear: both;
   }
 }
+
+// modern clearfix, should be as default
+@mixin cf() {
+  &:after {
+    content: "";
+		display: table;
+		clear: both;
+  }
+}
