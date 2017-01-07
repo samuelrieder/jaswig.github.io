@@ -266,11 +266,12 @@ body {
 /* Background image */
 .background {
   height: 57vw;
-  background-image: url('/images/jaswig-standing-desk.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #ccc;
+  // background-image: url('/images/jaswig-standing-desk.jpg');
+  // background-size: cover;
+  // background-repeat: no-repeat;
+  // background-position: center center;
+  // background-color: #ccc;
+	position: relative;
 }
 
 /* Hide modal when Vue isn't loaded yet */
