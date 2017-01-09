@@ -4,6 +4,7 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "utils/extends";
 @import "jaswig/base";
 @import "jaswig/blog";
 @import "jaswig/contact";
@@ -29,4 +30,6 @@
 @import "jaswig/testcube-promo";
 @import "jaswig/subscribe-form";
 @import "jaswig/cookies-warning";
+@import "jaswig/hero-background";
+@import "jaswig/promo-player";
 @import "scroll-desk"
