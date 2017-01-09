@@ -5,80 +5,46 @@
   bottom: 0;
   right: 0;
   width: 100%;
-  background-image: url(https://img.youtube.com/vi/56Qd7zEpHac/maxresdefault.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 100%;
   z-index: -1;
+  overflow: hidden;
 
   &::before {
     display: block;
-    width: 100%;
-    height: 100%;
+    width: calc(100% + 200px);
+    height: calc(100% + 200px);
     position: absolute;
     top: 0;
-    left: 0;
-    background: #000;
-    opacity: .2;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-image: url('https://img.youtube.com/vi/56Qd7zEpHac/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     content: '';
     z-index: 4;
+    opacity: 1;
+    transition: opacity 1s ease
   }
 
-  .background-video {
-    background-position: top center;
-    background-repeat: no-repeat;
-    bottom: 0;
-    left: 0;
-    overflow: hidden;
-    position: fixed;
-    right: 0;
-    top: 0;
-  }
-
-  video,
-  source {
-    bottom: 0;
-    left: 0;
-    min-height: 100%;
-    min-width: 100%;
-    position: absolute;
-  }
-
-  .loaded .ytplayer-container {
-    display: block;
-  }
-
-  .ytplayer-container {
-    bottom: 0;
-    height: 100%;
-    left: 0;
-    min-width: 100%;
-    overflow: hidden;
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: 3;
-  }
-
-  .placeholder-image {
-    height: 100%;
-    left: 0;
-    min-height: 100%;
-    min-width: 100%;
-    position: fixed;
-    top: 0;
-    z-index: 1;
-  }
-
-  .ytplayer-shield {
-    height: 100%;
-    left: 0;
+  &:after {
     position: absolute;
     top: 0;
+    left: 0;
     width: 100%;
-    z-index: 2;
+    height: 100%;
+    background: #000;
+    opacity: .2;
+    z-index: 5;
+    content: '';
   }
 
-  .ytplayer-player {
+  #hero-background-video {
     position: absolute;
+  }
+}
+
+.hero-background_active {
+  &:before {
+    opacity: 0;
   }
 }
