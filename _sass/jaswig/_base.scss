@@ -263,16 +263,6 @@ body {
   margin: 0;
 }
 
-/* Background image */
-.background {
-  height: 57vw;
-  background-image: url('/images/jaswig-standing-desk.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #ccc;
-}
-
 /* Hide modal when Vue isn't loaded yet */
 [v-cloak] {
   display: none;

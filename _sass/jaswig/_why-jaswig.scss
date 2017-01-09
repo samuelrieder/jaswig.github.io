@@ -1,15 +1,35 @@
 .why-jaswig {
   background-color: #FBFAF9;
   border-bottom: 1px solid $color-subtle;
-}
 
-.why-jaswig-text {
-  h3,
-  p {
-    max-width: 400px;
+  .why-jaswig-text {
+    h3,
+    p {
+      max-width: 400px;
+    }
+  }
+
+  .why-jaswig-desk {
+    text-align: center;
+  }
+
+  &__video {
+    padding: 30px 0 0;
   }
 }
 
-.why-jaswig-desk {
-  text-align: center;
+@media (min-width: $screen-sm-min) {
+  .why-jaswig {
+    &__video {
+      padding: 60px 0;
+    }
+  }
 }
+
+// @media (min-width: $screen-md-min) {
+//   .why-jaswig {
+//     &__video {
+//       padding: 60px 0;
+//     }
+//   }
+// }
