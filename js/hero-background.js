@@ -88,5 +88,7 @@ function heroBackground() {
 }
 
 $(document).ready(function() {
-  heroBackground()
+  if ( isMobile && !isMobile.any ) {
+    heroBackground()
+  }
 });

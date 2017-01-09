@@ -3,6 +3,7 @@
 ---
 {% include_relative vendor/jquery.matchHeight.min.js %}
 {% include_relative vendor/js.cookie.js %}
+{% include_relative vendor/isMobile.min.js %}
 {% include_relative instagram.js %}
 {% include_relative scrolldesk.js %}
 {% include_relative region.js %}

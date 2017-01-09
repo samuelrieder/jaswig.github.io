@@ -8,7 +8,6 @@ function CookiesWarning() {
 }
 
 CookiesWarning.prototype.isAccepted = function () {
-  console.log(window.Cookies.get('isCookiesAccepted'));
   return window.Cookies.get('isCookiesAccepted')
 };
 
