@@ -13,7 +13,7 @@ $order-card-radius: 10px;
 
 .order-col {
   @include make-xs-column(12);
-  @include make-md-column(4, 0px);
+  @include make-md-column(3, 0px);
 }
 
 .order-card {
@@ -45,6 +45,7 @@ $order-card-radius: 10px;
 
 .order-card-text h3 span.attention {
   position: absolute;
+  display: inline-block;
   margin-top: 10px;
   margin-left: 12px;
 }
@@ -79,10 +80,24 @@ $order-card-radius: 10px;
   margin-bottom: 0px;
 }
 
+
 @media (min-width: $screen-md-min) {
   .order-card-image,
   .order-card-text {
     border-radius: 0px;
+  }
+
+  .order-card-text {
+    border-left: 0;
+    padding: 30px;
+    border-right: 1px solid $color-subtle;
+
+    // h3 span.attention {
+    //   position: absolute;
+    //   display: inline-block;
+    //   margin-top: 10px;
+    //   margin-left: 12px;
+    // }
   }
 
   .order-card.first .order-card-image {
@@ -90,7 +105,7 @@ $order-card-radius: 10px;
   }
   .order-card.first .order-card-text {
     border-bottom-left-radius: $order-card-radius;
-    border-right: 0;
+    border-left: 1px solid $color-subtle;
   }
 
   .order-card.last .order-card-image {
@@ -99,5 +114,19 @@ $order-card-radius: 10px;
   .order-card.last .order-card-text {
     border-bottom-right-radius: $order-card-radius;
     border-left: 0;
+  }
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
+  .order-card-text {
+    padding: 30px 20px;
+
+    h3 {
+      span.attention {
+        position: relative;
+        display: block;
+        margin: 5px 0 0;
+      }
+    }
   }
 }
