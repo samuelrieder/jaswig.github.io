@@ -13,7 +13,7 @@ $order-card-radius: 10px;
 
 .order-col {
   @include make-xs-column(12);
-  @include make-md-column(4, 0px);
+  @include make-md-column(3, 0px);
 }
 
 .order-card {
