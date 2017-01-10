@@ -7,7 +7,8 @@ function heroBackground() {
   var tv,
       timer,
       videoLength,
-      $hero = $('.hero-background');
+      $hero = $('.hero-background'),
+      $placeholder = $('.hero-background__image');
 
 
   window.onYouTubePlayerAPIReady = function(){
@@ -74,11 +75,22 @@ function heroBackground() {
     if (w/h > 16/9){
       tv.setSize(w, w/16*9);
       $video.css({'left': '0px'});
+      $placeholder.css({
+        'width': w,
+        'height': w/16*9
+      })
+
     } else {
       tv.setSize(h/9*16, h);
       $video.css({
         'left': -($video.outerWidth()-w)/2
       });
+      
+      $placeholder.css({
+        width: h/9*16,
+        height: h,
+        left: -($video.outerWidth()-w)/2
+      })
     }
   }
 

@@ -9,23 +9,6 @@
   z-index: -1;
   overflow: hidden;
 
-  &::before {
-    display: block;
-    width: calc(100% + 200px);
-    height: calc(100% + 200px);
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translate(-50%, 0);
-    background-image: url('https://img.youtube.com/vi/56Qd7zEpHac/maxresdefault.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    content: '';
-    z-index: 4;
-    opacity: 1;
-    transition: opacity 1s ease
-  }
-
   &:after {
     position: absolute;
     top: 0;
@@ -38,13 +21,27 @@
     content: '';
   }
 
+  &__image {
+    background-image: url('https://img.youtube.com/vi/56Qd7zEpHac/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    opacity: 1;
+    transition: opacity 1s ease;
+  }
+
   #hero-background-video {
     position: absolute;
   }
 }
 
 .hero-background_active {
-  &:before {
+
+  .hero-background__image {
     opacity: 0;
   }
 }
