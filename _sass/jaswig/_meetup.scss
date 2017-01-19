@@ -5,14 +5,44 @@
 
   &__gallery {
     background: #FBFAF9;
-    padding: 100px 0;
-    
+    padding: 50px 0;
+
     img {
       max-width: 100%;
       vertical-align: top;
+      margin: 30px 0 0;
     }
   }
 
+  &__image {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+
+    img {
+      position: absolute;
+      top: -70px;
+    }
+  }
+
+}
+
+@media (min-width: $screen-sm-min) {
+  .meetup {
+    &__image {
+      height: auto;
+
+      img {
+        position: relative;
+        top: 0;
+      }
+    }
+    &__gallery {
+      img {
+        margin: 0;
+      }
+    }
+  }
 }
 
 @media (min-width: $screen-md-min) {
@@ -22,10 +52,10 @@
     }
     &__right-text {
       padding: 0 0 0 5%;
+    }
 
-      // h1 {
-      //   margin-top: -25px
-      // }
+    &__gallery {
+      padding: 100px 0;
     }
   }
 }
