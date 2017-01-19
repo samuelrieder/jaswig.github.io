@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why design matter"
+title: "Why design matters"
 description: The story and reason behind our standing desk.
 url: /blog/2017/01/18/-why-design-matters-designing-a-standing-desk.html
 date: "2017-01-18 15:10:45 +0100"
