@@ -1,0 +1,31 @@
+.meetup {
+  &__right-text {
+    padding: 0 0 0 5%;
+  }
+
+  &__gallery {
+    background: #FBFAF9;
+    padding: 100px 0;
+    
+    img {
+      max-width: 100%;
+      vertical-align: top;
+    }
+  }
+
+}
+
+@media (min-width: $screen-md-min) {
+  .meetup {
+    &__image {
+      margin: 0px 0 0;
+    }
+    &__right-text {
+      padding: 0 0 0 5%;
+
+      // h1 {
+      //   margin-top: -25px
+      // }
+    }
+  }
+}
