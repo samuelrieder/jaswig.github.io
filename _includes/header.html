@@ -10,12 +10,12 @@
           {% endif %}
         </a>
       </div>
-      <nav class="site-navigation">
+      <nav class="navigation">
         <ul class="horizontal">
           {% assign pages = site.pages | sort: "position"  %}
           {% for my_page in pages %}
             {% if my_page.title and my_page.position %}
-            <li class="site-navigation__item nav-item">
+            <li class="navigation__item nav-item">
               {% if page.url == my_page.url %}
                 <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
               {% else %}
@@ -23,9 +23,9 @@
               {% endif %}
 
               {% if my_page.submenu %}
-                <ul class="site-navigation__submenu">
+                <ul class="navigation__submenu">
                 {% for item in my_page.submenu %}
-                  <li class="site-navigation__submenu-item">
+                  <li class="navigation__submenu-item">
                     <a href="{{ item.link }}">{{ item.text }}</a>
                   </li>
                 {% endfor %}
