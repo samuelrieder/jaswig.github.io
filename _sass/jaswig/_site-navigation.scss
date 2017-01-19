@@ -1,0 +1,46 @@
+.site-navigation {
+
+  &__item {
+    position: relative;
+
+    &:hover {
+      .site-navigation__submenu {
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
+
+  &__submenu {
+    visibility: hidden;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin: 0 0 0 -15px;
+    opacity: 0;
+    width: 200px;
+    max-width: 300px;
+    background-color: rgba(white, 0.9);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 35px 80px 14px rgba(151,139,125,0.15);
+    transform: translateX(-50%);
+    z-index: 10;
+    transition: opacity .5s ease, visibility .5s ease;
+  }
+
+  &__submenu-item {
+    float: none !important;
+    text-align: center;
+
+    a {
+      display: block;
+      text-align: center;
+      margin: 0 !important;
+
+      &:hover {
+        color: #F68F1F;
+      }
+    }
+  }
+}
