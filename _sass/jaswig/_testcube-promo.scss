@@ -1,6 +1,6 @@
 .testcube-promo {
-  padding-top: 100px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 0;
 
   img {
     margin-top: 20px;
@@ -13,11 +13,16 @@
 }
 
 @media (min-width: $screen-md-min) {
-  .testcube-promo p {
-    max-width: 80%;
-  }
+  .testcube-promo {
+    padding-top: 100px;
+    padding-bottom: 30px;
 
-  .testcube-promo img {
-    margin-top: 0;
+    p {
+      max-width: 80%;
+    }
+
+    img {
+      margin-top: 0;
+    }
   }
 }
