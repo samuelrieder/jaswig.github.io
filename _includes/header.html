@@ -16,13 +16,10 @@
           {% for my_page in pages %}
             {% if my_page.title and my_page.position %}
             <li class="navigation__item nav-item">
-              {% if page.url == my_page.url %}
-                <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
-              {% else %}
-                <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
-              {% endif %}
 
               {% if my_page.submenu %}
+                <span class="{% if page.url == my_page.url %} active {% endif %}" >{{ my_page.label }}</span>
+
                 <ul class="navigation__submenu">
                 {% for item in my_page.submenu %}
                   <li class="navigation__submenu-item">
@@ -30,6 +27,13 @@
                   </li>
                 {% endfor %}
                 </ul>
+
+              {% else %}
+                <a
+                  class="{% if page.url == my_page.url %} active {% endif %}"
+                  href="{{ my_page.url | prepend: site.baseurl }}">
+                  {{ my_page.label }}
+                </a>
               {% endif %}
 
             </li>

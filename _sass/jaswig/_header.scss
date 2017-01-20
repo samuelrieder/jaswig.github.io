@@ -40,7 +40,8 @@ header nav .horizontal .nav-item {
   display: none;
 }
 
-header nav .horizontal li a {
+header nav .horizontal li a,
+header nav .horizontal li span {
   transition: 0.3s all;
   display: block;
   font-family: $font-secondary;
@@ -63,6 +64,10 @@ header nav .horizontal li a {
     color: white;
     background-color: rgba(0,0,0,.6);
   }
+}
+
+header nav .horizontal li span {
+  cursor: default;
 }
 
 header #regionSelector {
