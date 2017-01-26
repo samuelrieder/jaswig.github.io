@@ -67,4 +67,4 @@ Autonomy also reflects the space where people work and the rules at those places
 
 Might this be because of the reduction in time spend in traffic jams, being overly solicited by colleagues or spending too much time in meetings (an interesting article on standing up while having a meeting can be found [here]( http://www.forbes.com/sites/groupthink/2014/06/19/kick-the-chair-how-standing-cut-our-meeting-times-by-25/#37820a266d17)).
 
-[Watch us](https://www.youtube.com/watch?v=83UODs4TXcI) standing at our prototype standup meeting table, made out of one single plate of bamboo!
+[Watch us](https://www.youtube.com/watch?v=LUVMqBIuaMM) standing at our prototype standup meeting table, made out of one single plate of bamboo!
