@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.eu"
+shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 ### Sitting all day makes you lazy… 
