@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "Three Ways to Boost Your Work Ethic"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.eu"
+shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 ### Tips for work ethic improvement
