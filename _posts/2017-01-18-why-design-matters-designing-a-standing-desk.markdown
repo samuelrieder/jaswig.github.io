@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Why design matters"
-description: The story and reason behind our standing desk.
-url: /blog/2017/01/18/-why-design-matters-designing-a-standing-desk.html
+title: "Designing a standing desk and why design matters"
+description: The story and reason behind the design of our standing desk.
+url: /blog/2017/01/18/-designing-a-standing-desk.html
 date: "2017-01-18 15:10:45 +0100"
 cover: "/images/blog/Whydesignmatters5.jpg"
 thumbnail: "/images/blog/Whydesignmatters5.jpg"
@@ -11,9 +11,9 @@ published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "Why design matters"
+shareTagline: "Designing a standing desk"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.eu"
+shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 Objects are designed to solve problems, to fulfill emotional and/or basic necessities.
