@@ -75,4 +75,4 @@ based strategy. This complements Jaswig in every way.
 *“Jaswig allows us to create a flexible and more productive
 working environment, at a reduced cost.”*
 
-Here [is a link to the video about Digipolis](https://www.youtube.com/watch?v=TahTFKmn7g8&t=7s).
+Here [is a link to the video about Digipolis](https://www.youtube.com/watch?v=TahTFKmn7g8).
