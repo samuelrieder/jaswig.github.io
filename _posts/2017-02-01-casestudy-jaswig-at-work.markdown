@@ -4,8 +4,8 @@ title: "Case study Digipolis at work"
 description: How flexible standing desks are used in a growing work environment.
 url: /blog/2017-02-01-case-study-jaswig-at-work.html
 date: "2017-02-01 15:10:45 +0100"
-cover: "/images/blog/Whydesignmatters5.jpg"
-thumbnail: "/images/blog/Whydesignmatters5.jpg"
+cover: "/images/blog/CASESTUDY_DIGIPOLIS-01.jpg"
+thumbnail: "/images/blog/CASESTUDY_DIGIPOLIS-01.jpg"
 categories: blog
 published: true
 
