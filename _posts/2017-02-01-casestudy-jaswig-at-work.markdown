@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Case study Jaswig at work"
-description: How flexible standing desks are used in a work environment.
-url: /blog/2017-02-01-case-study-jaswig-at-work.markdown
+title: "Case study Digipolis at work"
+description: How flexible standing desks are used in a growing work environment.
+url: /blog/2017-02-01-case-study-jaswig-at-work.html
 date: "2017-02-01 15:10:45 +0100"
 cover: "/images/blog/Whydesignmatters5.jpg"
 thumbnail: "/images/blog/Whydesignmatters5.jpg"
@@ -71,6 +71,7 @@ based strategy. This complements Jaswig in every way.
 + They push people to move around
 + They are real eye catchers
 
+Would you like to test them at your company free of charge? Visit this page ["TestCube"](http://www.jaswig.be/testcube/) or contact [henri@jaswig.eu](mailto:henri@jaswig.eu).
 
 *“Jaswig allows us to create a flexible and more productive
 working environment, at a reduced cost.”*
