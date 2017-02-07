@@ -40,10 +40,6 @@
   color: $color-primary;
 }
 
-//vary image on page sdgfyb in root
-.img-adjust {
-    width: 100%;
-  }
 
 @media (min-width: $screen-md-min) {
   .post-inner img {
@@ -57,8 +53,5 @@
       width: 40%;
     }
   }
-  
-  .img-adjust {
-    width: 80%;
-  }
+
 }
