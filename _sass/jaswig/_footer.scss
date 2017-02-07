@@ -87,6 +87,14 @@
 
 }
 
+//1% logo
+.opep_logo{
+   height: 25%;
+   float: none;
+   display: block;
+   width: 8%;
+   margin: 0 auto;
+  }
 
 @media (min-width: $screen-md-min) {
   .footer {
@@ -122,7 +130,10 @@
       text-align: right;
     }
   }
-
+//1% logo
+ .opep_logo{
+   float: right;
+  }
 }
 
 // IE fix
