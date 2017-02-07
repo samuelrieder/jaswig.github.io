@@ -8,6 +8,11 @@
   width: 100%;
 }
 
+  
+  .img-adjust {
+    width: 80%;
+  }
+
 @media (min-width: $screen-md-min) {
   .how-jaswig-was-born p {
     max-width: 80%;
@@ -16,8 +21,5 @@
   .how-jaswig-was-born img {
     margin-top: 0;
   }
-  
-  .img-adjust {
-    width: 80%;
-  }
+
 }
