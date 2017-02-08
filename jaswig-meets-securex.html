@@ -1,0 +1,167 @@
+---
+layout: default
+title: Jaswig meets Securex | Jaswig
+sitemap: false
+permalink: /jaswig-meets-securex/
+description: Jaswig meets Securex
+---
+
+<div id="vue-modal">
+  <div class="video-modal" v-if="modal" v-cloak>
+    <div class="video-modal-background" v-on:click="closeModal"></div>
+    <div class="video-modal-table table">
+      <div class="table-row">
+        <div class="table-cell">
+          <div class="video-modal-wrapper">
+            <div class="video-modal-inner">
+              <iframe :src.sync="iframeSrc" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <div class="hero__container container">
+    <h1 class="hero__headline headline">Jaswig meets Securex</h1>
+    <a href="http://www.jaswig.be/products/" class="hero__cta cta btn" alt="Order your Jaswig now">Order now</a>
+  </div>
+  <div class="hero-background">
+    <div id="hero-background-video"></div>
+    <div class="hero-background__image"></div>
+  </div>
+</div>
+
+<div class="subhero">
+  <div class="container">
+    <div class="row">
+      <div class="subhero-image col-xs-12 col-md-3">
+        <img src="/images/HVDV.jpg" alt="StandUp standing desk from Jaswig">
+      </div>
+      <div class="subhero-text col-xs-12 col-md-7">
+        <h2>We won the Henry Van de Velde Public Award 16!</h2>
+        <a href="http://henryvandevelde.be/winnaar/public-design-award/standup-nomad" class="arrow">Check it out!</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="why-jaswig padding">
+  <div class="container">
+    <div class="why-jaswig-text row">
+      <div class="col-xs-12 col-md-6">
+        <h1>Why The Jaswig Standup</h1>
+        <p class="lead">
+          The StandUp is a wooden standing desk that is <strong>easily height-adjustable</strong>, <strong>compact</strong> and made locally with <strong>environmentally-conscious materials</strong>.
+        </p>
+        <p>
+          Securex already bought Jaswig desks for its offices so you should be able to test them out at your own offices ask your collugues to see where the Jaswig desks are located and go and have a try :)!
+        </p>
+      </div>
+      <div class="col-xs-12 col-md-6">
+
+        <div class="why-jaswig__video">
+  				<div class="promo-player">
+  					<button type="button" class="play-video" data-video="https://www.youtube.com/embed/3EEQb5EbbxI?rel=0&amp;autoplay=1&amp;showinfo=0">
+  						<img src="/images/play.svg" alt="play button for video">
+  					</button>
+  				</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="order">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2 id="order" class="order-title alignc fix_padding_h2">Order Now (Also with Eco-Cheques)</h2>
+        <br>
+        <br>
+      </div>
+      <div class="col-xs-12">
+        <div class="container">
+          <div class="row">
+            <div class="order-col">
+              <div class="order-card first">
+                <div class="order-card-image">
+                  <a href="{{ "/products/standup-nomad?variant=18202146436" | prepend: site.shopify_eu }}" ><img src="/images/standup/standup-nomad-extra-wide.jpg" alt="Home office standing desk"></a>
+                </div>
+                <div class="order-card-text">
+                  <h3>StandUp Nomad <span class="attention">extra wide</span></h3>
+                  <h3 class="order-card-price" >€495</h3>
+                  <p>Its larger desktop size makes it ideal for your creative and happy workspace.</p>
+                  <p>Colored tops available  <span class="attention">New!</span></p>
+                  <p class="strong">
+                    Height ranges: <span >93 – 122 cm</span><br>
+                    Desktop size: <span >55 x 80 cm</span>
+                  </p>
+                  <a href="{{ "/products/standup-nomad?variant=18202146436" | prepend: site.shopify_eu }}" class="arrow" >Order now</a>
+                </div>
+              </div>
+            </div>
+            <div class="order-col">
+              <div class="order-card">
+                <div class="order-card-image">
+                  <a href="{{ "/products/standup-nomad" | prepend: site.shopify_eu }}" ><img src="/images/standup/standup-nomad.jpg" alt="Design stand up desk"></a>
+                </div>
+                <div class="order-card-text">
+                  <h3>StandUp Nomad</h3>
+                  <h3 class="order-card-price" >€450</h3>
+                  <p>The compact desktop size allows you to take it with you: perfect for daily home activities.</p>
+                  <p>Colored tops available  <span class="attention">New!</span></p>
+                  <p class="strong">
+                    Height ranges: <span >93 – 122 cm</span><br>
+                    Desktop size: <span >50 x 65 cm</span>
+                  </p>
+                  <a href="{{ "/products/standup-nomad" | prepend: site.shopify_eu }}" class="arrow" >Order now</a>
+                </div>
+              </div>
+            </div>
+            <div class="order-col">
+              <div class="order-card">
+                <div class="order-card-image">
+                  <a href="{{ "/products/screenup" | prepend: site.shopify_eu }}" ><img src="/images/screen-up/screen-up.jpg" alt="standing desk neck pain"></a>
+                </div>
+                <div class="order-card-text">
+                  <h3>ScreenUp</h3>
+                  <h3 class="order-card-price" >€75</h3>
+                  <p>An easyly mounted add-on for the StandUp made for your computer screen and other accessories.</p>
+                  <br>
+                  <p class="strong">
+                    Surface: <span>40 x 40 cm </span><br>
+                    Add-on's height: <span>22cm</span>
+                  </p>
+                  <a href="{{ "/products/screenup" | prepend: site.shopify_eu }}" class="arrow" >Order now</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="order-col">
+              <div class="order-card last">
+                <div class="order-card-image">
+                  <a href="{{ "/products/my-first-standup" | prepend: site.shopify_eu }}" ><img src="/images/standup/my-first-standup.jpg" alt="Children standing desk"></a>
+                </div>
+                <div class="order-card-text">
+                  <h3>My First StandUp</h3>
+                  <h3 class="order-card-price" >€345</h3>
+                  <p>This cute desk is your kids’ buddy for play or homework. After outgrowing you get a € 100 discount for a StandUp Nomad.</p>
+                  <br>
+                  <p class="strong">
+                    Height ranges: <span >69 - 89 cm</span><br>
+                    Desktop size: <span >45 x 58 cm</span>
+                  </p>
+                  <a href="{{ "/products/my-first-standup" | prepend: site.shopify_eu }}" class="arrow" >Order now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
