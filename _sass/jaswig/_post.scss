@@ -40,6 +40,7 @@
   color: $color-primary;
 }
 
+
 @media (min-width: $screen-md-min) {
   .post-inner img {
     width: 100%;
@@ -52,4 +53,5 @@
       width: 40%;
     }
   }
+
 }
