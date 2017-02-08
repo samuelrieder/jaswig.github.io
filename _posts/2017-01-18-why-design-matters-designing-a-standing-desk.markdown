@@ -52,3 +52,5 @@ In the end it all comes down to this: **_good design leaves a positive impact_**
 That’s Jaswig’s goal.
 
 But we still have a long way ahead…
+
+![Designing a standing desk](/images/simplicity.jpg){:.medium}
