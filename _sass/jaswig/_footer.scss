@@ -1,7 +1,7 @@
 /* Footer */
 .footer {
   background-color: $color-primary;
-  padding: 80px 0;
+  padding: 20px 0;
   color: white;
 
   .footer-table {
@@ -104,7 +104,7 @@
     .footer-left,
     .flanders {
       display: table-cell;
-      vertical-align: middle;
+      vertical-align: bottom;
     }
 
     .brand {
@@ -133,6 +133,10 @@
 //1% logo
  .opep_logo{
    float: right;
+  }
+  
+  .foo-list {
+    line-height: 1px !important;
   }
 }
 
