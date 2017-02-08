@@ -59,3 +59,24 @@
     }
   }
 }
+
+.cust-cta {
+  padding: 8px 16px;
+  box-shadow: none;
+  margin-left: 40%;
+}
+
+.more-info {
+  padding: 8px 16px;
+  box-shadow: none;
+}
+
+.center-it {
+  text-align: center;
+}
+
+@media (max-width: $screen-md-min) {
+  .cust-cta {
+    margin-left: 30%;
+  }
+}
