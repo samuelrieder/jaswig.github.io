@@ -14,13 +14,15 @@
   .how-jaswig-was-born p {
     max-width: 80%;
   }
-  
+
   .how-jaswig-was-born img {
     margin-top: 0;
-  }  
-  
-  .img-adjust {
-    width: 80% !important;
   }
 
+}
+
+@media (min-width: 520px) {
+  .img-adjust {
+    width: 500px !important;
+  }
 }
