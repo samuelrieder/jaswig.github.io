@@ -89,12 +89,36 @@
 
 //1% logo
 .opep_logo{
-   height: 25%;
-   float: none;
+   float: right;
    display: block;
-   width: 65px;
+   width: 120px;
    margin: 0 auto;
   }
+
+  @media (min-width: 726px) and (max-width: 991px) {
+    .opep_logo{
+    margin-right: 130px;
+    }
+  }
+
+  @media (min-width: 600px) and (max-width: 725px) {
+    .opep_logo{
+    margin-right: 14%;
+    }
+  }
+
+  @media (min-width: 492px) and (max-width: 599px) {
+    .opep_logo{
+    margin-right: 8%;
+    }
+  }
+
+.sec-foo-logo {
+  float: right;
+  width: 120px;
+  margin-right: 0px;
+}
+
 
 @media (min-width: $screen-md-min) {
   .footer {
@@ -130,15 +154,19 @@
       text-align: right;
     }
   }
-//1% logo
- .opep_logo{
-   float: right;
-  }
-  
+
+
   .foo-list {
     line-height: 1px !important;
   }
+
+  .sec-foo-logo {
+    float: right;
+    margin-top: 5px;
+  }
 }
+
+
 
 // IE fix
 @media all and (-ms-high-contrast:none) {
