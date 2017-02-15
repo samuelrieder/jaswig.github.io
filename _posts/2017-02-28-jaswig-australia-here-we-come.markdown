@@ -4,10 +4,10 @@ title: "Jaswig goes to Australia"
 description: Jaswig is expanding: next in line is Australia!
 url: /blog/2017-02-28-jaswig-australia-here-we-come.html
 date: "2017-02-28 15:10:45 +0100"
-cover: "/images/blog/digipolis_casestudy-01.jpg"
-thumbnail: "/images/blog/digipolis_casestudy-01.jpg"
+cover: "/images/blog/operahouse.jpg"
+thumbnail: "/images/blog/operahouse.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
