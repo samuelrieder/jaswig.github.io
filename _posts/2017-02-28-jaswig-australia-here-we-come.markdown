@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Start standing strong"
-description: Join us to get used to standing and being more active!
-date: "2016-06-02 20:10:27 +0100"
+title: "Australia here we come"
+description: Jaswig manufactures and sells in Australia
+date: "2017-02-28 20:10:27 +0100"
 cover: "/images/blog/operahouse.jpg"
 thumbnail: "/images/blog/operahouse.jpg"
 categories: blog
