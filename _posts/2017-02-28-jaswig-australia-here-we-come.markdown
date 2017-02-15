@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Case study Digipolis at work"
-description: How flexible standing desks are used in a growing work environment.
-url: /blog/2017-02-01-case-study-jaswig-at-work.html
-date: "2017-02-01 15:10:45 +0100"
-cover: "/images/blog/digipolis_casestudy-01.jpg"
-thumbnail: "/images/blog/digipolis_casestudy-01.jpg"
+title: "Jaswig goes to Australia"
+description: Jaswig is expanding: next in line is Australia!
+url: /blog/2017-02-28-jaswig-australia-here-we-come.html
+date: "2017-02-28 15:10:45 +0100"
+cover: "/images/blog/operahouse.jpg"
+thumbnail: "/images/blog/operahouse.jpg"
 categories: blog
 published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "Case study Jaswig at work"
+shareTagline: "Jaswig goes to Australia"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.be"
+shareTaglineUrl: "http://www.jaswig.com.au"
 ---
 
 We are very glad to announce that we have set up manufacturing and a sales channel in Australia and thus sell our StandUp in Australia :).
