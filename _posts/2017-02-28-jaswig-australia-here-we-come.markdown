@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jaswig goes to Australia"
-description: How flexible standing desks are used in a growing work environment.
+description: Jaswig is expanding: next in line is Australia!
 url: /blog/2017-02-28-jaswig-australia-here-we-come.html
 date: "2017-02-28 15:10:45 +0100"
 cover: "/images/blog/digipolis_casestudy-01.jpg"
@@ -16,64 +16,26 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com.au"
 ---
 
-We are very glad to announce that we have set up manufacturing in Australia and thus sell our StandUp in Australia as well from now on :).
+We are very glad to announce that we have set up manufacturing and a sales channel in Australia and thus sell our StandUp in Australia :).
 <!--more-->
 
-Digipolis is a returning customer for which Jaswig solves a problem. 
-They were looking for a simple, flexible and healthy alternative to the alarming amount of 
-sitting hours.
+## 1. How did it all start
 
-## 1. About Digipolis
+From the moment we launched our kickstarter campaign we got a lot of questions from down under asking if we shipped to Australia. We weren't really focussed on this market and it just didn't seem smart to ship it half way around the world. We wanted to find a good partner and let him make our desks locally. We found that partner in CAP Furniture located near Brisbane, Australia.
 
-Digipolis is the main ICT partner of the cities Ghent and Antwerp.
-ICT plays a major role in the coordination of the city’s business management. 
-The police, the fire department, schools and more are all depending on the competent 
-hands of Digipolis.
+## 2. About CAP Funiture
 
-+ Revenue €60M
-+ Workforce 212 IT / 13 management / 30 support
-+ Office space : 2460M2
-+ [Digipolis](www.digipolis.be)
+[CAP Furniture](https://capfurniture.com.au/) is a family owned business and leading manufacturer of early childhood and custom disability furniture in Australia with over 30 years of experience. There’s a difference between furniture that has been made for the masses and furniture that has been given the touch of a craftsperson.
 
-## 2. Problem - Solution
+The difference between furniture you buy elsewhere and our furniture is a guarantee of equal parts quality and artistry.
 
-Digipolis continues to grow as the ICT in the city gains importance. It is growing at a firm
-pace every month. Like in most places the work consists of sitting behind the desk and computer for most of the time. 
-Both health and growth problems are (partly) solved by the implementation of the StandUp desks. The desks are used as landing zones for the nomads on the go, or just before meetings. Digipolis even decorated an entire meeting room with standing desks for healthy meetings.
+We strive to give our custom made Australian manufactured furniture that artisan feel so that you, the end customer, can tell the difference when you’re using it.
 
-Digipolis compared many possible solutions but in the end Jaswig was the preferred option. 
-The flexible and compact StandUp are perfect for the growing company. 
+## 3. Our collaboration
 
-To kick of the full Jaswig implementation Digipolis first selected a small group of dedicated people to lead this pilot project. After two weeks of testing, the project was replicated in several other departments.
+We were contacted by Mark Higgins over 6 months ago with the request for a collaboration. We worked out an agreement togehter and did some prototyping. The process and collaboration was so smooth that we both wanted to go on with it and give it a try!
 
-## 3. Results
+If you would like to have some more info about the collaboration please contact us on [sam@jaswig.eu](mailto:sam@jaswig.eu). If you have some question for our Australian partner please contact Mark at [sales@capfurniture.com.au](mailto:sales@capfurniture.com.au). 
 
-The implementation has the following measurable consequences:
-
-+ provides 250 workers to work at their own ergonomic height
-+ the desks know a 50% occupancy rate
-+ prevention and treatment of backproblems
-+ 80% is satisfied
-
-## 4. What We Learned
-
-+ the desk are perfect for growing companies
-+ they save workspace
-+ increase vitality and productivity
-
-## 5. Different Approach on different levels
-
-Digipolis is shifting towards the new way of working. Flexible hours combined with a result 
-based strategy. This complements Jaswig in every way.
-
-+ The clean desk principle is incorporated in the compact design of the desk
-+ They can easily be moved around, increased freedom
-+ They push people to move around
-+ They are real eye catchers
-
-Would you like to test them at your company free of charge? Visit this page ["TestCube"](http://www.jaswig.be/testcube/) or contact [henri@jaswig.eu](mailto:henri@jaswig.eu).
-
-*“Jaswig allows us to create a flexible and more productive
-working environment, at a reduced cost.”*
-
-Here [is a link to the video about Digipolis](https://www.youtube.com/watch?v=TahTFKmn7g8).
+[Australian website](http://www.jaswig.com.au)
+[European website](http://www.jaswig.be)
