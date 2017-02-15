@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Jaswig goes to Australia"
-description: Jaswig is expanding: next in line is Australia!
-url: /blog/2017-02-28-jaswig-australia-here-we-come.html
-date: "2017-02-28 15:10:45 +0100"
-cover: "/images/blog/operahouse.jpg"
-thumbnail: "/images/blog/operahouse.jpg"
+title: "Start standing strong"
+description: Join us to get used to standing and being more active!
+date: "2016-06-02 20:10:27 +0100"
+cover: "/images/blog/runner.jpg"
+thumbnail: "/images/blog/runner.jpg"
 categories: blog
 published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "Jaswig goes to Australia"
+shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com.au"
 ---
+
 
 We are very glad to announce that we have set up manufacturing and a sales channel in Australia and thus sell our StandUp in Australia :).
 <!--more-->
