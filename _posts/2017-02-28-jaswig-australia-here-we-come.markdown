@@ -10,7 +10,7 @@ published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "A healthy standing desk that fits perfectly in your life"
+shareTagline: "Jaswig meets Australia"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com.au"
 ---
