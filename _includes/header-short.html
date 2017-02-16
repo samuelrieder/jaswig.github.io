@@ -14,7 +14,6 @@
         <ul class="horizontal">
           {% assign pages = site.pages | sort: "position"  %}
           {% for my_page in pages %}
-           {% unless page.navsm %}
             {% if my_page.title and my_page.position %}
             <li class="navigation__item nav-item">
 
@@ -39,20 +38,6 @@
 
             </li>
             {% endif %}
-            {% endunless %}
-            {% if page.navsm %}
-            {% if my_page.title and my_page.position %}
-            {% if my_page.label contains 'Story' or my_page.label contains 'Blog' or my_page.label contains 'Contact' %}
-            <li class="navigation__item nav-item">
-              <a
-                class="{% if page.url == my_page.url %} active {% endif %}"
-                href="{{ my_page.url | prepend: site.baseurl }}">
-                {{ my_page.label }}
-              </a>
-              </li>
-              {% endif %}
-              {% endif %}
-            {% endif %}
           {% endfor %}
         </ul>
         <ul class="horizontal">
@@ -67,7 +52,6 @@
                 <ul>
                   {% assign pages = site.pages | sort: "position"  %}
                   {% for my_page in pages %}
-                  {% unless page.navsm %}
                     {% if my_page.title and my_page.position %}
                     <li>
                       {% if page.url == my_page.url %}
@@ -76,20 +60,6 @@
                         <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
                       {% endif %}
                     </li>
-                    {% endif %}
-                    {% endunless %}
-                    {% if page.navsm %}
-                    {% if my_page.label contains 'Story' or my_page.label contains 'Blog' or my_page.label contains 'Contact' %}
-                    {% if my_page.title and my_page.position %}
-                    <li>
-                      {% if page.url == my_page.url %}
-                        <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
-                      {% else %}
-                        <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
-                      {% endif %}
-                    </li>
-                      {% endif %}
-                    {% endif %}
                     {% endif %}
                   {% endfor %}
                 </ul>
