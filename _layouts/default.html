@@ -4,6 +4,9 @@
 
   <body>
     {% include ga.html %}
+    {% if page.modal-y %}
+      {% include modal-function.html %}
+    {% endif %}
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
