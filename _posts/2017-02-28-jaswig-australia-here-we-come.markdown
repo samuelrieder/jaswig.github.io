@@ -35,7 +35,7 @@ We strive to give our custom made Australian manufactured furniture that artisan
 
 We were contacted by Mark Higgins over 6 months ago with the request for a collaboration. We worked out an agreement togehter and did some prototyping. The process and collaboration was so smooth that we both wanted to go on with it and give it a try!
 
-If you would like to have some more info about the collaboration please contact us on [sam@jaswig.eu](mailto:sam@jaswig.eu). If you have some question for our Australian partner please contact Mark at [sales@capfurniture.com.au](mailto:sales@capfurniture.com.au). 
+If you would like to have some more info about the collaboration please contact us on [sam@jaswig.eu](mailto:sam@jaswig.eu). If you have some question for our Australian partner please contact Mark at [sales@capfurniture.com.au](mailto:sales@capfurniture.com.au).
 
 [Australian website](http://www.jaswig.com.au)
 [European website](http://www.jaswig.be)
