@@ -79,3 +79,29 @@
 .relative-pos {
   position: relative;
 }
+
+.flexy-align {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.yes-flex {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wd-ew {
+  width: 150px;
+}
+
+@media (max-width: 400px) {
+  .wd-s {
+    width: 50px;
+  }
+  .wd-ew {
+    width: 120px;
+  }
+}
