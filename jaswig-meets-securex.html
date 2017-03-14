@@ -11,19 +11,21 @@ modal-y: true
 
 <div class="post">
   {% if page.cover %}
-    <div class="post-background" style="background-image: url('{{ page.cover }}');"></div>
+    <div class="post-background" style="background-image: url('{{ page.cover }}');position: relative;"></div>
+    <div class="hero__container container">
+      <a href="#order" class="hero__cta cta btn" alt="Order your Jaswig now">Bestel</a>
+    </div>
   {% endif %}
-  <a href="http://www.jaswig.be/jaswig-meets-securex/" class="hero__cta cta btn" alt="Order your Jaswig now">Bestel</a>
-  <div {% if page.cover %}style="padding-top: 310px;"{% endif %}>
-    <div class="remove-mar row padding-bottom">
+  <div {% if page.cover %}style="padding-top: 40px;"{% endif %}>
+    <div class="remove-mar row">
       <div class="remove-padd-l-r col-xs-12">
 
 
       <div class="subhero">
         <div class="container">
           <div class="row">
-            <div class="subhero-image col-xs-12 col-md-5">
-              <img src="/images/HVDV.jpg" alt="StandUp standing desk from Jaswig">
+            <div class="col-xs-12 col-md-5 testcube-promo__text-right">
+              <img class="img-adjuster" src="/images/HVDV_straight_rectangle.jpeg" alt="StandUp standing desk from Jaswig">
               <div class="subhero-text col-xs-12 col-md-7">
                 <h2>Winner HVDV Awards</h2>
                 <a href="http://henryvandevelde.be/winnaar/public-design-award/standup-nomad" class="arrow">Check it out!</a>
@@ -43,15 +45,15 @@ modal-y: true
                     <li>Mogelijkheid tot betaling met <strong>papieren ecocheques</strong>! Mail hiervoor naar henri@jaswig.eu</li>
                     <li>Andere betalingsmogelijkheden: <strong>PayPal, Visa, MasterCard, Bancontact</strong></li>
                   </ul>
-                <p></p>
+                <div class="row text-center">
+                  <div class="col-xs-12">
+                <img style="width: 75%;" src="/images/betalingen_securex-01.png" alt="betalingsmethodes jaswig meets securex"></a></li>
+            </div>
+                </div>
               </div>
             </div>
           </div>
-          <div class="row text-center">
-            <div class="col-xs-12">
-          <img class="wd-s" src="/images/betalingen_securex-01.png" alt="betalingsmethodes jaswig meets securex"></a></li>
-      </div>
-          </div>
+
         </div>
       </div>
 
@@ -63,7 +65,7 @@ modal-y: true
       <div class="col-xs-12 col-md-6">
 
         <div class="why-jaswig__video">
-  				<div class="promo-player">
+  				<div class="shader-rem promo-player">
   					<button type="button" class="play-video" data-video="https://www.youtube.com/embed/3EEQb5EbbxI?rel=0&amp;autoplay=1&amp;showinfo=0">
   						<img src="/images/play.svg" alt="play button for video">
   					</button>
@@ -186,13 +188,13 @@ modal-y: true
           <div class="row">
             <h2 id="order" class="order-title alignc fix_padding_h2">Testimonials</h2><br><br>
             <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
-              <a href="https://www.youtube.com/watch?v=h8wVHepjris" ><img src="/images/ajuinleiI-01.png" alt="Testimonial Jaswig at coworking"></a>
+              <a href="https://www.youtube.com/watch?v=h8wVHepjris" ><img src="/images/ajuinleiI-01.png" alt="Testimonial Jaswig at coworking"></a><p class="caption-fig">Caption</p>
             </div>
             <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
-              <a href="https://www.youtube.com/watch?v=51IXXN3sbzM" ><img src="/images/what we stand for-01.png" alt="Jaswig what we stand for"></a>
+              <a href="https://www.youtube.com/watch?v=51IXXN3sbzM" ><img src="/images/what we stand for-01.png" alt="Jaswig what we stand for"></a><p class="caption-fig">Caption</p>
             </div>
             <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
-              <a href="https://www.youtube.com/watch?v=TahTFKmn7g8" ><img src="/images/digipolis-01.png" alt="Testimonial Jaswig Company"></a>
+              <a href="https://www.youtube.com/watch?v=TahTFKmn7g8" ><img src="/images/digipolis-01.png" alt="Testimonial Jaswig Company"></a><p class="caption-fig">Caption</p>
             </div>
           </div>
         </div>

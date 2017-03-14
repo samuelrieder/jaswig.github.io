@@ -97,6 +97,12 @@
   width: 150px;
 }
 
+.img-adjuster {
+  height: 320px !important;
+  margin-top: 13% !important;
+  transform: none !important;
+}
+
 @media (max-width: 400px) {
   .wd-s {
     width: 50px;
@@ -104,4 +110,24 @@
   .wd-ew {
     width: 120px;
   }
+  .img-adjuster {
+    height: 250px !important;
+    margin-top: 10px !important;
+    transform: none !important;
+  }
+}
+
+@media (max-width: 660px) {
+  .post-background {
+    height: 140px;
+  }
+}
+
+.shader-rem, .shader-rem:hover {
+  box-shadow: none;
+  transition: none;
+}
+
+.caption-fig {
+  text-align: center;
 }
