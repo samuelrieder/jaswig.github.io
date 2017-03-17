@@ -129,4 +129,17 @@ $order-card-radius: 10px;
       }
     }
   }
+  .height-ad-ew {
+    height: 10.5%;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .equalize {
+    height: 40%;
+  }
+}
+
+.heighter {
+  height: 650px !important;
 }

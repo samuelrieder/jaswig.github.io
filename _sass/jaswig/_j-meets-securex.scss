@@ -32,8 +32,11 @@
 }
 
 .ft-sz {
-  font-size: 18px !important;
+  font-size: 17px !important;
   width: 75%;
+  color: #a19585 !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
 }
 
 @media (max-width:424px) {
@@ -55,4 +58,84 @@
 .remove-mar {
   margin-left: 0px;
   margin-right: 0px;
+}
+
+.just-marg {
+  margin-left: 40px;
+}
+
+@media (min-width: $screen-md-min) {
+  .vertical-all {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height: 45%;
+    margin: auto;
+  }
+}
+
+.relative-pos {
+  position: relative;
+}
+
+.flexy-align {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.yes-flex {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wd-ew {
+  width: 150px;
+}
+
+.img-adjuster {
+  height: 320px !important;
+  margin-top: 13% !important;
+  transform: none !important;
+}
+
+@media (max-width: 400px) {
+  .wd-s {
+    width: 50px;
+  }
+  .wd-ew {
+    width: 120px;
+  }
+  .img-adjuster {
+    height: 250px !important;
+    margin-top: 10px !important;
+    transform: none !important;
+  }
+}
+
+@media (max-width: 660px) {
+  .post-background {
+    height: 140px;
+  }
+}
+
+.shader-rem, .shader-rem:hover {
+  box-shadow: none;
+  transition: none;
+}
+
+.caption-fig {
+  text-align: center;
+}
+
+.wen-img {
+  background-image: url(/images/Wenneker_thumbnail.jpeg);
+}
+
+.secx-rox-img {
+  background-image: url(/images/securex_rocks_thumbnail_V2-01.png);
 }
