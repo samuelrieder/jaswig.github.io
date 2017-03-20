@@ -17,10 +17,10 @@ shareTaglineUrl: "http://www.jaswig.eu"
 
 ### Why we want to be transparent and what we hope to achieve with it
 
-The world around us is very complicated but maybe it doesn’t have to be that way?! We would like to experiment with full transparency to make the reality we are building around us more digestible.
+The world around us is very untransparent and complicated but maybe it doesn’t have to be that way?! We would like to experiment with full transparency to make the reality we are building around us more digestible.
 <!--more-->
 
-One thing I learned to run human systems is transparency. Transparent organizations are more powerful. They much open because of their transparency. As a consequence they are much more collaborative this means they are also less top down and heirarchical and more connected in rich relationships of people that try to get their work done.
+If we learned one thing from starting a startup and thus working together with different kinds of people is that transparency matters. Transparent organizations are more powerful. They are much more open because of their transparency. As a consequence they are much more collaborative which means that they are also less top down and heirarchical and more "connected" in "rich" relationships.
 
 We hope to achieve the following things by choosing this radically different way of working:
 
@@ -39,9 +39,9 @@ All the topics that we would like to share eventually are (the list might get bi
 
 * where and by whom our products are made
 * how much they cost us (-> so how much we are making on each and every desk we sell)
-* what we have as overhead,
-* how much we earn,
-* which overhead we have,
+* what we have as overhead
+* how much we earn
+* which overhead we have
 * how the shares are distributed
 * who is in charge of which piece of the Jaswig machine ☺
 * the books we read
@@ -52,7 +52,7 @@ All the topics that we would like to share eventually are (the list might get bi
 
 Today we would like to start with: Transparent pricing!
 
-We want to make all the posts as visually attractive as possible so we would like to present the different costs of the different parts in the following info graphic.
+We want to make all the posts as visually attractive as possible so we would like to present the different costs of the different parts in the following infographic.
 
 ## Other companies that are pushing the limits
 
