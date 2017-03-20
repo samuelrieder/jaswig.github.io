@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "Jaswig goes for 100% transparency "
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.eu"
+shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 ### Why we want to be transparent and what we hope to achieve with it
