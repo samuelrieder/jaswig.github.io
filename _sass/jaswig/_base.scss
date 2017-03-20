@@ -231,21 +231,21 @@ a.upper {
   letter-spacing: 2px;
   font-size: 13px !important;
   font-weight: 600 !important;
-  border-radius: 50px !important;
+  border-radius: 3px !important;
   padding: 10px 20px;
   transition: 0.3s all;
 }
 
 .btn,
 .btn.btn-primary {
-  background-color: $color-primary !important;
+  background-color: #fff !important;
   color: white;
-  box-shadow: 0px 10px 20px 0px rgba(110,72,31,0.13);
+  //box-shadow: 0px 10px 20px 0px rgba(110,72,31,0.13);
   cursor: pointer;
 
   &:hover {
     background-color: $color-primary + 10;
-    box-shadow: 0px 7px 15px 0px rgba(110,72,31,0.08);
+    //box-shadow: 0px 7px 15px 0px rgba(110,72,31,0.08);
   }
 }
 
