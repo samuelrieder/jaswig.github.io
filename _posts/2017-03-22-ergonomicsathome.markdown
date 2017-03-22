@@ -3,7 +3,7 @@ layout: post
 title: "Work from home? Oh yeah!"
 description: Can we please have better ergonomics at home
 url: /blog/2017-03-22-ergonomicsathome.html
-date: "2017-03-17 15:10:45 +0100"
+date: "2017-03-22 15:10:45 +0100"
 cover: "/images/blog/HappyWork.jpeg"
 thumbnail: "/images/blog/HappyWork.jpeg"
 categories: blog
@@ -11,7 +11,7 @@ published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "HappyWork"
+shareTagline: "Work at Home"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
