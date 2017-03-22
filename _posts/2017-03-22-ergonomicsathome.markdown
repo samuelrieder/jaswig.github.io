@@ -4,8 +4,8 @@ title: "Work from home? Oh yeah!"
 description: Can we please have better ergonomics at home
 url: /blog/2017-03-22-ergonomicsathome.html
 date: "2017-03-22 15:10:45 +0100"
-cover: "/images/blog/HappyWork.jpeg"
-thumbnail: "/images/blog/HappyWork.jpeg"
+cover: "/images/blog/athome.jpg"
+thumbnail: "/images/blog/athome.jpg"
 categories: blog
 published: true
 
