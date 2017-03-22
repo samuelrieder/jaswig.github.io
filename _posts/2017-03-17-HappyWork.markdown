@@ -4,8 +4,8 @@ title: "HappyWork"
 description: Happiness and the work environment
 url: /blog/2017-03-17-HappyWork.html
 date: "2017-03-17 15:10:45 +0100"
-cover: "/images/blog/athome.jpeg"
-thumbnail: "/images/blog/athome.jpeg"
+cover: "/images/blog/HappyWork.jpeg"
+thumbnail: "/images/blog/HappyWork.jpeg"
 categories: blog
 published: true
 
