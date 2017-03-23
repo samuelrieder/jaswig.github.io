@@ -40,7 +40,7 @@ Upgrading your environment and furniture will benefit the company and your work.
 When a company makes an effort to ensure health and happiness, employees notice the endeavor. Not only that, they appreciate it. 
 They feel valued in their organization and work more efficiently. This effort keeps them fit and eliminates unnecessary exhaustion 
 and discomfort thereby decreasing employee attrition rate and increases employee engagement. 
-(Recently we discovered Sparble, an awesome app that helps you measure employee engagement)
+(Recently we discovered [Sparble](https://www.sparble.io/en), an awesome app that helps you measure employee engagement)
 
 
 ## 3. Health benefits for employees :
@@ -56,9 +56,10 @@ Happy employees are productive employees.
 
 Think of it this way: people like working from home, but the home office isn’t optimized for real productive work. 
 That’s why a small upgrade to your environment can change a lot.
-Have you thought of introducing plants? They reduce stress, and even clean your air. 
+Have you thought of introducing [plants](http://www.ciphr.com/blog/plants-in-the-office/)? They reduce stress, and even clean your air. 
 The home office often suffers from different unpredictable noise sources. 
-That’s why it’s important to invest in acoustic furniture. These are only a few tips, take a look at this great article from Shopify for more.
+That’s why it’s important to invest in acoustic furniture. These are only a few tips, take a look at this [great article](https://www.shopify.com/blog/33586628-7-ways-to-be-more-productive-while-working-from-home?utm_content=buffera574d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+ from Shopify for more.
 
 
 ## 5. Worth the money invested :
