@@ -1,10 +1,10 @@
-<header class="container">
+<header class="container" style="{% if page.url == '/' %}padding-top: 0px;{% endif %}">
   <div class="header-table">
     <div class="header-row">
       <div class="brand">
         <a class="site-title" href="{{ site.baseurl }}/">
           {% if page.url == '/' %}
-            <img src="/images/jaswig-logo-white-small.svg" alt="Logo Jaswig">
+            <img src="/images/jaswig-logo-small.svg" alt="Logo Jaswig">
           {% else %}
             <img src="/images/jaswig-logo-small.svg" alt="Logo Jaswig Small">
           {% endif %}
@@ -57,11 +57,11 @@
         </ul>
         <ul class="horizontal">
           <li>
-            <a href="{{'/cart' | prepend: site.shopify_eu}}" class="header-card active"><i class="fa fa-shopping-cart"></i></a>
+            <a href="{{'/cart' | prepend: site.shopify_eu}}" class="header-card"><i class="increase-fs fa fa-shopping-cart"></i></a>
           </li>
           <li class="nav-hamburger">
             <input type="checkbox" id="checkbox_toggle">
-            <label for="checkbox_toggle"><i class="fa fa-bars"></i></label>
+            <label for="checkbox_toggle"><i class="increase-fs fa fa-bars"></i></label>
             <div class="nav-mobile">
               <div class="nav-mobile-inner">
                 <ul>

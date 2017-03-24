@@ -11,8 +11,7 @@
     font-weight: 600;
     width: 80%;
     line-height: 7vw;
-    margin: 6vw auto;
-    text-shadow: 0px 5px 10px rgba($text-shadow, 0.5);
+    margin: 17vw auto 5vw;
   }
 
   &__container {
@@ -27,15 +26,18 @@
     letter-spacing: 2px;
     font-size: 1vw;
     font-weight: 600;
-    border-radius: 50px;
+    border-radius: 3px;
+    border: 2px solid;
     padding: 1.3vw 3.4vw;
-    color: white !important;
-    box-shadow: 0px 15px 25px 0px rgba($text-shadow, 0.4);
+    color: $color-dark !important;
+    //box-shadow: 0px 15px 25px 0px rgba($text-shadow, 0.4);
     transition: 0.3s all;
 
     &:hover {
-      background-color: $color-primary + 10;
-      box-shadow: 0px 10px 20px 0px rgba($text-shadow, 0.3);
+      background-color: $color-dark !important;
+      color: #fff !important;
+      border-color: $color-dark !important;
+      //box-shadow: 0px 10px 20px 0px rgba($text-shadow, 0.3);
     }
   }
 }
@@ -48,7 +50,7 @@
 
     &__headline {
       display: block;
-      margin: 10vw auto 5vw;
+      margin: 16vw auto 6vw;
   		font-size: 4vw;
   		line-height: 4.5vw;
   		width: 50vw;
@@ -78,5 +80,28 @@
 @media (max-width: $screen-md-min) {
   .cust-cta {
     margin-left: 30%;
+  }
+}
+
+.invert-bg-color {
+  background-color: rgba(#fff,1) !important;
+  border-color: $color-dark !important;
+  color: $color-dark !important;
+
+&:hover {
+  background-color: $color-dark !important;
+  border-color: $color-dark !important;
+  color: #fff !important;
+}
+}
+
+.rem-bg-color {
+  background-color: rgba(255,255,255,0) !important;
+  color: #fff !important;
+
+  &:hover {
+    background-color: rgba(#fff,0.8) !important;
+    color: $color-dark !important;
+    border-color: rgba(#fff,0.4) !important;
   }
 }

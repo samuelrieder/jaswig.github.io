@@ -65,7 +65,7 @@
 }
 
 @media (min-width: $screen-md-min) {
-  .vertical-all {
+  .vertical-all, .vertical-all-2 {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -73,6 +73,9 @@
     width: 50%;
     height: 45%;
     margin: auto;
+  }
+  .vertical-all-2 {
+    height: 55%;
   }
 }
 
