@@ -69,6 +69,7 @@
 
   .social-media {
     text-align: center;
+    margin-top: 3vw;
 
     a {
       color: white;
@@ -170,7 +171,8 @@
     }
 
     .social-media {
-      text-align: right;
+      text-align: center;
+      margin-top: 0px;
     }
   }
 
@@ -182,6 +184,9 @@
   .sec-foo-logo {
     float: right;
     margin-top: 5px;
+  }
+  .opep_logo {
+    margin: -25px auto 0px !important;
   }
 }
 

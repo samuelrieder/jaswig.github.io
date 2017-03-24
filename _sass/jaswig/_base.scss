@@ -212,10 +212,10 @@ a.upper {
   font-weight: 500;
 }
 
-.arrow:after {
+.arrow:before {
    font-family: FontAwesome;
    content: "\f178";
-   margin-left: 10px;
+   margin-right: 10px;
 }
 
 .arrow:hover {

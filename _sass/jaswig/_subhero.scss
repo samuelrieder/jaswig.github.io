@@ -4,14 +4,22 @@
 }
 
 .subhero-text {
-  padding-top: 35px;
-  padding-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 15px;
 }
 
 .subhero-text h2 {
   margin-top: 0;
   margin-bottom: 10px;
   color: white;
+  font-size: 31px;
+}
+
+@media (max-width: $screen-sm-min) {
+  .subhero-text h2 {
+    font-size: 23px;
+    padding-top: 5px;
+  }
 }
 
 .subhero-text a {

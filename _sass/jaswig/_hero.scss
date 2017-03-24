@@ -11,8 +11,7 @@
     font-weight: 600;
     width: 80%;
     line-height: 7vw;
-    margin: 6vw auto;
-    text-shadow: 0px 5px 10px rgba($text-shadow, 0.5);
+    margin: 17vw auto 5vw;
   }
 
   &__container {
@@ -30,14 +29,14 @@
     border-radius: 3px;
     border: 2px solid;
     padding: 1.3vw 3.4vw;
-    color: $color-primary !important;
+    color: $color-dark !important;
     //box-shadow: 0px 15px 25px 0px rgba($text-shadow, 0.4);
     transition: 0.3s all;
 
     &:hover {
-      background-color: $color-primary !important;
+      background-color: $color-dark !important;
       color: #fff !important;
-      border-color: $color-primary !important;
+      border-color: $color-dark !important;
       //box-shadow: 0px 10px 20px 0px rgba($text-shadow, 0.3);
     }
   }
@@ -51,7 +50,7 @@
 
     &__headline {
       display: block;
-      margin: 10vw auto 5vw;
+      margin: 16vw auto 6vw;
   		font-size: 4vw;
   		line-height: 4.5vw;
   		width: 50vw;
