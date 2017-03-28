@@ -49,3 +49,13 @@
     text-align: left;
   }
 }
+
+.cust-subs {
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+.cust-subs .hs-form .hs-button.primary.large:hover {
+    color: #6bc6b8 !important;
+    border-left: 2px solid #6bc6b8 !important;
+}
