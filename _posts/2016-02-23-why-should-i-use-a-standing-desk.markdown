@@ -1,57 +1,50 @@
 ---
 layout: post
-title: "Why should I use a standing desk?"
-description: Think about your day and check out how many hours you sit a day!
-date: "2016-04-14 22:10:27 +0100"
-cover: "/images/blog/why-you-should-use-a-standing-desk.jpg"
-thumbnail: "/images/blog/why-you-should-use-a-standing-desk.jpg"
+title: "Stand Up for your future."
+description: Yes you are sitting too much. So let's start standing more!
+date: "2017-03-30 14:10:27 +0100"
+cover: "/images/blog/stand-up-for-your-future.jpg"
+thumbnail: "/images/blog/tand-up-for-your-future.jpg"
 categories: blog
 published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "A healthy standing desk that fits perfectly in your life"
+shareTagline: "Stand Up for your future"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-### Sitting all day makes you lazy… 
+### Stand Up for your future.
 
-How many hours did you sit down yesterday (yes please, do the [calculation](http://www.juststand.org/tabid/866/Default.aspx))? You might think you’re an active person, but chances are high you sit down for more than 16 hours a day and are only active for about 2-4 hours.
+Bump up your well-being by standing up:
 <!--more-->
-I admit; I was one of those people. Only 25 years and already suffering from back and neck issues because of my horrible posture. Nope, I can’t accept living a life in pain! And those few hours at the gym didn’t solve it…
+Human beings have accepted sitting as a default human position. We work, travel, eat, study, and socialize when we are seated. Clearly, now it’s time to break your bubble.  Sitting is not good for your health, period!
 
-Digging around to learn more about this “sitting disease” made me realize I’m so average! There are so many of us suffering from an unhealthy sedentary lifestyle. 
+### Here are your top 5 reasons why you should ditch your chair and buy a standing desk right away:
 
-Talking to Murat Dalkilinç, the guy behind two viral TED-Ed videos, made us join his mission: Helping people to move better. So… Let’s move! 
+1) Burn that fat away:
 
-[Why sitting is bad for you](http://ed.ted.com/lessons/why-sitting-is-bad-for-you-murat-dalkilinc)
+Standing up increases your **metabolism**. You’ll burn a lot more fat than you usually do. You can eat anything and everything anytime of the day. So don’t stay away from those box of chocolates. In fact, you can make a chocolate box and snack on it while you burn that fat away, by simply standing.
 
-[The benefits of a good posture](http://ed.ted.com/lessons/the-benefits-of-good-posture-murat-dalkinic)
+2) Stay active:
 
-Our sitting habits have become a globe concern. Even Michelle Obama took on a mission too get children moving again with her [Let’s Move campaign](http://www.letsmove.gov), hoping to help solve the obesity problem. 
+Do you usually feel **tired and unenthusiastic**? That is because you have been slogging all day at work, sitting! You cannot get to the top by sitting on your bottom. So why don’t you try a different routine. Move your body while you work! Get rid of that dreadful chair. 
 
-Famous Crossfit couple Kelly & Juliet Starrett want to provide every public school child with a standing desk with their organisation standupkids.org. 
+3) Great posture:
 
-The UK is taking it a little bit more humoristic with their “Wiggle it, Waggle it, Just don’t sit on it” [On Your Feet campaign](http://www.getbritainstanding.org).
+Our bodies are **designed to move**. Sitting for a long time causes chronic back pain. Don’t think your extra hours in the gym would save you. It doesn’t! Nobody deserves to live in pain. Standing is a splendid option to maintain great posture. This simple act boosts your core strength. 
+
+4) Boost productivity:
+
+Moving your body keeps you active, energetic and fit! A healthy employee is never absent from work. It doesn’t stop with that. Employees are committed to their work thereby **increasing productivity**. From ‘Oh, this can’t be done’ to ‘Yes, Let’s do it’, changing your lifestyle does the trick.
+
+5) Superior health:
+
+There have been studies that connect sitting time to early death. Well, that’s not a surprise… Sedentary lifestyle often leads to diabetes, heart attack, and even early death. Standing is a key component of **healthy living**. Standing helps in improving blood circulation and strengthens cardiovascular system and builds endurance. Your body would be alert and active, ready to face the challenges life throws at you.
+
+It's time to take a stand **#standingrevolution**
+Changing your sedentary lifestyles can improve your physical as well as mental health. And that’s why standing more is a crucial lifestyle change. Moving your body and changing your postures frequently is important. So sit but make sure you move your body more. Yet, we can’t always stand because it’s simply hard to fall asleep when standing up – we’re no giraffes! 
+You don't have to believe us, but believe Murat: [TED Science](https://www.youtube.com/watch?v=wUEl8KrMz14). He made a video about it.
 
 
-### Ok, maybe you’ll have to admit you sit too much… But what can a standing desk do for you?
-According to a [BBC experiment](http://www.bbc.co.uk/programmes/articles/31TVF5dHY342pN9pPgJ30rg/the-big-standing-up-experiment): “Standing only for 4 hours a day leads to the equivalent number of **calories burned** as if you'd run about 10 marathons in a year.”
-
-[When used properly](http://www.gadgetreview.com/how-to-properly-use-a-standing-desk), a standing desk can **relieve pressure on your spine**, thus alleviating neck and back pain. 
-Even [small movements](http://www.womenshealthmag.com/fitness/sedentary-lifestyle) active your **muscles** and **metabolism**, and boosts your blood flow giving more **oxygen** to your brains. It makes you more concentrated (both your waist and your attention). 
-
-You shouldn’t be standing all day either. A height-adjustable standing desk allows you to [change position](http://www.fastcompany.com/3021985/work-smart/the-science-of-posture-why-sitting-up-straight-makes-you-happier-and-more-product): the best position is the next position. So **adjust your posture** regularly and use a standing desk at your ergonomic height to keep feeling comfortable.
-
-It's simply **hard to fall asleep** when standing up – we’re no giraffes… 
-
-![Benefits of a JASWIG StandUp Desk](/images/blog/why-jaswig-infographic.jpg){:.medium}
-
-If you still need to convince someone, here is a [summary](/images/research_summary.pdf) listing research articles, media coverage and books about the sitting disease and the benefits of standing desks.
-
-Now please, do you want to get your lazy ass out of your comfortable chair* and stand up for your future?
-
-![Standing Revolution](/images/blog/standing-revolution.jpg){:.small}
-
-*Use a chair as a luxury product and really enjoy when you’re sitting down… 
