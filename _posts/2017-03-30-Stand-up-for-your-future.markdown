@@ -4,7 +4,7 @@ title: "Stand Up for your future."
 description: Yes you are sitting too much. So let's start standing more!
 date: "2017-03-30 14:10:27 +0100"
 cover: "/images/blog/stand-up-for-your-future.jpg"
-thumbnail: "/images/blog/tand-up-for-your-future.jpg"
+thumbnail: "/images/blog/stand-up-for-your-future.jpg"
 categories: blog
 published: true
 
