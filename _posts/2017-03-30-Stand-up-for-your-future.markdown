@@ -16,6 +16,8 @@ shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 Bump up your well-being by standing up. A must read for a healthy living.
+
+
 <!--more-->
 Human beings have accepted sitting as a default human position. We work, travel, eat, study, and socialize when we are seated. Clearly, now it’s time to break your bubble.  Sitting is not good for your health, period!
 
