@@ -105,6 +105,7 @@
     <link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace:'.be','.eu' }}" rel="alternate" hreflang="en-be">
 
   <link rel="shortcut icon" href="/favicon.png">
+  {% if page.url == '/' %}   <link rel="stylesheet" href="{{ "/css/modal.css" | prepend: site.baseurl }}"> {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -112,5 +113,8 @@
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
   <script src="https://code.jquery.com/jquery-2.2.2.min.js" defer></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/vue/1.0.21/vue.min.js" defer></script>
+  {% if page.url == '/' %}
+  <script src="{{ "/js/modal-hire.js" | prepend: site.baseurl }}" defer></script>
+  {% endif %}
   <script src="{{ "/js/main.js" | prepend: site.baseurl }}" defer></script>
 </head>

@@ -4,10 +4,43 @@ title: Wooden Standing Desk – Design Standing Desk | Jaswig
 label: Home
 position: 1
 ---
-<div class="subhero">
-  <div class="container">
-    <div class="row">
-      <div class="text-center subhero-text col-xs-12 col-md-12">
+<!-- Modal -->
+<div id="myModal" class="modal" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+          <div class="remove-mar row">
+            <div class="cust-subs-x text-center subhero-text col-xs-12 col-md-12">
+              <h2>Join the <span class="orange">#standingrevolution</span></h2>
+              <h3>Subscribe to our newsletter and get <u>5% discount</u> on your first purchase</h3><br>
+              <div class="cust-subs subscribe-form">
+                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+                <script>
+                  hbspt.forms.create({
+                    css: '',
+                    portalId: '2623414',
+                    formId: 'b78d8d11-ec5c-424b-a201-98dd48b26dba'
+                  });
+                </script>
+
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+  </div>
+  <button type="button" class="close" data-dismiss="modal"><div class="modal mod-closer" data-dismiss="modal"></div></button>
+</div>
+
+  <div class="special">
+    <div class="remove-mar row">
+      <div class="cust-subs-x text-center subhero-text col-xs-12 col-md-12">
         <h2>Join the #standingrevolution</h2>
         <div class="cust-subs subscribe-form">
           <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
@@ -23,7 +56,6 @@ position: 1
       </div>
     </div>
   </div>
-</div>
 
 {% include components/why-jaswig.html %}
 
@@ -67,7 +99,7 @@ position: 1
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h2 id="order" class="order-title alignc fix_padding_h2">Order Now</h2>
+        <h2 id="order" class="order-title alignc fix_padding_h2 orange font-40">Order Now</h2>
         <p class="go_to_eu store_go_to">Visiting from the US? Please go to <a href="http://www.jaswig.com">www.jaswig.com</a></p>
       </div>
       {% include components/order-now.html %}

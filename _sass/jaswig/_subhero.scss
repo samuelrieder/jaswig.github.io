@@ -53,9 +53,38 @@
 .cust-subs {
   margin: 0 auto !important;
   float: none !important;
+  background-color: $color-dark;
+  border: 2px solid;
 }
 
-.cust-subs .hs-form .hs-button.primary.large:hover {
-    color: #6bc6b8 !important;
-    border-left: 2px solid #6bc6b8 !important;
+.cust-subs .hs-form .hs-button.primary.large{
+text-transform: uppercase;
+font-family: "Brandon Grotesque" !important;
+font-weight: 500 !important;
+letter-spacing: 2px;
+font-size: 13px !important;
+  &:hover {
+    color: $color-dark !important;
+    border-left: 2px solid $color-dark !important;
+  }
+}
+
+.cust-subs .hs-input {
+  font-family: "Brandon Grotesque" !important;
+  font-weight: 500 !important;
+  letter-spacing: 2px;
+  font-size: 13px !important;
+}
+
+.cust-subs-x h2, .cust-subs-x div{
+  color: $color-dark !important;
+}
+
+.cust-subs-x {
+}
+
+.special {
+  margin: 0 auto;
+  border-bottom: 1px solid $color-subtle;
+  padding: 30px 0;
 }

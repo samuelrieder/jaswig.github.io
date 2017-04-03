@@ -42,3 +42,9 @@ h3.blogpost-inner-title {
   line-height: 35px;
   margin: 12px 0;
 }
+
+@media (min-width: 768px){
+  .blog {
+      width: auto;
+  }
+}
