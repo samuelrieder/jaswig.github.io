@@ -6,7 +6,7 @@ date: "2017-02-28 20:10:27 +0100"
 cover: "/images/blog/natuurpunt_zwalm.jpg"
 thumbnail: "/images/blog/natuurpunt_zwalm.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
