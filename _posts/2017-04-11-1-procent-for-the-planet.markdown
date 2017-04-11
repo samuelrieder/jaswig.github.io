@@ -3,8 +3,8 @@ layout: post
 title: "1 % for the Planet"
 description: Jaswig invests 1 % of its revenue back into the ecosystem
 date: "2017-02-28 20:10:27 +0100"
-cover: "/images/blog/natuurpunt_zwalm.jpg"
-thumbnail: "/images/blog/natuurpunt_zwalm.jpg"
+cover: "/images/blog/River.jpeg"
+thumbnail: "/images/blog/River.jpeg"
 categories: blog
 published: true
 
