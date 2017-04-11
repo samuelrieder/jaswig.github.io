@@ -31,9 +31,7 @@ http://www.onepercentfortheplanet.org/.
 
 ## 3. How does it work?
 
-They tried to make it as easy as possible for everyone to understand. We have to give away at least 1% of our **annual SALES/REVENUE** to organization that are part of the 1% for the planet network. We will look for European initiatives that are in reforestation and land protection. This year we’ll give our funds to the following initiatives:
-
-[Natuurpunt](http://natuurpunt.be)
+They tried to make it as easy as possible for everyone to understand. We have to give away at least 1% of our **annual SALES/REVENUE** to organization that are part of the 1% for the planet network. We will look for European initiatives that are in reforestation and land protection. This year we’ll give our funds to [Natuurpunt](http://natuurpunt.be) because it creates nature in Belgium where green is sometimes hard to find.
 
 ## 4. Extra info
 For the interested reader you can have a look at the website of 1% for the planet. Make sure to have a look at their youtube channel 
