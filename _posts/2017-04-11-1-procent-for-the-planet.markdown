@@ -15,14 +15,12 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-We all have a responsibility towards the planet. As individuals but also as a business. This means Jaswig needs to become a sustainable entity. 
+We all have a responsibility towards the planet. As individuals but also as a business. This means Jaswig has a responsibility towards the planet and that is why we are part of 1 % of the planet!
 <!--more-->
 
 ## 1. Why
 
-We all have a responsibility towards the planet. As individuals but also as a business. This means Jaswig needs to become a sustainable entity. 
-
-We see Jaswig the company as a kind of individual. An individual that we can shape according to our beliefs and values in such a way that we think it will be sustainable (in the broadest meaning of the word: financially, ecologically and socially). For the ecological sustainability we didn’t only want to invest in the best possible materials, factories and design. We wanted to do more as we still have a large impact on the world even if we try to do things as good as possible. This is why we choose to be a part of 1% for the planet 
+Jaswig is an entity that we can shape according to our beliefs and values. We should shape it in such a way that it is sustainable (in the broadest meaning of the word: financially, ecologically and socially). For the ecological sustainability we didn’t only want to invest in the best possible materials, factories and design. We wanted to do more, as we still have a large impact on the world even if we try to do things as good as possible. This is why we choose to be a part of 1% for the planet 
 http://www.onepercentfortheplanet.org/. 
 
 ## 2. What
