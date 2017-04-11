@@ -36,5 +36,5 @@ They tried to make it as easy as possible for everyone to understand. We have to
 ## 4. Extra info
 For the interested reader you can have a look at the website of 1% for the planet. Make sure to have a look at their youtube channel 
 Here is the [link to our profile](http://www.onepercentfortheplanet.org/who-we-are/members/record/0010G00001xIfXTQA0) on the website of 1%, of which we are very proud :)!
-* https://www.youtube.com/user/1percentfortheplanet
-* http://www.onepercentfortheplanet.org/
+* [1%'s youtube channel](https://www.youtube.com/user/1percentfortheplanet)
+* [1%'s website](http://www.onepercentfortheplanet.org/)
