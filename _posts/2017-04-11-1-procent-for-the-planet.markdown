@@ -15,24 +15,23 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-We all have a responsibility towards the planet. As individuals but also as a business. This means Jaswig has a responsibility towards the planet and that is why we are part of 1 % of the planet!
+Both businesses and individuals have a responsibility towards the planet. So, Jaswig needs to take up its responsibility and put its money where its mouth is!
 <!--more-->
 
-## 1. Why
+## 1. So Why are we a part of it?
 
-Jaswig is an entity that we can shape according to our beliefs and values. We should shape it in such a way that it is sustainable (in the broadest meaning of the word: financially, ecologically and socially). For the ecological sustainability we didn’t only want to invest in the best possible materials, factories and design. We wanted to do more, as we still have a large impact on the world even if we try to do things as good as possible. This is why we choose to be a part of 1% for the planet 
-http://www.onepercentfortheplanet.org/. 
+Jaswig can be shaped according to our beliefs and values. We are modeling it in such a way that it is sustainable. We make sure it is viable financially, ecologically and also socially. To uphold the ecological sustainability, we not only wanted to invest in the best possible materials, factories and design but also have a larger impact on the world. And that is why we choose to be a part of [1% for the planet](http://www.onepercentfortheplanet.org/).
 
-## 2. What
+## 2. What is 1% for the planet?
 
-[1% for the planet](http://www.onepercentfortheplanet.org/) is an organization that was cofounded by Yvon Chouinard the founder of the outdoor clothing company [Patagonia](http://eu.patagonia.com/). He is a vivid believer that you can use business to do good in the world. And for us Jaswig is just that. It is our creation with which we want to invest in a more sustainable future!
+[1% for the planet](http://www.onepercentfortheplanet.org/) is an organization that was cofounded by Yvon Chouinard, the founder of the outdoor clothing company [Patagonia](http://eu.patagonia.com/). He is a strong believer that you can use business to do good things for the world. And at Jaswig, we truly reflect on this idea. And that is why all our creations are crafted with love and a vision to create a more sustainable future. 
 
-## 3. How does it work?
+## 3. Wondering how it works?
 
-They tried to make it as easy as possible for everyone to understand. We have to give away at least 1% of our **annual SALES/REVENUE** to organization that are part of the 1% for the planet network. We will look for European initiatives that are in reforestation and land protection. This year we’ll give our funds to [Natuurpunt](http://natuurpunt.be) because it creates nature in Belgium where green is sometimes hard to find.
+Well, it is very simple. We have to give away at least 1% of our annual **annual SALES/REVENUE** to organizations that are a part of the 1% for the planet network. At Jaswig, we are looking out for European initiatives that contribute to reforestation and land protection. This year we are planning to give our funds to [Natuurpunt](http://natuurpunt.be). Natuurpunt is involved in creating a greener Belgium where foliage is disappearing very fast.
 
-## 4. Extra info
-For the interested reader you can have a look at the website of 1% for the planet. Make sure to have a look at their youtube channel 
-Here is the [link to our profile](http://www.onepercentfortheplanet.org/who-we-are/members/record/0010G00001xIfXTQA0) on the website of 1%, of which we are very proud :)!
+## 4. Want to know more?
+
+So are you interested? Well, for those curious souls, you can have a look at the website of 1% for the planet. Don’t forget to subscribe to their Youtube channel and watch their informative videos. So now for the proud moment, here is the [link to our profile](http://www.onepercentfortheplanet.org/who-we-are/members/record/0010G00001xIfXTQA0) on the website of 1 % for the planet.
 * [1%'s youtube channel](https://www.youtube.com/user/1percentfortheplanet)
 * [1%'s website](http://www.onepercentfortheplanet.org/)
