@@ -32,6 +32,5 @@ Well, it is very simple. We have to give away at least 1% of our annual **annual
 
 ## 4. Want to know more?
 
-So are you interested? Well, for those curious souls, you can have a look at the website of 1% for the planet. Don’t forget to subscribe to their Youtube channel and watch their informative videos. So now for the proud moment, here is the [link to our profile](http://www.onepercentfortheplanet.org/who-we-are/members/record/0010G00001xIfXTQA0) on the website of 1 % for the planet.
-* [1%'s youtube channel](https://www.youtube.com/user/1percentfortheplanet)
-* [1%'s website](http://www.onepercentfortheplanet.org/)
+So are you interested? Well, for those curious souls, you can have a look [on the website of 1% for the planet](http://www.onepercentfortheplanet.org/). Don’t forget to subscribe to their [YouTube channel](https://www.youtube.com/user/1percentfortheplanet) and watch their informative videos. So now for the proud moment, here is the [link to our profile](http://www.onepercentfortheplanet.org/who-we-are/members/record/0010G00001xIfXTQA0) on the website of 1 % for the planet.
+
