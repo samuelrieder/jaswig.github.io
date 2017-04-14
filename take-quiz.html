@@ -1,0 +1,106 @@
+---
+layout: default
+description: Think about your day and check out how many hours you sit a day!
+title: Take the Jaswig fitness Quiz
+published: true
+label: take-quiz
+permalink: "/quiz/"
+---
+
+<div class="container">
+  <div class="jumbotron">
+  <div class="row">
+    <div class="col-xs-12">
+      <h1 class="orange text-center">Is your work making you sick?</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="active col-xs-12" id="intro">
+      <p class="text-center">35% of our life is spent at work.
+In most cases this time spent negatively impacts your body and mind.
+We at Jaswig believe this doesn't have to be necessarily the case.</p>
+<br><br>
+<div class="center-it">
+  <a class="text-center orange-btn hero__cta cta btn" alt="Order your Jaswig now" id="quiz-start">Start Quiz</a>
+</div>
+    </div>
+
+    <div id="data" class="carousel slide" data-ride="carousel">
+
+      <div class="disp-non col-xs-12" id="q1">
+        <p class="text-center">Q1. For how many years have you been working in your current job? </p>
+        <div class="text-center"><input id="1" type="range" min="0" max="50" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="1-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q2">
+        <p class="text-center">Q2. In what position can you mostly be found in during work? </p>
+        <div class="text-center padd-bot ad-margi">
+          <div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-1" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Sit</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-2" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Drive</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-3" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Work Upright</div></div>
+        </div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q3">
+        <p class="text-center">Q3. For how many hours are you sitting while eating breakfast? </p>
+        <div class="text-center"><input id="3" type="range" min="0" max="3" step="0.10" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="3-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q4">
+        <p class="text-center">Q4. In total hours, how long do you sit at work? </p>
+        <div class="text-center"><input id="4" type="range" min="0" max="10" step="0.5" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="4-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q5">
+        <p class="text-center">Q5. How many times would you interrupt these sitting hours, excluding lunch break? </p>
+        <div class="text-center"><input id="5" type="range" min="0" max="20" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="5-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q6">
+        <p class="text-center">Q6. What kind of chair are you mainly using? </p>
+        <div class="text-center padd-bot ad-margi">
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-1" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Normal</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-2" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Ergonomic</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-3" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Stool</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-4" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Ball</div></div>
+        </div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q7">
+        <p class="text-center">Q7. How are you commuting to work, or clients? </p>
+        <div class="text-center padd-bot ad-margi">
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-1" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Car</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-2" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Bike</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-3" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Bus</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-4" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Train</div></div>
+        </div>
+      <br><br>
+    </div>
+    <div class="disp-non col-xs-12" id="q8">
+        <p class="text-center">Q8. On a daily average, how long does this commute take? </p>
+        <div class="text-center"><input id="8" type="range" min="0" max="4" step="0.25" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="8-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+      <br><br>
+    </div>
+      <!-- Left and right controls -->
+      <div class="center-it disp-non" id="controls">
+      <a class="disable text-center orange-btn hero__cta cta btn" id="prev">Prev</a>
+      <a class="disable text-center orange-btn hero__cta cta btn" id="next">Next</a>
+      </div>
+    </div>
+    <div class="disp-non col-xs-12" id="result1">
+      <p class="text-center">
+         You are a <strong class="orange">cave troll</strong>, the epitome of the sitting disease. No seriously, you should consider moving more during your work. Of course we would like to sell you on the idea of the standing revolution, where people develop better backs and strengthen their core body. But if you’re not up for that, consider more breaks. Ideally, take a break every half hour with one of these small office excercises:
+  <ul class="margi-n list-font">
+      <li>The office squat: one of the best exercise you can do to reactivate your legs and get the blood and oxygen flowing.</li>
+      <li>Ankle &amp; calf stretch: hold on foot off the floor and draw circles with your toes. Draw ten perfect circles for each leg.</li>
+</ul>
+</p>
+    </div>
+
+  </div>
+</div>
+</div>
+
+
+<script src="{{ "/js/quiz.js" | prepend: site.baseurl }}" defer></script>
+<script src="{{ "/js/carousel.js" | prepend: site.baseurl }}" defer></script>

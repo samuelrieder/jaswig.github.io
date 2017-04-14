@@ -271,9 +271,13 @@ $(document).ready(function () {
       $('#myModal').modal('show');
       setCookie("popup",1,364);
   }
+  if (document.cookie.indexOf("hire=") < 0){
+      $( '.we-hiring' ).first().removeClass( "no-disp" );
+  }
 });
 
 $( "#hire-close" ).click(function(e) {
   e.preventDefault();
+  setCookie("hire",1,364);
   $( '.we-hiring' ).first().addClass( "no-disp" );
 });

@@ -12,7 +12,7 @@
 {% include_relative hero-background.js %}
 
 $(document).on('ready', function() {
-  $('.order-card-text').matchHeight({byRow: true});
+  $('.order-card-text').matchHeight({byRow: true,property: 'height'});
   var cookiesWarning = new window.CookiesWarning()
 });
 
