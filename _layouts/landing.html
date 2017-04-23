@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<div class="padding3">
+  <div class="container">
+    <div class="row">
+      <div class="hidden-sm hidden-xs col-md-2"></div>
+      <div class="col-xs-12 col-md-8">
+
+        <div class="remove-padd-t2 why-jaswig__video">
+  				<div class="shader-rem promo-player img-adj-promo" style="{{ page.video-img }}">
+            <div class="video-cap"><span class="bodrer">{{ page.video-title }}</span></div>
+  					<button type="button" class="play-video filter-back" data-video="{{ page.video-url }}">
+  						<img src="/images/play.svg" alt="play button for video">
+  					</button>
+  				</div>
+        </div>
+
+      </div>
+      <div class="hidden-sm hidden-xs col-md-2"></div>
+    </div>
+  </div>
+</div>
+
+<div class="why-jaswig">
+<div class="testcube-promo container">
+  <div class="row padding-bottom">
+    <div class="col-xs-12 col-sm-5">
+      <div class="meetup__image">
+        <img src="{{ page.content-img }}" alt="{{ page.content-title }}" title="{{ page.content-title }}">
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-7">
+      <div class="meetup__right-text">
+
+        <h1 class="large">{{ page.content-title }}</h1>
+        <p>
+          {{ page.content-inner }}<br><br>
+        </p>
+
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+{% if page.orders %}
+<div class="order">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 id="order" class="large text-center">{{ page.order-title }}</h1>
+      </div>
+      {% include components/order-now.html %}
+    </div>
+  </div>
+</div>
+{% endif %}
