@@ -49,3 +49,11 @@
     margin-left: 25% !important;
   }
 }
+
+
+@media (max-width: 375px) {
+    .outgoing {
+      padding-left: 3px;
+      padding-right: 5px;
+    }
+}
