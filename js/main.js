@@ -16,8 +16,8 @@ $(document).on('ready', function() {
   var cookiesWarning = new window.CookiesWarning()
 });
 
-$(document).on('click', '.hero .cta, .mobile-content .cta', function(event) {
+/*$(document).on('click', '.hero .cta, .mobile-content .cta', function(event) {
   event.preventDefault();
   var anchor = $("#order");
   $('html,body').animate({'scrollTop' : anchor.offset().top}, 900);
-});
+});*/

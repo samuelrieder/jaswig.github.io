@@ -1,6 +1,6 @@
 .why-jaswig {
-  background-color: #FBFAF9;
-  border-bottom: 1px solid $color-subtle;
+  //background-color: #FBFAF9;
+  //border-bottom: 1px solid $color-subtle;
 
   .why-jaswig-text {
     h3,
@@ -33,3 +33,28 @@
 //     }
 //   }
 // }
+
+.why-jaswig-cta {
+  margin-top: 10%;
+  padding: 0 0;
+}
+
+.why-jaswig-padd {
+  padding: 25px 30px;
+  height: 75px;
+  width: 155px;
+}
+
+@media (min-width: 991px) {
+  .why-jaswig-cta {
+    padding: 0 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  .why-jaswig-padd {
+    padding: 16px 16px;
+    height: 75px;
+    width: 100px;
+  }
+}
