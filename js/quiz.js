@@ -1,8 +1,10 @@
 var pos = 0;
 var enable_next = true;
 var enable_prev = true;
+var q_count = document.getElementById('count');
 
 $( "#quiz-start" ).click(function() {
+  $("#title").addClass("disp-non");
   $(".active").removeClass("active");
   $("#intro").addClass("dnt-show");
   setTimeout(undisp, 500);
@@ -34,9 +36,11 @@ function pos_checker() {
     $("#next").addClass("disable");
     enable_next = false;
   }
+  q_count.innerHTML = "Question "+pos+"/8";
   if(pos == 9) {
     $('#controls').addClass("disp-non");
     $('#result1').removeClass("disp-non");
+    q_count.innerHTML = "";
   }
 }
 
@@ -99,6 +103,7 @@ function adjust_for_prev() {
     $("#prev").addClass("disable");
   }
   $("#next").removeClass("disable");
+  q_count.innerHTML = "Question "+pos+"/8";
 }
 
 
