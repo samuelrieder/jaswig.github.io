@@ -39,9 +39,66 @@ function pos_checker() {
   q_count.innerHTML = "Question "+pos+"/8";
   if(pos == 9) {
     $('#controls').addClass("disp-non");
-    $('#result1').removeClass("disp-non");
     q_count.innerHTML = "";
+    var divider = end_result();
+    if(divider<=51){
+      $('#result6').removeClass("disp-non");
+    } else {
+      if(divider<=103){
+        $('#result5').removeClass("disp-non");
+      } else {
+        if(divider<=155){
+          $('#result4').removeClass("disp-non");
+        } else {
+          if(divider<=206){
+            $('#result3').removeClass("disp-non");
+          } else {
+            if(divider<=258){
+              $('#result2').removeClass("disp-non");
+            } else {
+              $('#result1').removeClass("disp-non");
+            }
+          }
+        }
+      }
+    }
   }
+}
+
+function end_result() {
+  var f1 = $("#1").val();
+  f1=(f1/12.5)+1;
+  console.log(f1);
+  var f2 = get_cb_val("2");
+  f2*=1;
+  console.log(f2);
+  var f3 = $("#3").val();
+  f3*=1;
+  console.log(f3);
+  var f4 = $("#4").val();
+  f4*=1;
+  console.log(f4);
+  var f5 = $("#5").val();
+  f5=(f5/1.428)+1;
+  console.log(f5);
+  var f6 = get_cb_val("6");
+  f6*=1;
+  console.log(f6);
+  var f7 = get_cb_val("7");
+  f7*=1;
+  console.log(f7);
+  var f8 = $("#8").val();
+  f8*=1;
+  console.log(f8);
+  var end_result = f1*f2*(f3+f4/f5*f6+f7*f8); //f1*f2*((((f3+f4)/f5)*f6)+(f7*f8)); //min=0 max=6280
+  console.log(end_result+"  "+f1+" "+f2+" "+f3+" "+f4+" "+f5+" "+f6+" "+f7+" "+f8+" ");
+  return end_result;
+}
+
+function get_cb_val(name) {
+  var concat2 = "j"+name;
+
+return $("input[name='"+concat2+"']:checked").attr("value");
 }
 
 function updateTextInput(val,id) {
