@@ -32,16 +32,18 @@ function pos_checker() {
   }
   var concat = "j"+pos;
   var full = !$("input[name='"+concat+"']:checked").val();
-  if((pos==2 || pos==6 || pos==7) && full){
+  if((pos==2 || pos==7 || pos==8) && full){
     $("#next").addClass("disable");
     enable_next = false;
   }
-  q_count.innerHTML = "Question "+pos+"/8";
-  if(pos == 9) {
+  q_count.innerHTML = "Question "+pos+"/9";
+  if(pos == 10) {
     $('#controls').addClass("disp-non");
     q_count.innerHTML = "";
-    var divider = end_result();
-    if(divider<=51){
+    $('#sub-results').removeClass("disp-non");
+    result_blocks();
+    /* var divider = end_result();
+     if(divider<=51){
       $('#result6').removeClass("disp-non");
     } else {
       if(divider<=103){
@@ -61,7 +63,7 @@ function pos_checker() {
           }
         }
       }
-    }
+    } */
   }
 }
 
@@ -93,6 +95,62 @@ function end_result() {
   var end_result = f1*f2*(f3+f4/f5*f6+f7*f8); //f1*f2*((((f3+f4)/f5)*f6)+(f7*f8)); //min=0 max=6280
   console.log(end_result+"  "+f1+" "+f2+" "+f3+" "+f4+" "+f5+" "+f6+" "+f7+" "+f8+" ");
   return end_result;
+}
+
+function result_blocks() {
+  var b1 = $("#5").val();
+  b1*=1;
+  console.log(b1);
+  var b2 = $("#6").val();
+  b2=(b2/1.428)+1;
+  console.log(b2);
+  var b3 = $("#4").val();
+  b3*=1;
+  console.log(b3);
+  var b4 = $("#1").val();
+  b4*=1;
+  console.log(b4);
+
+  if(b1<=4){
+    $('#b11').removeClass("disp-non");
+  } else {
+    if (b1<=6) {
+      $('#b12').removeClass("disp-non");
+    } else {
+      $('#b13').removeClass("disp-non");
+    }
+  }
+
+  if(b2<=8){
+    $('#b21').removeClass("disp-non");
+  } else {
+    if (b2<=10) {
+      $('#b22').removeClass("disp-non");
+    } else {
+      $('#b23').removeClass("disp-non");
+    }
+  }
+
+  if(b3<=2){
+    $('#b31').removeClass("disp-non");
+  } else {
+    if (b3<=5) {
+      $('#b32').removeClass("disp-non");
+    } else {
+      $('#b33').removeClass("disp-non");
+    }
+  }
+
+  if(b4<=10){
+    $('#b41').removeClass("disp-non");
+  } else {
+    if (b4<=30) {
+      $('#b42').removeClass("disp-non");
+    } else {
+      $('#b43').removeClass("disp-non");
+    }
+  }
+
 }
 
 function get_cb_val(name) {
@@ -160,7 +218,7 @@ function adjust_for_prev() {
     $("#prev").addClass("disable");
   }
   $("#next").removeClass("disable");
-  q_count.innerHTML = "Question "+pos+"/8";
+  q_count.innerHTML = "Question "+pos+"/9";
 }
 
 

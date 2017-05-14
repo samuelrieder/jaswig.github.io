@@ -285,6 +285,7 @@ input[type="checkbox"]:focus{
 .list-font {
   color: $color-dark;
   font-size: 18px;
+  list-style-type: none;
 }
 .margi-n {
   margin: 0 auto;
@@ -329,4 +330,13 @@ input[type="checkbox"]:focus{
 
 .left{
     float:left;
+}
+
+.quiz-muted {
+  color: $color-brown !important;
+  font-style: italic;
+}
+
+.quiz-margin {
+  margin-bottom: 13px;
 }
