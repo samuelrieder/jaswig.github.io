@@ -104,6 +104,15 @@ modal-y: true
                         <a href="https://store.jaswig.be/products/securex-standup-nomad?variant=30805545873" ><img src="/images/standup/standup-nomad-extra-wide.jpg" alt="Home office standing desk"></a>
                       </div>
                       <div class="order-card-text heighter">
+                        <div class="order-options">
+                          <label class="left">Top</label><label class="right">Full Desk</label><br>
+                          <input type="radio" name="all" id="t1" value="ONE_0798_1024x1024.jpg" style="background-color:#1c1b1a;"/>
+                          <input type="radio" name="all" id="t2" value="ONE_0796_1024x1024.jpg" style="background-color:#6BC6B8;"/>
+                          <input type="radio" name="all" id="t3" value="ONE_0797_1024x1024.jpg" style="background-color:#D0021B;"/>
+                          <input type="radio" name="all" id="f2" value="ONE_3430_1024x1024.jpg" class="right" style="background-color:#fff;"/>
+                          <input type="radio" name="all" id="f1" value="ONE_2721_1024x1024.jpg" class="right" style="background-color:#1c1b1a;"/>
+                          <br><br><span class="order-card-price">+20€</span><span class="right order-card-price">+50€</span><br>
+                        </div>
                         <h3 class="height-ad-ew">StandUp Nomad <span class="attention">extra wide</span></h3>
                         <h3 class="order-card-price" ><del>€495</del>  €445</h3>
                         <p class="equalize">De extra wide versie geeft je net dat tikkeltje meer plaats.
@@ -123,6 +132,15 @@ modal-y: true
                         <a href="https://store.jaswig.be/products/securex-standup-nomad" ><img src="/images/standup/standup-nomad.jpg" alt="Design stand up desk"></a>
                       </div>
                       <div class="order-card-text heighter">
+                        <div class="order-options">
+                          <label class="left">Top</label><label class="right">Full Desk</label><br>
+                          <input type="radio" name="all2" id="t12" value="ONE_0798_1024x1024.jpg" style="background-color:#1c1b1a;"/>
+                          <input type="radio" name="all2" id="t22" value="ONE_0795_1024x1024.jpg" style="background-color:#6BC6B8;"/>
+                          <input type="radio" name="all2" id="t32" value="ONE_0797_1024x1024.jpg" style="background-color:#D0021B;"/>
+                          <input type="radio" name="all2" id="f22" value="ONE_3430_1024x1024.jpg" class="right" style="background-color:#fff;"/>
+                          <input type="radio" name="all2" id="f12" value="ONE_2721_1024x1024.jpg" class="right" style="background-color:#1c1b1a;"/>
+                          <br><br><span class="order-card-price">+20€</span><span class="right order-card-price">+50€</span><br>
+                        </div>
                         <h3 class="height-ad-ew">StandUp Nomad</h3>
                         <h3 class="order-card-price" ><del>€450</del>  €405</h3>
                         <p class="equalize">Met deze compacte bureau tover je elke plek om tot een efficiente werkplek
@@ -142,6 +160,7 @@ modal-y: true
                         <a href="https://store.jaswig.be/products/securex-screenup" ><img src="/images/screen-up/screen-up.jpg" alt="standing desk neck pain"></a>
                       </div>
                       <div class="order-card-text heighter">
+                        {% include components/order-options-invisible.html %}
                         <h3 class="height-ad-ew">ScreenUp</h3>
                         <h3 class="order-card-price" ><del>€75</del>  €67</h3>
                         <p class="equalize">Een makkelijk te monteren opzetstuk voor nog een betere ergonomische set up.</p>
@@ -161,6 +180,7 @@ modal-y: true
                         <a href="https://store.jaswig.be/products/securex-my-first-standup" ><img src="/images/standup/my-first-standup.jpg" alt="Children standing desk"></a>
                       </div>
                       <div class="order-card-text heighter">
+                        {% include components/order-options-invisible.html %}
                         <h3 class="height-ad-ew">My First StandUp</h3>
                         <h3 class="order-card-price" ><del>€345</del>  €310</h3>
                         <p class="equalize">Laat je kind de vreiheid te bewegen tijdens het huiswerk! Nadat je kind deze desk is ontgroeid krijg je € 100 korting op een StandUp nomad.</p>
@@ -179,6 +199,7 @@ modal-y: true
           </div>
         </div>
       </div>
+      <script src="{{ "/js/order-img.js" | prepend: site.baseurl }}" defer></script>
 
 
       <div class="values meetup__gallery">
