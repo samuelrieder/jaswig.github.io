@@ -1,20 +1,44 @@
-var check;
+var check="",check2="";
 var naming=1;
+var shopify="http://store.jaswig.be/products";
 
 $("input:radio").on('click', function() {
   $radio = $(this);
   if(check == $(this).attr("id")) {
-      check = false;
+      check = "";
       $radio.prop("checked", false);
       var u1 = $(this).parent();
       var u2 = $(u1).parent();
       var u3 = $(u2).prev();
       var img_src = $(u3).children().find("img").attr("data-image");
       $(u3).children().find("img").attr("src",img_src);
+      var original_price = $(this).parent().siblings(".order-card-price").attr("data-price");
+      $(this).parent().siblings(".order-card-price").html(original_price);
+      var original_url = $(this).parent().siblings(".center-it").children("a").attr("data-url");
+      $(this).parent().siblings(".center-it").children("a").attr("href",original_url);
+      $(this).parent().parent().siblings(".order-card-image").children("a").attr("href",original_url);
     }
 
+    if(check2 == $(this).attr("id")) {
+        check2 = "";
+        $radio.prop("checked", false);
+        var u1 = $(this).parent();
+        var u2 = $(u1).parent();
+        var u3 = $(u2).prev();
+        var img_src = $(u3).children().find("img").attr("data-image");
+        $(u3).children().find("img").attr("src",img_src);
+        var original_price = $(this).parent().siblings(".order-card-price").attr("data-price");
+        $(this).parent().siblings(".order-card-price").html(original_price);
+        var original_url = $(this).parent().siblings(".center-it").children("a").attr("data-url");
+        $(this).parent().siblings(".center-it").children("a").attr("href",original_url);
+        $(this).parent().parent().siblings(".order-card-image").children("a").attr("href",original_url);
+      }
+
   if ($radio.is(":checked")) {
-    check = $(this).attr("id");
+    if($(this).attr("name") == "all")
+    {check = $(this).attr("id");}
+    else
+    {check2 = $(this).attr("id");}
     var group = "/images/" + $radio.attr("value");
     var u1 = $(this).parent();
     var u2 = $(u1).parent();
@@ -24,13 +48,29 @@ $("input:radio").on('click', function() {
     if (typeof attr == typeof undefined || attr == false) {
         $(u3).children().find("img").attr("data-image",img_src);
     }
-    // var attr2 = $(this).attr("name");
-    // if (typeof attr2 == typeof undefined || attr2 == false) {
-    //   $(this).siblings("input").attr("name","all"+naming);
-    //   $(this).attr("name","all"+naming);
-    //   naming++;
-    //   console.log("we here")
-    // }
+
+    var attr_price = $(this).parent().siblings(".order-card-price").attr("data-price");
+    var current_price = $(this).parent().siblings(".order-card-price").html();
+    if (typeof attr_price == typeof undefined || attr_price == false) {
+        $(this).parent().siblings(".order-card-price").attr("data-price",current_price);
+    }
+    $(this).parent().siblings(".order-card-price").html($(this).attr("data-price"));
+
+
+    var attr_url = $(this).parent().siblings(".center-it").children("a").attr("data-url");
+    var current_url = $(this).parent().siblings(".center-it").children("a").attr("href");
+    if (typeof attr_url == typeof undefined || attr_url == false) {
+        $(this).parent().siblings(".center-it").children("a").attr("data-url",current_url);
+    }
+    var update_url = shopify+$(this).attr("data-url");
+    $(this).parent().siblings(".center-it").children("a").attr("href",update_url);
+    var attr_url2 = $(this).parent().parent().siblings(".order-card-image").children("a").attr("data-url");
+    if (typeof attr_url2 == typeof undefined || attr_url2 == false) {
+        $(this).parent().parent().siblings(".order-card-image").children("a").attr("data-url",current_url);
+    }
+    $(this).parent().parent().siblings(".order-card-image").children("a").attr("href",update_url);
+
+
     $(u3).children().find("img").attr("src",group);
     if($( window ).width() < 768){
       var ww = 66.07*($( window ).width())/100;

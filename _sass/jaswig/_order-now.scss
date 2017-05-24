@@ -133,7 +133,7 @@ $order-card-radius: 10px;
     }
   }
   .height-ad-ew {
-    height: 10.5%;
+    height: 8.5%;
   }
 }
 
@@ -149,7 +149,7 @@ $order-card-radius: 10px;
 
 @media (min-width: $screen-md-min) {
   .equalize {
-    height: 40%;
+    height: 38%;
   }
 }
 
@@ -170,14 +170,6 @@ $order-card-radius: 10px;
     font-weight: 800;
 }
 
-.order-options span {
-    font-family: "Brandon Grotesque";
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 17px;
-    font-weight: 800;
-    margin: 0 10px;
-}
 
 .order-options .left {
   margin-left: 25px;
@@ -194,17 +186,22 @@ input[type="radio"]:focus{
 .order-options input {
 	-webkit-appearance: none;
 	background-color: #0a0a0a;
-	border: 3px solid #cacece;
+	border: 1px solid #cacece;
 	border-radius: 15px;
 	display: inline-block;
 	position: relative;
-  margin: 5px;
+  margin: 6px;
   float: left;
   padding: 5px;
 
 &:checked {
 	background-color: #000;
-	border: 3px solid $color-primary;
 	color: #fff;
+  padding: 8px;
+  -webkit-margin-before: 2px;
+}
+
+&:hover  {
+  cursor: pointer;
 }
 }
