@@ -45,7 +45,9 @@ layout: default
 </div>
 </div>
 
-{% if page.orders %}
+{{ content }}
+
+{% if page.orders == "full" %}
 <div class="order">
   <div class="container adj-container">
     <div class="row">
@@ -53,6 +55,17 @@ layout: default
         <h1 id="order" class="large text-center">{{ page.order-title }}</h1>
       </div>
       {% include components/order-now.html %}
+    </div>
+  </div>
+</div>
+{% elsif page.orders == "eng" %}
+<div class="order">
+  <div class="container adj-container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 id="order" class="large text-center">{{ page.order-title }}</h1>
+      </div>
+      {% include components/order-now-en.html %}
     </div>
   </div>
 </div>
