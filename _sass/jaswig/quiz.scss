@@ -342,6 +342,9 @@ input[type="checkbox"]:focus{
   margin-bottom: 13px;
 }
 
-.quiz-img {
 
+@media (min-width: 992px) {
+  .quiz-img {
+      padding: 60px;
+  }
 }

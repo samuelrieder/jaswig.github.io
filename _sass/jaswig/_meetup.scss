@@ -60,7 +60,6 @@
   }
 }
 
-
 /* Style the Image Used to Trigger the Modal */
 #myImg {
     border-radius: 5px;
@@ -152,4 +151,23 @@
 
 .modal-img {
   cursor: pointer;
+  height: 57vw;
+}
+
+@media (min-width: 768px) {
+  .modal-img {
+    height: 160px;
+  }
+}
+
+@media (min-width: 992px) {
+  .modal-img {
+    height: 210px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .modal-img {
+    height: 255px;
+  }
 }
