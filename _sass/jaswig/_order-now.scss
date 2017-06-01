@@ -135,6 +135,10 @@ $order-card-radius: 10px;
   .height-ad-ew {
     height: 8.5%;
   }
+
+  .order-attention-adj {
+    margin-top: -12px;
+  }
 }
 
 .adj-container {
@@ -149,13 +153,13 @@ $order-card-radius: 10px;
 
 @media (min-width: $screen-md-min) {
   .equalize {
-    height: 38%;
+    height: 34%;
   }
+   .order-matrix-responsive {
+     padding-left: 0px;
+   }
 }
 
-.heighter {
-  height: 650px !important;
-}
 
 .orange {
   color: $color-primary !important;

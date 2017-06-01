@@ -4,7 +4,8 @@ var shopify="http://store.jaswig.be/products";
 
 $("input:radio").on('click', function() {
   $radio = $(this);
-  if(check == $(this).attr("id")) {
+  //Uncomment this if you want to enable unselecting elements and set to default product col1
+  /*if(check == $(this).attr("id")) {
       check = "";
       $radio.prop("checked", false);
       var u1 = $(this).parent();
@@ -17,9 +18,10 @@ $("input:radio").on('click', function() {
       var original_url = $(this).parent().siblings(".center-it").children("a").attr("data-url");
       $(this).parent().siblings(".center-it").children("a").attr("href",original_url);
       $(this).parent().parent().siblings(".order-card-image").children("a").attr("href",original_url);
-    }
+    } */
 
-    if(check2 == $(this).attr("id")) {
+    //Uncomment this if you want to enable unselecting elements and set to default product col2
+    /*if(check2 == $(this).attr("id")) {
         check2 = "";
         $radio.prop("checked", false);
         var u1 = $(this).parent();
@@ -32,7 +34,7 @@ $("input:radio").on('click', function() {
         var original_url = $(this).parent().siblings(".center-it").children("a").attr("data-url");
         $(this).parent().siblings(".center-it").children("a").attr("href",original_url);
         $(this).parent().parent().siblings(".order-card-image").children("a").attr("href",original_url);
-      }
+      }*/
 
   if ($radio.is(":checked")) {
     if($(this).attr("name") == "all")
