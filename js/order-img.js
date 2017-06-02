@@ -107,3 +107,19 @@ $( window ).resize(function() {
   }
 }
 });
+
+//first adjust
+if($( window ).width() < 768){
+  var ww = 66.07*($( window ).width())/100;
+  $(".order-card-image img").attr("height",ww+"px");
+} else{
+if($( window ).width() < 992){
+  $(".order-card-image img").attr("height","535.7px");
+} else {
+  if($( window ).width() < 1200) {
+  $(".order-card-image img").attr("height","173.2px");
+} else {
+  $(".order-card-image img").attr("height","208.922px");
+}
+}
+}
