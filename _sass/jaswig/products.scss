@@ -1,0 +1,59 @@
+.padding3 {
+  padding: 20px 0 30px;
+}
+
+.video-cap {
+  font-size: 42px;
+  color: #fff;
+  font-family: "Brandon Grotesque";
+  font-weight: 500;
+  text-align: center;
+  padding-top: 2%;
+  position: relative;
+  z-index: 1;
+}
+
+.img-adj-promo {
+  padding-bottom: 50%;
+}
+
+.bodrer {
+  padding: 0px;
+}
+
+@media (min-width: 500px) {
+  .video-cap {
+    font-size: 60px;
+    padding-top: 5%;
+  }
+  .img-adj-promo {
+    padding-bottom: 48%;
+  }
+}
+
+.filter-back {
+  background-color: rgba(50, 50, 50, 0.3) !important;
+}
+
+
+.caption {
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    padding: inherit;
+}
+@media (min-width: 768px) {
+  .land-marg {
+    margin-left: 25% !important;
+  }
+}
+
+
+@media (max-width: 375px) {
+    .outgoing {
+      padding-left: 3px;
+      padding-right: 5px;
+    }
+}

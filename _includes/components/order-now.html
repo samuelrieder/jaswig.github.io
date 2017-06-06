@@ -1,4 +1,4 @@
-<div class="col-xs-12">
+<div class="col-xs-12 order-matrix-responsive">
   <div class="container">
     <div class="row">
       <div class="order-col">
@@ -8,9 +8,19 @@
           </div>
           <div class="order-card-text">
             <h3>StandUp Nomad <span class="attention">extra wide</span></h3>
-            <h3 class="order-card-price" >€495</h3>
-            <p class="equalize">Its larger desktop size makes it ideal for your creative and happy workspace.
-            <br><br>Colored tops available  <span class="attention">New!</span></p>
+            <h3 class="order-card-price order-attention-adj" >€495</h3>
+            <div class="order-options">
+              <label class="left">Color Top</label><label class="right">Color Desk</label><br>
+              <input type="radio" name="all" id="t1" value="ONE_0798_1024x1024.jpg" style="background-color:#1c1b1a;" data-price="€515" data-url="/standup-nomad?variant=34653610449"/>
+              <input type="radio" name="all" id="t2" value="ONE_0796_1024x1024.jpg" style="background-color:#7395b9;" data-price="€515" data-url="/standup-nomad?variant=34653625809"/>
+              <input type="radio" name="all" id="t3" value="ONE_0797_1024x1024.jpg" style="background-color:#D0021B;" data-price="€515" data-url="/standup-nomad?variant=34653544465"/>
+              <input type="radio" name="all" id="t4" value="ONE_0793_1024x1024.jpg" style="background-color:#80909d;" data-price="€515" data-url="/standup-nomad?variant=29208906897"/>
+              <input type="radio" name="all" id="t5" value="ONE_0795_1024x1024.jpg" style="background-color:#d0e4ea;" data-price="€515" data-url="/standup-nomad?variant=29208923217"/>
+              <input type="radio" name="all" id="f3" value="ONE_3430_1024x1024.jpg" class="right" style="background-color:#fff;" data-price="€650" data-url="/standup-nomad?variant=34654084945"/>
+              <input type="radio" name="all" id="f2" value="ONE_2721_1024x1024.jpg" class="right" style="background-color:#1c1b1a;" data-price="€650" data-url="/standup-nomad?variant=34654104465"/>
+              <input checked="checked" type="radio" name="all" id="f1" value="standup/standup-nomad-extra-wide.jpg" class="right" style="background-color:#e2d2c0;" data-price="€495" data-url="/standup-nomad?variant=18202146436"/><br>
+            </div>
+            <p class="equalize">Its larger desktop size makes it ideal for your creative and happy workspace.</p>
             <p class="strong">
               Height ranges: <span >93 – 122 cm</span><br>
               Desktop size: <span >55 x 80 cm</span>
@@ -28,8 +38,18 @@
           <div class="order-card-text">
             <h3 class="height-ad-ew">StandUp Nomad</h3>
             <h3 class="order-card-price" >€450</h3>
-            <p  class="equalize">The compact desktop size allows you to take it with you: perfect for daily home activities.
-            <br><br>Colored tops available  <span class="attention">New!</span></p>
+            <div class="order-options">
+              <label class="left">Color Top</label><label class="right">Color Desk</label><br>
+              <input type="radio" name="all2" id="t12" value="ONE_0798_1024x1024.jpg" style="background-color:#1c1b1a;" data-price="€470" data-url="/standup-nomad?variant=34653510545"/>
+              <input type="radio" name="all2" id="t22" value="ONE_0796_1024x1024.jpg" style="background-color:#7395b9;" data-price="€470" data-url="/standup-nomad?variant=34653461393"/>
+              <input type="radio" name="all2" id="t32" value="ONE_0797_1024x1024.jpg" style="background-color:#D0021B;" data-price="€470" data-url="/standup-nomad?variant=34653336145"/>
+              <input type="radio" name="all2" id="t42" value="ONE_0793_1024x1024.jpg" style="background-color:#80909d;" data-price="€470" data-url="/standup-nomad?variant=29208845521"/>
+              <input type="radio" name="all2" id="t52" value="ONE_0795_1024x1024.jpg" style="background-color:#d0e4ea;" data-price="€470" data-url="/standup-nomad?variant=29208895697"/>
+              <input type="radio" name="all2" id="f32" value="ONE_3430_1024x1024.jpg" class="right" style="background-color:#fff;" data-price="€600" data-url="/standup-nomad?variant=34654137425"/>
+              <input type="radio" name="all2" id="f22" value="ONE_2721_1024x1024.jpg" class="right" style="background-color:#1c1b1a;" data-price="€600" data-url="/standup-nomad?variant=34654161425"/>
+              <input checked="checked" type="radio" name="all2" id="f12" value="standup/standup-nomad.jpg" class="right" style="background-color:#e2d2c0;" data-price="€450" data-url="/standup-nomad?variant=18202146308"/><br>
+            </div>
+            <p  class="equalize">The compact desktop size allows you to take it with you: perfect for daily home activities.</p>
             <p class="strong">
               Height ranges: <span >93 – 122 cm</span><br>
               Desktop size: <span >50 x 65 cm</span>
@@ -47,6 +67,7 @@
           <div class="order-card-text">
             <h3 class="height-ad-ew">ScreenUp</h3>
             <h3 class="order-card-price" >€75</h3>
+            {% include components/order-options-invisible.html %}
             <p class="equalize">An easyly mounted add-on for the StandUp made for your computer screen and other accessories.</p>
             <p class="strong">
               Surface: <span>40 x 40 cm </span><br>
@@ -57,7 +78,6 @@
           </div>
         </div>
       </div>
-
       <div class="order-col">
         <div class="order-card last">
           <div class="order-card-image">
@@ -66,6 +86,7 @@
           <div class="order-card-text">
             <h3 class="height-ad-ew">My First StandUp</h3>
             <h3 class="order-card-price" >€345</h3>
+              {% include components/order-options-invisible.html %}
             <p class="equalize">This cute desk is your kids’ buddy for play or homework. After outgrowing you get a € 100 discount for a StandUp Nomad.</p>
             <p class="strong">
               Height ranges: <span >69 - 89 cm</span><br>
@@ -76,6 +97,26 @@
           </div>
         </div>
       </div>
+      <div class="order-col">
+        <div class="order-card order-single first last">
+          <div class="order-card-image">
+            <a href="{{ "/products/screenup" | prepend: site.shopify_eu }}" ><img src="/images/MeetUp1.jpg" alt="standing desk neck pain"></a>
+          </div>
+          <div class="order-card-text">
+            <h3 class="height-ad-ew">MeetUp</h3>
+              {% include components/order-options-invisible.html %}
+            <p class="equalize">The most beautiful product to make your meetings more productive, efficient and creative!</p>
+            <p class="strong">
+              Dimensions: <span>210 x 110 cm</span><br>
+              Height: <span> 111 cm</span><br>
+              Ideal for <span> 6 to 8 people</span>
+            </p><div class="center-it padd-bot">
+            <a href="mailto:henri@jaswig.eu" class="more-info hero__cta cta btn" title="drop us a mail to ask for more info and pricing">Contact Us</a>
+          </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+<script src="{{ "/js/order-img.js" | prepend: site.baseurl }}" defer></script>

@@ -3,7 +3,6 @@ layout: default
 title: Jaswig's Wooden Standing Desks | Jaswig
 label: Products
 permalink: /StandUp/
-position: 2
 submenu:
   - item:
     link: /StandUp/
@@ -11,6 +10,7 @@ submenu:
   - item:
     link: /meetup/
     text: MeetUp
+prod_qos: true
 ---
 
 <div class="order">
@@ -20,7 +20,75 @@ submenu:
         <h1 class="large fix_padding_store">Jaswig's Wooden Standing Desks</h1>
         <p class="go_to_eu store_go_to">If you are visiting from the US? Please go to <a href="http://www.jaswig.com">www.jaswig.com</a></p>
       </div>
-      {% include components/order-now.html %}
+      {% include components/order-now-en.html %}
     </div>
   </div>
 </div>
+
+<div class="values meetup__gallery">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/ONE_3430_1024x1024.jpg" alt="White Desk" class="modal-img">
+      </div>
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/ONE_2721_1024x1024.jpg" alt="Black Desk" class="modal-img">
+      </div>
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/standup/standup-nomad.jpg" alt="standup nomad" class="modal-img">
+      </div>
+    </div>
+    <br><br>
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/StandUp10.jpg" alt="Home Office" class="modal-img">
+      </div>
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/StandUp11.jpg" alt="Meeting at stading desk" class="modal-img">
+      </div>
+      <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+        <img src="/images/StandUp12.jpg" alt="Design standing meeting table" class="modal-img">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementsByClassName('modal-img');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+for (i=0; i<img.length; i++) {
+img[i].onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>

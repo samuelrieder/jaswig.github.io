@@ -19,7 +19,7 @@
             <li class="navigation__item nav-item">
 
               {% if my_page.submenu %}
-                <span class="{% if page.url == my_page.url %} active {% else %} {% if page.prod_qos %} active {% endif %} {% endif %}" >{{ my_page.label }}</span>
+                <a class="{% if page.url == my_page.url %} active {% else %} {% if page.prod_qos %} active {% endif %} {% endif %}" href="{{ my_page.permalink }}">{{ my_page.label }}</a>
 
                 <ul class="navigation__submenu">
                 {% for item in my_page.submenu %}

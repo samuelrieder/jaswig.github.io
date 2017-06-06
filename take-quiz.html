@@ -9,7 +9,7 @@ permalink: "/quiz/"
 
 <div class="container">
   <div class="jumbotron">
-  <div class="row">
+  <div class="row" id="title">
     <div class="col-xs-12">
       <h1 class="orange text-center">Is your work making you sick?</h1>
     </div>
@@ -28,59 +28,92 @@ We at Jaswig believe this doesn't have to be necessarily the case.</p>
     <div id="data" class="carousel slide" data-ride="carousel">
 
       <div class="disp-non col-xs-12" id="q1">
-        <p class="text-center">Q1. For how many years have you been working in your current job? </p>
-        <div class="text-center"><input id="1" type="range" min="0" max="50" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="1-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+        <h1 class="quiz-qn-font orange text-center">Q1. For how many years have you been working in your current job? </h1>
+        <div class="text-center"><input id="1" type="range" min="0" max="50" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">50</span><span class="left">0</span>​<br><input class="text-center" type="text" id="1-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Years</label></div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q2">
-        <p class="text-center">Q2. In what position can you mostly be found in during work? </p>
+        <h1 class="quiz-qn-font orange text-center fix_padding_h2">Q2. In what position can you mostly be found in during work? </h1>
+        <div class="row">
+          <div class="col-md-1 col-xs-0"></div>
+          <img class="col-md-2 col-xs-4" src="/images/quiz/icons_chair-01.png" alt="chair">
+          <div class="col-md-2 col-xs-0"></div>
+          <img class="col-md-2 col-xs-4" src="/images/quiz/icons_car-01.png" alt="car">
+          <div class="col-md-2 col-xs-0"></div>
+          <img class="col-md-2 col-xs-4" src="/images/quiz/icons_standingprofession-01.png" alt="stand">
+          <div class="col-md-1 col-xs-0"></div>
+        </div>
         <div class="text-center padd-bot ad-margi">
-          <div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-1" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Sit</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-2" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Drive</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-3" class="regular-checkbox big-checkbox" name="j2" /><div class="align">Work Upright</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-1" class="regular-checkbox big-checkbox" name="j2" value="2" /><div class="align">Sit</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-2" class="regular-checkbox big-checkbox" name="j2" value="2" /><div class="align">Drive</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-4"><input type="checkbox" id="checkbox-2-3" class="regular-checkbox big-checkbox" name="j2" value="1" /><div class="align">Work Upright</div></div>
         </div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q3">
-        <p class="text-center">Q3. For how many hours are you sitting while eating breakfast? </p>
-        <div class="text-center"><input id="3" type="range" min="0" max="3" step="0.10" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="3-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+        <h1 class="quiz-qn-font orange text-center">Q3. On average, how many hours a day do you sit after work? <p class="quiz-muted">(watching television, gaming, cafe with friends, behind computer or ipad or smartphone)</p> </h1>
+        <div class="text-center"><input id="3" type="range" min="0" max="8" step="0.25" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">8</span><span class="left">0</span><br><input class="text-center" type="text" id="3-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Hours</label></div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q4">
-        <p class="text-center">Q4. In total hours, how long do you sit at work? </p>
-        <div class="text-center"><input id="4" type="range" min="0" max="10" step="0.5" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="4-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+        <h1 class="quiz-qn-font orange text-center">Q4. How many hours of sports do you do during a typical week? </h1>
+        <div class="text-center"><input id="4" type="range" min="0" max="20" step="0.5" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">20</span><span class="left">0</span><br><input class="text-center" type="text" id="4-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Hours</label></div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q5">
-        <p class="text-center">Q5. How many times would you interrupt these sitting hours, excluding lunch break? </p>
-        <div class="text-center"><input id="5" type="range" min="0" max="20" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="5-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+        <h1 class="quiz-qn-font orange text-center">Q5. On an average day at work, how many hours do you sit? </h1>
+        <div class="text-center"><input id="5" type="range" min="0" max="10" step="0.5" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">10</span><span class="left">0</span><br><input class="text-center" type="text" id="5-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Hours</label></div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q6">
-        <p class="text-center">Q6. What kind of chair are you mainly using? </p>
-        <div class="text-center padd-bot ad-margi">
-          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-1" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Normal</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-2" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Ergonomic</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-3" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Stool</div></div>
-          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-6-4" class="regular-checkbox big-checkbox" name="j6" /><div class="align">Ball</div></div>
+        <h1 class="quiz-qn-font orange text-center fix_padding_h2">Q6. How many times would you interrupt these sitting hours on a typical day? </h1>
+        <div class="row">
+          <div class="col-xs-0 col-sm-2"></div>
+          <img class="quiz-img col-xs-4 col-sm-3" src="/images/quiz/icons_printer-01.png" alt="printer">
+          <img class="quiz-img col-xs-4 col-sm-3" src="/images/quiz/icons_tool-01.png" alt="coffee">
+          <img class="quiz-img col-xs-4 col-sm-3" src="/images/quiz/icons_toilet-01.png" alt="toilet">
         </div>
+        <div class="text-center"><input id="6" type="range" min="0" max="20" step="1" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">20</span><span class="left">0</span><br><input class="text-center" type="text" id="6-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Times</label></div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q7">
-        <p class="text-center">Q7. How are you commuting to work, or clients? </p>
+        <h1 class="quiz-qn-font orange text-center fix_padding_h2">Q7. What kind of chair are you mainly using? </h1>
+        <div class="row">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_chair-01.png" alt="chair">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_ergonomicchair-01.png" alt="ergo chair">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_stool-01.png" alt="stool">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_sitball-01.png" alt="sitball">
+        </div>
         <div class="text-center padd-bot ad-margi">
-          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-1" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Car</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-2" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Bike</div></div>
-        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-3" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Bus</div></div>
-          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-4" class="regular-checkbox big-checkbox" name="j7" /><div class="align">Train</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-1" class="regular-checkbox big-checkbox" name="j7" value="2" /><div class="align">Normal</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-2" class="regular-checkbox big-checkbox" name="j7" value="1.5" /><div class="align">Ergonomic</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-3" class="regular-checkbox big-checkbox" name="j7" value="2" /><div class="align">Stool</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-7-4" class="regular-checkbox big-checkbox" name="j7" value="1.3" /><div class="align">Ball</div></div>
         </div>
       <br><br>
     </div>
     <div class="disp-non col-xs-12" id="q8">
-        <p class="text-center">Q8. On a daily average, how long does this commute take? </p>
-        <div class="text-center"><input id="8" type="range" min="0" max="4" step="0.25" value="0" onchange="updateTextInput(this.value,this.id);"/><br><input class="text-center" type="text" id="8-1" value="0" onchange="updateRangeInput(this.value,this.id);"></div>
+        <h1 class="quiz-qn-font orange text-center fix_padding_h2">Q8. How are you commuting to work, or clients? </h1>
+        <div class="row">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_car-01.png" alt="car">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_bike-01.png" alt="bike">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_bus-01.png" alt="bus">
+          <img class="quiz-img col-xs-3" src="/images/quiz/icons_train-01.png" alt="train">
+        </div>
+        <div class="text-center padd-bot ad-margi">
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-8-1" class="regular-checkbox big-checkbox" name="j8" value="2" /><div class="align">Car</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-8-2" class="regular-checkbox big-checkbox" name="j8" value="0" /><div class="align">Bike</div></div>
+        	<div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-8-3" class="regular-checkbox big-checkbox" name="j8" value="1.5" /><div class="align">Bus</div></div>
+          <div class="col-xs-12 col-sm-12 col-md-3"><input type="checkbox" id="checkbox-8-4" class="regular-checkbox big-checkbox" name="j8" value="1.5" /><div class="align">Train</div></div>
+        </div>
       <br><br>
     </div>
+    <div class="disp-non col-xs-12" id="q9">
+        <h1 class="quiz-qn-font orange text-center">Q9. On a daily average, how long does this commute take? </h1>
+        <div class="text-center"><input id="9" type="range" min="0" max="4" step="0.25" value="0" onchange="updateTextInput(this.value,this.id);"/><br><span class="right">4</span><span class="left">0</span><br><input class="text-center" type="text" id="9-1" value="0" onchange="updateRangeInput(this.value,this.id);"><label class="quiz-count">Hours</label></div>
+      <br><br>
+    </div>
+    <p class="orange quiz-count" id="count"></p>
       <!-- Left and right controls -->
       <div class="center-it disp-non" id="controls">
       <a class="disable text-center orange-btn hero__cta cta btn" id="prev">Prev</a>
@@ -88,12 +121,76 @@ We at Jaswig believe this doesn't have to be necessarily the case.</p>
       </div>
     </div>
     <div class="disp-non col-xs-12" id="result1">
+      <h1 class="orange text-center">Result</h1>
       <p class="text-center">
          You are a <strong class="orange">cave troll</strong>, the epitome of the sitting disease. No seriously, you should consider moving more during your work. Of course we would like to sell you on the idea of the standing revolution, where people develop better backs and strengthen their core body. But if you’re not up for that, consider more breaks. Ideally, take a break every half hour with one of these small office excercises:
   <ul class="margi-n list-font">
       <li>The office squat: one of the best exercise you can do to reactivate your legs and get the blood and oxygen flowing.</li>
       <li>Ankle &amp; calf stretch: hold on foot off the floor and draw circles with your toes. Draw ten perfect circles for each leg.</li>
 </ul>
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="result2">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         You are <strong class="orange">the pilot</strong>, unable to stand whenever you want you’ll have to come up with some creative tricks. Luckily we’re here to help or the tool wouldn’t be much use:
+         <ul class="margi-n list-font">
+             <li>Set your car in cruise control and hold one foot off the floor and draw circles with your toes! This will help your blood circulation.</li>
+             <li>Once you get out of your car, do ten squats before hitting the meeting. You’ll feel more energized and ready to rumble!</li>
+       </ul>
+
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="result3">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         You are a <strong class="orange">Some result</strong>
+
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="result4">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         You are an <strong class="orange">average joe</strong>
+
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="result5">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         <strong class="orange">well done</strong> you are on your way to become perfect.
+
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="result6">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         You are <strong class="orange">Perfect</strong>
+
+</p>
+    </div>
+    <div class="disp-non col-xs-12" id="sub-results">
+      <h1 class="orange text-center">Result</h1>
+      <p class="text-center">
+         <ul class="margi-n list-font">
+             <li class="disp-non quiz-margin" id="b11"><strong class="orange">Sitting:- </strong>Great to hear that you spent only a fraction of your time seated. This is great news for your body and mind. Nice work!</li>
+             <li class="disp-non quiz-margin" id="b12"><strong class="orange">Sitting:- </strong>You spend quite a lot of time seated. You should really try to focus on interrupting these periods of prolonged sitting. This can be done by taking a small walk or standing up once in a while. You should understand that even doing sports after you sat for so long time will not undo the harm done to your body.</li>
+             <li class="disp-non quiz-margin" id="b13"><strong class="orange">Sitting:- </strong>You spend way to much time on your bottom! You really need to reduce these and interrupt them as much as possible. Stay positive though because It is never to late to change habbits. Talk to your preventive advisor, HR manager, CEO or colleagues and implement change. Introduce sit balls, standing desks and standup meetings!</li>
+             <li class="disp-non quiz-margin" id="b21"><strong class="orange">Interruptions:- </strong>You have to interrupt the hours spent seated WAY more! Interruptions are key for a healthy balance. Get a more dynamic chair and a few standing desks at the office so that your environment helps you to create this heatlhier habbit.</li>
+             <li class="disp-non quiz-margin" id="b22"><strong class="orange">Interruptions:- </strong>You have created a nice and healthy habbit for yourself. Interrupting your hours spent seated are extremely important for your health so you don't force your body into hibernation. Keep on activating the big muscle groups in your body by standing up and walking around.</li>
+             <li class="disp-non quiz-margin" id="b23"><strong class="orange">Interruptions:- </strong>Nice work. You interrupt the periods spent seated a lot and you are right, it is of utmost importance. Remember: the best position is always the next! Keep on doing what you do and spread to word to help your colleagues do the same.</li>
+             <li class="disp-non quiz-margin" id="b31"><strong class="orange">Sports:- </strong>Try to pick up a new sport/challenge so that you are motivated to move more. This decision will benefit every single aspect of your life. Although time spent seated can not be countered by sport activety it remains an important part of healthy and balanced lifestyle. </li>
+             <li class="disp-non quiz-margin" id="b32"><strong class="orange">Sports:- </strong>Nice work. You are clearly doing something you love. Keep up the pace! You'll thank yourself in the long run :). Although time spent seated can not be countered by sport activety it remains an important part of healthy and balanced lifestyle. </li>
+             <li class="disp-non quiz-margin" id="b33"><strong class="orange">Sports:- </strong>Wonderfull. You are a real athlete. Drop us a line to invitite us to the next big event where you perform in :). Although time spent seated can not be countered by sport activety it remains an important part of healthy and balanced lifestyle. </li>
+             <li class="disp-non quiz-margin" id="b41"><strong class="orange">You can still change and impact the rest of your life! Create some nice habbits for yourself so that you can benefit from it for the rest of your life. </li>
+             <li class="disp-non quiz-margin" id="b42"><strong class="orange">You have been working for quite a while now. We really hope that you have implemented some nice habbits for yourself! Remember it is never to late to change!</li>
+             <li class="disp-non quiz-margin" id="b43"><strong class="orange">Congrats on your long and hopefully meaningful career. It will probably be hard for you to change habbits but it still remains very important to try. Because activating your body is important for every age group. So, move your asses!!</li>
+              <div class="row">
+                <div class="col-xs-2 col-sm-4"></div>
+                <img class="quiz-img col-xs-8 col-sm-4" src="/images/quiz/icons_fromsittingtomoving-01.png" alt="moving">
+              </div>
+       </ul>
+
 </p>
     </div>
 
@@ -103,4 +200,3 @@ We at Jaswig believe this doesn't have to be necessarily the case.</p>
 
 
 <script src="{{ "/js/quiz.js" | prepend: site.baseurl }}" defer></script>
-<script src="{{ "/js/carousel.js" | prepend: site.baseurl }}" defer></script>
