@@ -51,6 +51,20 @@ $("input:radio").on('click', function() {
         $(u3).children().find("img").attr("data-image",img_src);
     }
 
+    if($(this).attr("id") == "f32" || $(this).attr("id") == "f22") {
+      $("#del2").removeClass("visibility-non");
+    } else {
+      if($(this).attr("id") == "t12" || $(this).attr("id") == "t22" || $(this).attr("id") == "t32" || $(this).attr("id") == "t42" || $(this).attr("id") == "t52" || $(this).attr("id") == "f12") {
+        $("#del2").addClass("visibility-non");
+      } else {
+        if($(this).attr("id") == "f3" || $(this).attr("id") == "f2") {
+          $("#del1").removeClass("visibility-non");
+        } else {
+          $("#del1").addClass("visibility-non");
+        }
+      }
+    }
+
     var attr_price = $(this).parent().siblings(".order-card-price").attr("data-price");
     var current_price = $(this).parent().siblings(".order-card-price").html();
     if (typeof attr_price == typeof undefined || attr_price == false) {
