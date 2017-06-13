@@ -243,3 +243,27 @@ $("input:checkbox").on('click', function() {
     enable_next = false;
   }
 });
+
+
+var xmlhttp = new XMLHttpRequest();
+var a;
+
+document.getElementById('submit-form').addEventListener("click", function(){
+  var form_name = document.getElementById("emp-name").value;
+  var form_cname = document.getElementById("cmp-name").value;
+  var form_work = document.getElementById("1-1").value;
+  var form_position = $("input[name='j2']:checked").next().html();
+  var form_sit_after = document.getElementById("3-1").value;
+  var form_sports = document.getElementById("4-1").value;
+  var form_avg_sit = document.getElementById("5-1").value;
+  var form_interrupt = document.getElementById("6-1").value;
+  var form_chair = $("input[name='j7']:checked").next().html();
+  var form_commute = $("input[name='j8']:checked").next().html();
+  var form_commute_time = document.getElementById("9-1").value;
+  $('#emp-name').css('display','none');
+  $('#cmp-name').css('display','none');
+  $('#submit-form').css('display','none');
+  a = "https://docs.google.com/forms/d/e/1FAIpQLSfyXfJHErvmy8kUTXW4EOhPruUA_grFMEerKE6xUit5Hf3BDQ/formResponse?entry.848066769="+form_name+"&entry.458136576="+form_cname+"&entry.1030902005="+form_work+"&entry.1202848100="+form_position+"&entry.337948680="+form_sit_after+"&entry.1186343580="+form_sports+"&entry.1273176667="+form_avg_sit+"&entry.1944927067="+form_interrupt+"&entry.1933737799="+form_chair+"&entry.619591610="+form_commute+"&entry.1613678846="+form_commute_time;
+  xmlhttp.open("POST", a, false);
+  xmlhttp.send();
+});
