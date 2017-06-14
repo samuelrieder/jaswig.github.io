@@ -40,4 +40,4 @@ It really is important that we don’t see this money as “given away” it is 
 
 Come and join us in the [natural habitats Natuurpunt is concerving](https://www.natuurpunt.be/natuurgebied/zwalmvallei-vossenhol-kloosterbos-steenbergse-bossen-boterhoek-jansveld-jan-de-lichte). We would be very happy to take a walk together with you :).
 
-
+![Ecosystem services infographic from the Natural Capital](/images/Ecosystem services.jpg){:.medium}
