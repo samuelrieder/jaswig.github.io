@@ -3,8 +3,8 @@ layout: post
 title: "Jaswig funds Nature Concervation Project"
 description: Jaswig invests 1 % of its revenue back into the ecosystem
 date: "2017-02-28 20:10:27 +0100"
-cover: "/images/blog/River.jpeg"
-thumbnail: "/images/blog/River.jpeg"
+cover: "/images/blog/Sunrise natuur.jpg"
+thumbnail: "/images/blog/Sunrise natuur.jpg"
 categories: blog
 published: true
 
