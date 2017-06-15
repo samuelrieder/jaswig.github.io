@@ -2,7 +2,7 @@
 layout: post
 title: "Jaswig funds Nature Conservation Project"
 description: Jaswig invests 1% of its revenue back into the ecosystem.
-date: "2017-06-15 20:10:27 +0100"
+date: "2017-06-14 20:10:27 +0100"
 cover: "/images/blog/Sunrise natuur.jpg"
 thumbnail: "/images/blog/Sunrise natuur.jpg"
 categories: blog
