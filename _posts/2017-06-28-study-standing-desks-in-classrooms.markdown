@@ -38,8 +38,9 @@ It is always hard to summarise the results of such an extensive work into a few 
 The research will continue as not all the results are processed yet. We’ll make sure to add updates if these results start to come in! 
 
 Of course we would also like to thank the students, the post doc researchers and the professors involved. It has been a very interesting and fruitful collaboration! We’ve also made it possible for the thesis’s to be downloaded here, so if you are really interested please have a look at them! If questions would arise while taking a look at them, drop us a line!
-[Procesevaluatie standing desks lager onderwijs](https://jaswigbvba.box.com/s/kl2g8elhke8vylm4xydzntpbg8hcanpv)
-[Effectevaluatie standing desks lager onderwijs](https://jaswigbvba.box.com/s/aaqc42jmfnnvj4lp7zoksqvr9ibyh0r8)
-[Procesevaluatie standing desks middelbaar onderwijs](https://jaswigbvba.box.com/s/s97s99117kijpohqfs1ynftwoc451ao1)
-[Effectevaluatie standing desks middelbaar onderwijs](https://jaswigbvba.box.com/s/c2pnntsuxkdj5j4oie8xj6toqtvkre0x)
+
+* [Procesevaluatie standing desks lager onderwijs](https://jaswigbvba.box.com/s/kl2g8elhke8vylm4xydzntpbg8hcanpv)
+* [Effectevaluatie standing desks lager onderwijs](https://jaswigbvba.box.com/s/aaqc42jmfnnvj4lp7zoksqvr9ibyh0r8)
+* [Procesevaluatie standing desks middelbaar onderwijs](https://jaswigbvba.box.com/s/s97s99117kijpohqfs1ynftwoc451ao1)
+* [Effectevaluatie standing desks middelbaar onderwijs](https://jaswigbvba.box.com/s/c2pnntsuxkdj5j4oie8xj6toqtvkre0x)
 
