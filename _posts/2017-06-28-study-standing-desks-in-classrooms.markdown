@@ -22,18 +22,20 @@ It just made a lot of sense according to us to try and impact the working condit
 
 After having explained our cause en questions, the researchers told us that it was an interesting question worth investigating. So, we agreed upon setting up a study together. 
 
+## The deal
 The deal was simple. We offered 30 standing desks at a reduced price and they were to recruit 7 students to work out an experiment. 
 
+## Results
 A year and a half later the results are starting to come in. The students have just defended their thesis from which the first conclusions can be drawn.
 
 It is always hard to summarise the results of such an extensive work into a few sentences. But, to give interested people a sneak peak into some of the most important findings we’ll provide you with some “highlights”:
 
-1. Transitions from sitting to standing and vice versa, which is one of the important factors when it comes to the risks of sitting, increased significantly when standing desks were present in the classroom
-2. Percentage of time spend standing increased dramatically. This is logical but it points towards the very important point that both kids and teachers are open to using standing desks and also succeed in effectively implementing them into the classroom environment
-3. Nearly 70% of the kids responded very positively to the question: do you like to be taught while standing
-4. 90% of teachers thought it was a good idea to teach children while some of them are standing upright. 
-5. Both teachers and children favour a system in which 4 to 5 standing desks are implemented in a classroom. Children can than alternate from hour to hour. This brings in a healthy dynamic and breaks the periods of high concentration.
-6. Implementation is key and remains rather difficult. It is really important that enough information is given to both the teacher and the pupils to make sure the desks are used properly.
+1. **Transitions from sitting to standing** and vice versa, which is one of the important factors when it comes to the risks of sitting, increased significantly when standing desks were present in the classroom
+2. **Percentage of time spend standing** increased dramatically. This is logical but it points towards the very important point that both kids and teachers are open to using standing desks and also succeed in effectively implementing them into the classroom environment
+3. Nearly 70% of the kids responded **very positively** to the question: do you like to be taught while standing
+4. 90% of teachers thought it was a **good idea to teach children while some of them are standing upright**. 
+5. **Both teachers and children** favour a system in which 4 to 5 standing desks are implemented in a classroom. Children can than alternate from hour to hour. This brings in a healthy dynamic and breaks the periods of high concentration.
+6. **Implementation is key and remains rather difficult**. It is really important that enough information is given to both the teacher and the pupils to make sure the desks are used properly.
 
 The research will continue as not all the results are processed yet. We’ll make sure to add updates if these results start to come in! 
 
