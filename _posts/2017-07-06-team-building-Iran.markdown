@@ -6,7 +6,7 @@ date: "2017-06-28 20:10:27 +0100"
 cover: "/images/blog/Iran1.jpg"
 thumbnail: "/images/blog/Iran1.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
