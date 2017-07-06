@@ -28,34 +28,34 @@ A few weeks later we found ourselves standing in a line in the middle of the nig
 
 We wanted to start with some physical activity and thus looked for a hiking trip in the Alborz mountains. The mountain range just north of Teheran, which you can see from the city. We decided to go for a trek in the Alamut valley in the middle of the Alborz range. We hitched a ride and headed straight to Alamut after having enjoyed our first Iranian breakfast!
 
-![Teambuilding Jaswig](/images/blog/Iran14.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Teambuilding Jaswig](/images/blog/Iran14.jpg){:.medium}
 
 We tied our backpacks on the roof of the car and drove away. After having climbed several hundred meters on the pass to Alamut we saw there was a lot of snow so we liked the looks of it. We really enjoy snowy environments.
 
-![Snowy mountains](/images/blog/Iran15.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Snowy mountains](/images/blog/Iran15.jpg){:.medium}
 
 After a couple of hours winding roads we arrived in a small village named Garmaroud. We were welcomed by a local shop owner who had been waiting in his shop for us.
 
-![Welcome Garmaroud 1](/images/blog/Iran5.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
-![Welcome Garmaroud 2](/images/blog/Iran6.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
-![Welcome Garmaroud 2](/images/blog/Iran12.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Welcome Garmaroud 1](/images/blog/Iran5.jpg){:.medium}
+![Welcome Garmaroud 2](/images/blog/Iran6.jpg){:.medium}
+![Welcome Garmaroud 2](/images/blog/Iran12.jpg){:.medium}
 
 He couldn’t understand english but was extremely friendly. He led us to a house where we were welcomed by the brother of the shop owner with tea on carpets on the floor. We tried to chat a little bit and were than invited to go to sleep. We received some cushions and slept on the floor on the carpets. Very cosy!!!
 
 The next day we took off for our hiking trip. It immediately started with a nice steep snowy part.
 
-![Start of the trek](/images/blog/Iran7.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
-![Nice part](/images/blog/Iran16.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Start of the trek](/images/blog/Iran7.jpg){:.medium}
+![Nice part](/images/blog/Iran16.jpg){:.medium}
 
 We were equipped with gaiters and good mountain shoes. The guide Ali had an old army pants that he could close tightly and rubber boots. We had a huge backpack with us with everything we thought we needed. He had a small backpack and a stick with him. 
 
-![Ali](/images/blog/Iran13.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
-![The local vs the westerner](/images/blog/Iran9.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Ali](/images/blog/Iran13.jpg){:.medium}
+![The local vs the westerner](/images/blog/Iran9.jpg){:.medium}
 
 After 7 hours of climbing and sinking in the snow we arrived in a the small village of Piche Bon. The village was totally inaccessible as it was completely snowed in. We found ourselves a way through the snow and arrived at a clay house where we were welcomed with tea on carpets on the floor. The whole family came to see us.  Their houses was so cosy. We enjoyed drinking tea with them tried to chat Farzi and look at their faces while talking to each other. 
 
-![Arriving in Piche Bon](/images/blog/Iran8.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
-![Warm welcome](/images/blog/Iran4.jpg){:.medium}{:style="float: right; margin:0 30px 0 0"}
+![Arriving in Piche Bon](/images/blog/Iran8.jpg){:.medium}
+![Warm welcome](/images/blog/Iran4.jpg){:.medium}
 
 Than sleeping in the same place we've eaten. Just on the ground. We loved the simple easy and space conscious way of living. We slept well the only thing that bothered us a little was the kerosine stove that held us warm but didn’t have any outlet. We slept the whole night in a room without any air circulation with a stove without outlet… :p 
 
