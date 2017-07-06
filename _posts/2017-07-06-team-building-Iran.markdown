@@ -65,6 +65,13 @@ But our western ignorance propelled us to keep on going: we tried every single b
 
 After having tanked the much needed cash we headed south to Isfahan by bus. We arrived there a few hours later after an interesting trip on the Iranian highways through the desert. We found ourselves a room and immediately headed towards the Unesco word heritage Meidan Emam square. It was stunning. The atmosphere was hard to explain. The place really exhaled a surreal atmosphere that non of us had ever experienced elsewhere! The closest you can describe it to is walking right into a more laid back version of Aladin. Most of the coming days were spend on and around this square in very nice coffee bars, the mosques, with people we randomly met, in nice Biryani restaurants… Just an incredible place! I’ll let the pictures speak for themselves… 
 
+![Arriving in Piche Bon](/images/blog/Iran17.jpg){:.medium}
+![Warm welcome](/images/blog/Iran18.jpg){:.medium}
+![Warm welcome](/images/blog/Iran19.jpg){:.medium}
+![Warm welcome](/images/blog/Iran10.jpg){:.medium}
+![Warm welcome](/images/blog/Iran11.jpg){:.medium}
+![Warm welcome](/images/blog/Iran2.jpg){:.medium}
+
 The last days of our trip were spend in Teheran, a massively large and polluted city. We spend a lot of time in even more extremely nice coffee bars and just strolling around the city, taking metros, sitting in parks and visiting some museums. We had the plan of going up north again to ski in Dizin. But we didn’t have the money nor the time… Next time maybe?
 
 It was a great trip where we encountered very very friendly people and got to know a country few westerners know anything about. Of course the trip was too short as we had to rush through everything (typical western mistake). Hopefully one day we can visit again!
