@@ -3,8 +3,8 @@ layout: post
 title: "Company trip to Iran - Taking a step back once in a while"
 description: Team building week in Iran to open our minds and boost creativity and cohesion.
 date: "2017-06-28 20:10:27 +0100"
-cover: "/images/blog/Iran1.jpg"
-thumbnail: "/images/blog/Iran1.jpg"
+cover: "/images/blog/Iran11.jpg"
+thumbnail: "/images/blog/Iran11.jpg"
 categories: blog
 published: true
 
