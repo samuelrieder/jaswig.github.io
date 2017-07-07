@@ -18,52 +18,66 @@ shareTaglineUrl: "http://www.jaswig.be"
 Our company has been founded on strong personal relationships that go way back. The bond began to strengthen when we started traveling together.
 <!--more-->
 
-An overview of everything we have done, read and watched so far can be found in the [this blogpost](http://www.jaswig.be/blog/2016/07/12/foundational-content-for-jaswig.html). During these trips we always dreamed of having a business together and already started dreaming of which trips we could do together if we had that company. By the way, dreaming has always been our strongpoint. The reality though was a little more difficult/interesting. We had some hiccups within our team and ran out of money as we invested all of it in our company. We also worked quite hard and thus didn’t really have the time nor the money to travel. 
+## Strong Interpersonal relationships:
 
-But luckily the urge to be together in natural environments was stronger than the practical issues I described in the former paragraph. We pushed through and figured we had to keep on doing things together as it was the basis of our company. So, we started looking around on the internet for cheap flights to interesting destinations. It was a hard decision because we had LOTS of different plans, as I mentioned earlier, dreaming is our strongpoint. 
+Our company is based on strong interpersonal relationships that developed during the trips we took together before we started ‘Jaswig’. And during these trips, we dreamed of starting a business together that could support our simple, outdoor lifestyle. An overview of the places we visited can be found in [the following blogpost ](http://www.jaswig.be/blog/2016/07/12/foundational-content-for-jaswig.html). After starting our company, we still dreamt about traveling once again. Dreaming has always been our strongest asset by the way. However, little did we know that the journey henceforth would be very interesting.
 
-Finally, we decided. Cheap air tickets and a big interest in countries that normal people find dangerous we opted for Iran! We booked our tickets that flew from Brussels to Kiev and from Kiev to Teheran!
+## Practical problem; impossible dreams:
 
-A few weeks later we found ourselves standing in a line in the middle of the night at Imam Khomeini airport. We immediately encountered some wonderful bureaucracy because we had to wait for a very long time to get our visum and the insurance every traveler has to take :). Next to the fact that it took a very long time it was also very expensive. So, before we started we already spend a lot of money… There goes the idea of a cheap trip :p. Afterwards we took a cap to Teheran’s city center (past the Mausoleum of Ruhollah Khomeini that was bombed in early June 2017) in the middle of the night. Of course, the taxi driver couldn’t really find the address we were looking for so we arrived very late in the hostel. We had to wake up the guardian, which took a while as well. Just when it started to dawn on us that we than probably had to “sleep” on the streets we saw a lights switching on inside the building, a few minutes later we were enjoying a nice warm bed instead of the cold streets of Teheran.
+Starting a business was challenging. We invested all our money in the company we were trying to build and thus had little money left to spend on traveling. We also worked rather hard which made it difficult to find time to travel.
 
-We wanted to start with some physical activity and thus looked for a hiking trip in the Alborz mountains. The mountain range just north of Teheran, which you can see from the city. We decided to go for a trek in the Alamut valley in the middle of the Alborz range. We hitched a ride and headed straight to Alamut after having enjoyed our first Iranian breakfast!
+Nevertheless, our urge to connect with nature was growing stronger with every passing day. Though we had a lot of practical issues to overcome, we pushed through. We figured that we had to keep doing things together; it was after all the basis of our company. So, we started looking around on the internet for cheap flights to interesting destinations. We had so many options and deciding on one destination was really hard!
+ 
+## An interesting destination- ‘Iran’:
+
+At last, we decided that cheap air tickets go well with countries that seem odd to other people. Our destination was Iran! We booked our tickets that flew from Brussels to Kiev and from Kiev to Teheran. 
+
+A few weeks later, we found ourselves standing in a line in the middle of the night at the Imam Khomeini airport. We waited for a long time in a big queue to get our visa and insurance which were very expensive. So, our ‘cheap airline ticket’ didn’t work out as planned!
+
+## A very long night:
+
+It was quite late when we came out of the airport and we decided to rent a cab to Teheran’s city center (past the Mausoleum of Ruhollah Khomeini that was bombed in early June 2017). The taxi driver couldn’t understand the address and it became a very long night for us before we found our hostel. We had to wake the sleeping Guardian to get into the hostel! We were sure we were going to have to sleep on the streets of Teheran when at first we didn’t hear any response. Thankfully the Guardian let us in after some time. We enjoyed a warm bed instead of the cold streets of Teheran.
+
+## Our trekking trip in the Alborz mountains:
+
+We decided to go for a trek in the Alamut valley in the middle of the Alborz mountain range. We hitched a ride and headed straight to Alamut after having enjoyed our first Iranian breakfast! 
 
 ![Teambuilding Jaswig](/images/blog/Iran14.jpg){:.medium}
 
-We tied our backpacks on the roof of the car and drove away. After having climbed several hundred meters on the pass to Alamut we saw there was a lot of snow so we liked the looks of it. We really enjoy snowy environments.
+After having climbed several hundred meters on the pass to Alamut, we encountered snowy peaks and thoroughly enjoyed it. 
 
 ![Snowy mountains](/images/blog/Iran15.jpg){:.medium}
 
-After a couple of hours winding roads we arrived in a small village named Garmaroud. We were welcomed by a local shop owner who had been waiting in his shop for us.
+After we trekked for few more hours, we arrived in a small village named Garmaroud. We had a warm welcome by a local shop owner and his family. We were invited into their home to enjoy a piping cup of tea, which was served on plush comfy carpets. We decided to call it a day and slept on the carpets with few cushions that the house owner gave us. It was a very fulfilling day!
 
 ![Welcome Garmaroud 1](/images/blog/Iran5.jpg){:.medium}
 ![Welcome Garmaroud 2](/images/blog/Iran6.jpg){:.medium}
 ![Welcome Garmaroud 2](/images/blog/Iran12.jpg){:.medium}
 
-He couldn’t understand english but was extremely friendly. He led us to a house where we were welcomed by the brother of the shop owner with tea on carpets on the floor. We tried to chat a little bit and were than invited to go to sleep. We received some cushions and slept on the floor on the carpets. Very cosy!!!
-
-The next day we took off for our hiking trip. It immediately started with a nice steep snowy part.
+We started our hike trip the next day. We equipped ourselves with huge backpacks while our guide Ali only had a small backpack and a stick! After seven hours of climbing and waddling through deep snow, we arrived at the small village of Piche Bon. 
 
 ![Start of the trek](/images/blog/Iran7.jpg){:.medium}
 ![Nice part](/images/blog/Iran16.jpg){:.medium}
-
-We were equipped with gaiters and good mountain shoes. The guide Ali had an old army pants that he could close tightly and rubber boots. We had a huge backpack with us with everything we thought we needed. He had a small backpack and a stick with him. 
-
 ![Ali](/images/blog/Iran13.jpg){:.medium}
 ![The local vs the westerner](/images/blog/Iran9.jpg){:.medium}
 
-After 7 hours of climbing and sinking in the snow we arrived in a the small village of Piche Bon. The village was totally inaccessible as it was completely snowed in. We found ourselves a way through the snow and arrived at a clay house where we were welcomed with tea on carpets on the floor. The whole family came to see us.  Their houses was so cosy. We enjoyed drinking tea with them tried to chat Farzi and look at their faces while talking to each other. 
+Though it was inaccessible for cars due to snow, we managed to find a way through the snow to sleep with a local family. Their clay house was warm and pleasant. We were served tea and we loved chit chatting with them in broken Farsi. They were a delightful family and we loved their hospitality.
 
 ![Arriving in Piche Bon](/images/blog/Iran8.jpg){:.medium}
 ![Warm welcome](/images/blog/Iran4.jpg){:.medium}
 
-Than sleeping in the same place we've eaten. Just on the ground. We loved the simple easy and space conscious way of living. We slept well the only thing that bothered us a little was the kerosine stove that held us warm but didn’t have any outlet. We slept the whole night in a room without any air circulation with a stove without outlet… :p 
+## Our Financial problems in Iran:
 
-The next day we walked back to Garmaroud as we only had a week in Iran and wanted to see other stuff as well. There we had agreed with our former cab driver to pick us up to drive us to Qazvin from where we could head south to Isfahan by bus. In the car we revised our cash positions and figured we needed some more cash. So, we asked our driver to bring us to an ATM to withdraw some cash. After asking around we started to get a sense of the fact that it was actually impossible for westerners to withdraw cash with the cards we have available to us in the west (VISA, Maestro, etc). As the banking system in Iran totally separated from our banking system due to the financial sanctions the west imposes on the country. 
+The next day we walked back to Garmaroud as we only had a week in Iran and we wanted to see other places too. We spoke to our former cab driver and asked him to pick us up. We wanted to go to Qazvin so that we could head south to Isfahan by bus. Before we made any further plans, we decided to check our finances. We were running low on cash and had to withdraw some money from the ATM. After asking around we started to get a sense of the fact that it was impossible for westerners to withdraw cash with the cards we had (VISA, Maestro). 
+Since the banking system of Iran works in a parallel universe that is completely alien to westerners, we couldn’t withdraw any money from the ATM! We tried every single bank in the area and looked on the internet for solutions but it was so hard. It was difficult to find people who could understand us and help us.
 
-But our western ignorance propelled us to keep on going: we tried every single bank, tried to find internet to look for solutions but it was so difficult to find people who could understand us, find wifi, or contact the right people. What an adventure that was!!! Finally we succeeded in wiring money to a Spanish account of guy we met via the internet. He than asked his parents (who were still in Iran) to wire local money to the taxi driver we were with and he than gave us local money equaling an amount of 500 euro. Which was actually still insufficient but the guy with the Spanish account didn’t want to take bigger risks and signal the authorities even more. It was a wonderful experience to see our western ignorance being balanced by the Iranian friendliness because otherwise it would have very difficult (read impossible) to solve this issue!
+## Our Financial fix:
 
-After having tanked the much needed cash we headed south to Isfahan by bus. We arrived there a few hours later after an interesting trip on the Iranian highways through the desert. We found ourselves a room and immediately headed towards the Unesco word heritage Meidan Emam square. It was stunning. The atmosphere was hard to explain. The place really exhaled a surreal atmosphere that non of us had ever experienced elsewhere! The closest you can describe it to is walking right into a more laid back version of Aladin. Most of the coming days were spend on and around this square in very nice coffee bars, the mosques, with people we randomly met, in nice Biryani restaurants… Just an incredible place! I’ll let the pictures speak for themselves… 
+At last, we discovered our financial fix. We found a person online whose parents were still in Iran. We transferred money to the person’s Spanish account who in turn asked his parents to wire local money to our taxi driver. Our taxi driver then gave us local money, which was equivalent to 500 euros. It was not sufficient cash but we had to manage. This adventure, as we like to call it made us realize how ignorant we were. We are eternally grateful to those friendly Iranian people for their help otherwise, it would have been a nightmare for us in Iran.
+
+## Incredible Isfahan:
+
+Finally, we headed south to Isfahan by bus. After an interesting trip on the Iranian highway, we found ourselves a room. We then visited the Unesco word heritage Meidan Emam square. It was stunning. It had a surreal atmosphere. It was nothing like we had imagined. It was a beautiful place and our days were spent around this square in their pleasant coffee bars, awesome Biriyani restaurants. Isfahan is such an incredible place. We could go on and on about the beauty of Isfahan but we are going to let the pictures speak for themselves.
 
 ![Arriving in Piche Bon](/images/blog/Iran17.jpg){:.medium}
 ![Isfahan1](/images/blog/Iran18.jpg){:.medium}
@@ -73,6 +87,10 @@ After having tanked the much needed cash we headed south to Isfahan by bus. We a
 ![Isfahan5](/images/blog/Iran2.jpg){:.medium}
 ![Isfahan6](/images/blog/Iran3.jpg){:.medium}
 
-The last days of our trip were spend in Teheran, a massively large and polluted city. We spend a lot of time in even more extremely nice coffee bars and just strolling around the city, taking metros, sitting in parks and visiting some museums. We had the plan of going up north again to ski in Dizin. But we didn’t have the money nor the time… Next time maybe?
+## Last days in Iran:
 
-It was a great trip where we encountered very very friendly people and got to know a country few westerners know anything about. Of course the trip was too short as we had to rush through everything (typical western mistake). Hopefully one day we can visit again!
+We spent the last days of our trip in Teheran, a massively large and polluted city. We spent a lot of time in its nice coffee bars or we just strolled around the city. We wanted to head north to ski in Dizin but we didn’t have the money nor time at that time. 
+
+## Lingering memories of Iran:
+
+It was a great trip where we encountered very friendly people. We learned a lot about their culture, food, and traditions. Nevertheless, it was a short trip. Hopefully one day we can visit Iran once again to enjoy its magnificence.
