@@ -24,19 +24,20 @@ Our company is based on strong interpersonal relationships that developed during
 
 ## Practical problem; impossible dreams:
 
-Starting a business was challenging. We invested all our money in the company we were trying to build and thus had little money left to spend on traveling. We also worked rather hard which made it difficult to find time to travel.
+Starting a business was challenging. We invested all our money in the company we were trying to build and thus had little money left to spend on traveling. We worked hard which made it even more difficult to find time to travel.
 
-Nevertheless, our urge to connect with nature was growing stronger with every passing day. Though we had a lot of practical issues to overcome, we pushed through. We figured that we had to keep doing things together; it was after all the basis of our company. So, we started looking around on the internet for cheap flights to interesting destinations. We had so many options and deciding on one destination was really hard!
+Nevertheless, our urge to connect with nature was growing stronger with every passing day. Though we had a lot of practical issues to overcome, we pushed through. We figured that we had to keep doing things together; it was after all the base of our company. So, we started looking around on the internet for flights to interesting destinations. There are too many options out there, but one really stuck.
  
 ## An interesting destination- ‘Iran’:
 
-At last, we decided that cheap air tickets go well with countries that seem odd to other people. Our destination was Iran! We booked our tickets that flew from Brussels to Kiev and from Kiev to Teheran. 
+IRAN. Not the most obvious choice, but for us it was. The media hasn't been to friendly the last few years towards Iran, which made for cheaper tickets but it kept its mystique. Something new to explore.
+We booked our tickets from Brussels to Kiev and from Kiev to Teheran. 
 
 A few weeks later, we found ourselves standing in a line in the middle of the night at the Imam Khomeini airport. We waited for a long time in a big queue to get our visa and insurance which were very expensive. So, our ‘cheap airline ticket’ didn’t work out as planned!
 
 ## A very long night:
 
-It was quite late when we came out of the airport and we decided to rent a cab to Teheran’s city center (past the Mausoleum of Ruhollah Khomeini that was bombed in early June 2017). The taxi driver couldn’t understand the address and it became a very long night for us before we found our hostel. We had to wake the sleeping Guardian to get into the hostel! We were sure we were going to have to sleep on the streets of Teheran when at first we didn’t hear any response. Thankfully the Guardian let us in after some time. We enjoyed a warm bed instead of the cold streets of Teheran.
+It was quite late when we came out of the airport and we decided to rent a cab to Teheran’s city center (past the Mausoleum of Ruhollah Khomeini that was bombed in early June 2017). The taxi driver couldn’t understand the address and it became a very long night for us before we found our hostel. We had to wake the sleeping guardian to get into the hostel. We were sure we were going to have to sleep on the streets of Teheran when at first we didn’t hear any response. Thankfully the guardian let us in after some time. We enjoyed a warm bed instead of the cold streets of Teheran.
 
 ## Our trekking trip in the Alborz mountains:
 
@@ -48,13 +49,13 @@ After having climbed several hundred meters on the pass to Alamut, we encountere
 
 ![Snowy mountains](/images/blog/Iran15.jpg){:.medium}
 
-After we trekked for few more hours, we arrived in a small village named Garmaroud. We had a warm welcome by a local shop owner and his family. We were invited into their home to enjoy a piping cup of tea, which was served on plush comfy carpets. We decided to call it a day and slept on the carpets with few cushions that the house owner gave us. It was a very fulfilling day!
+After we trekked for few more hours, we arrived in a small village named Garmaroud. We had a warm welcome by a local business owner and his family. We were invited into their home to enjoy a piping cup of tea, which was served on plush comfy carpets. We decided to call it a day and slept on the carpets with few cushions that the house owner gave us. It was a very fulfilling day!
 
 ![Welcome Garmaroud 1](/images/blog/Iran5.jpg){:.medium}
 ![Welcome Garmaroud 2](/images/blog/Iran6.jpg){:.medium}
 ![Welcome Garmaroud 2](/images/blog/Iran12.jpg){:.medium}
 
-We started our hike trip the next day. We equipped ourselves with huge backpacks while our guide Ali only had a small backpack and a stick! After seven hours of climbing and waddling through deep snow, we arrived at the small village of Piche Bon. 
+We started our hike trip the next day. We equipped ourselves with huge backpacks while our guide Ali only had a small backpack and a stick. After seven hours of climbing and waddling through deep snow, we arrived at the small village of Piche Bon. 
 
 ![Start of the trek](/images/blog/Iran7.jpg){:.medium}
 ![Nice part](/images/blog/Iran16.jpg){:.medium}
