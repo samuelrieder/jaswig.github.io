@@ -17,3 +17,7 @@ shareTaglineUrl: "http://www.jaswig.be"
 
 Our company has been founded on strong personal relationships that go way back. The bond began to strengthen when we started traveling together.
 <!--more-->
+
+![Materiaal design standing desk](/images/blog/Close Up Blogpost Varnish 1.jpg){:.medium}
+![Closup wooden standing desk](/images/blog/Close Up Blogpost Varnish 2.jpg){:.medium}
+![Detail of wooden design standing desk](/images/blog/Close Up Blogpost Varnish 3.jpg){:.medium}
