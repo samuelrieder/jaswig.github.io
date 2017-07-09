@@ -6,7 +6,7 @@ var xmlhttp = new XMLHttpRequest();
 var a;
 
 $( "#quiz-start" ).click(function() {
-  if($("#emp-name").val() != "" && $("#cmp-name").val() != "") {
+  if($("#emp-name").val() != "" && $("#cmp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
   $("#title").addClass("disp-non");
   $(".active").removeClass("active");
   $("#intro").addClass("dnt-show");
@@ -70,6 +70,8 @@ function pos_checker() {
     } */
 
     var form_name = document.getElementById("emp-name").value;
+    var form_lname = document.getElementById("emp-lname").value;
+    var form_email = document.getElementById("email-id").value;
     var form_cname = document.getElementById("cmp-name").value;
     var form_work = document.getElementById("1-1").value;
     var form_position = $("input[name='j2']:checked").next().html();
@@ -83,7 +85,7 @@ function pos_checker() {
     $('#emp-name').css('display','none');
     $('#cmp-name').css('display','none');
     $('#submit-form').css('display','none');
-    a = "https://docs.google.com/forms/d/e/1FAIpQLSfyXfJHErvmy8kUTXW4EOhPruUA_grFMEerKE6xUit5Hf3BDQ/formResponse?entry.848066769="+form_name+"&entry.458136576="+form_cname+"&entry.1030902005="+form_work+"&entry.1202848100="+form_position+"&entry.337948680="+form_sit_after+"&entry.1186343580="+form_sports+"&entry.1273176667="+form_avg_sit+"&entry.1944927067="+form_interrupt+"&entry.1933737799="+form_chair+"&entry.619591610="+form_commute+"&entry.1613678846="+form_commute_time;
+    a = "https://docs.google.com/forms/d/e/1FAIpQLSfyXfJHErvmy8kUTXW4EOhPruUA_grFMEerKE6xUit5Hf3BDQ/formResponse?entry.848066769="+form_name+"&entry.282598785="+form_lname+"&entry.521549914="+form_email+"&entry.458136576="+form_cname+"&entry.1030902005="+form_work+"&entry.1202848100="+form_position+"&entry.337948680="+form_sit_after+"&entry.1186343580="+form_sports+"&entry.1273176667="+form_avg_sit+"&entry.1944927067="+form_interrupt+"&entry.1933737799="+form_chair+"&entry.619591610="+form_commute+"&entry.1613678846="+form_commute_time;
     xmlhttp.open("POST", a, false);
     xmlhttp.send();
   }
@@ -265,10 +267,22 @@ $("input:checkbox").on('click', function() {
   }
 });
 
-$("#emp-name,#cmp-name").on("input", function() {
-    if($("#emp-name").val() != "" && $("#cmp-name").val() != "") {
+$("#emp-name,#cmp-name,#emp-lname,#email-id").on("input", function() {
+    if($("#emp-name").val() != "" && $("#cmp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
       $("#quiz-start").removeClass("disable");
     } else {
       $("#quiz-start").addClass("disable");
     }
 });
+
+$("#email-id").on( "focusout", function() {
+    if($("#email-id").val() != "" && !isEmail($("#email-id").val())) {
+      alert("Please enter valid Email");
+      $("#email-id").val("");
+    }
+});
+
+function isEmail(email) {
+  var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  return regex.test(email);
+}
