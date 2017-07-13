@@ -10,7 +10,7 @@ published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "Why we use toxic non-resuable varnish"
+shareTagline: "Why we use toxic non-reusable varnish"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
