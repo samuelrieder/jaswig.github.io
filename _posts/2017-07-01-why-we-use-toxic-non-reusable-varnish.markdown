@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why we use toxic non-resuable varnish"
+title: "Why we use toxic non-reusable varnish"
 description: Leading an examined life - Research on varnish.
 date: "2017-06-28 20:10:27 +0100"
 cover: "/images/blog/Close Up Blogpost Varnish 1.jpg"
