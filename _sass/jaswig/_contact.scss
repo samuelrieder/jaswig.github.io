@@ -134,6 +134,10 @@ span.person-av {
   color: white;
 }
 
+span.lefter {
+  margin-top: 0;
+}
+
 @media (min-width: $screen-md-min) {
   .contact-locations-people .first {
     border-bottom: 0;
@@ -150,6 +154,14 @@ span.person-av {
 
   span.person-av {
     padding-left: 40px;
+  }
+
+  span.lefter {
+    padding-left: 36px;
+  }
+
+  .contact-locations-people .border-bt {
+    border-bottom: 1px solid #F5F3EF;
   }
 
   .contact-box {
