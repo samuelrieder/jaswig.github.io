@@ -68,7 +68,7 @@ The StandUp is the first product that will be significantly changed in price. Ou
 
 ## Production
 
-In the past couple of months we have been thinking hard about our supply chain. We had several discussions with David about this as well. Fully works together with manufacturers worldwide. Jaswig on the other hand currently manufactures a part of its products in Belgium and a part of them in Slovenia.
+In the past couple of months we have been thinking hard about our supply chain. We had several discussions with David about this as well. Fully works together with manufacturers worldwide. Jaswig on the other hand currently manufactures some of its products in Belgium and some in Slovenia.
 
 We’re currently really happy with the quality of our products but feel that ramping up the volume at our current suppliers could have a negative impact on quality and lead-time.
 
