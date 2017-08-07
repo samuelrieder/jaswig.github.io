@@ -47,10 +47,10 @@ Until now, Jaswig has developed two commercial products, [the StandUp](http://ww
 But, customers asked for more products. They “demanded” a wider portfolio, and that’s why we joined forces with Fully, as their product portfolio is consists out an extensive array of high quality designs.
 
 Products we will offer that will hopefully cover the demand of our customers are:
-* [The best electric standing desk according to WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called Jarvis
-* A standing desk converter called Cooper
-* A Tic Toc chair and balance board
-* Topo standing mat
+* The best electric standing desk according to [WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called [Jarvis](http://www.jaswig.be/jarvis/)
+* A standing desk converter called [Cooper](http://www.jaswig.be/Cooper/)
+* A [Tic Toc chair](http://www.jaswig.be/tic-toc/) and [balance board](http://www.jaswig.be/tic-toc-balance-board/)
+* [Topo standing mat](http://www.jaswig.be/topo-anti-fatigue-mat/)
 * other exciting accessories
 
 Go and take a look on our brand [new website](http://www.jaswig.be/)!
