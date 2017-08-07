@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jaswig partners up with Fully"
+title: "Jaswig partners up with Fully - Exciting times ahead!"
 description: Jaswig is announcing its close collaboration with Fully
 date: "2017-08-06 20:10:27 +0100"
 cover: "/images/blog/Jaswig-Fully-Partnership.jpg"
@@ -15,7 +15,7 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-We have big news; we are setting up a very thorough partnership with Fully!
+We have big news, we are setting up a thorough partnership with Fully! New standing desk, balance board, standing mats and more...
 <!--more-->
 
 
@@ -47,11 +47,12 @@ Until now, Jaswig has developed two commercial products, [the StandUp](http://ww
 But, customers asked for more products. They “demanded” a wider portfolio, and that’s why we joined forces with Fully, as their product portfolio is consists out an extensive array of high quality designs.
 
 Products we will offer that will hopefully cover the demand of our customers are:
-* The best electric standing desk according to [WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called [Jarvis](http://www.jaswig.be/jarvis/)
-* A standing desk converter called [Cooper](http://www.jaswig.be/Cooper/)
-* A [Tic Toc chair](http://www.jaswig.be/tic-toc/) and [balance board](http://www.jaswig.be/tic-toc-balance-board/)
-* [Topo standing mat](http://www.jaswig.be/topo-anti-fatigue-mat/)
-* other exciting accessories
+
++ The best electric standing desk according to [WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called [Jarvis](http://www.jaswig.be/jarvis/)
++ A standing desk converter called [Cooper](http://www.jaswig.be/Cooper/)
++ A [Tic Toc chair](http://www.jaswig.be/tic-toc/) and [balance board](http://www.jaswig.be/tic-toc-balance-board/)
++ [Topo standing mat](http://www.jaswig.be/topo-anti-fatigue-mat/)
++ other exciting accessories
 
 Go and take a look on our brand [new website](http://www.jaswig.be/)!
 
