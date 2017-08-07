@@ -25,7 +25,7 @@ We have big news; we are setting up a very thorough partnership with Fully!
 
 “The idea behind Fully is simple: Movement is good. When you move, when you are fully in your body, you feel more present, engaged, and alive. More of you show up to work, to relationships, to life.”
 
-Mathias, co-founder and head of operations in the United States [(www.jaswig.com)](http://www.jaswig.com/) reached out to Fully a few months back. Mathias, who had just moved back from the US to Belgium, was looking for a strong partnership to run the online business of Jaswig in the US.
+Mathias, co-founder and head of operations in the United States ([www.jaswig.com])(http://www.jaswig.com/) reached out to Fully a few months back. Mathias, who had just moved back from the US to Belgium, was looking for a strong partnership to run the online business of Jaswig in the US.
 
 He reached out to a few companies and had several very interesting interviews but the conversations with David Kahl, the CEO and founder of Fully were different. They were inspiring and felt very natural.
 In these conversations David also expressed his interest in expanding his business beyond the US, and into the Continent (Europe).
