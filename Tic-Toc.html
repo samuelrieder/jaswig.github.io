@@ -1,0 +1,85 @@
+---
+layout: default
+title: Tic-Toc Active Seating | Jaswig
+label: "Chairs"
+permalink: /tic-toc/
+prod_qos: true
+---
+
+<div class="meetup">
+  <div class="testcube-promo container">
+    <div class="row padding-bottom">
+      <div class="col-xs-12 col-sm-5">
+        <div class="meetup__image">
+          <img src="/images/8-Tic-Toc-Page/Tic-Toc-Active-Seating-Chair-Jaswig.jpg" alt="Tic-Toc-Active-Seating-Chair-Jaswig" title="Tic-Toc-Active-Seating-Chair-Jaswig">
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-7">
+        <div class="meetup__right-text">
+          <h1 class="large">Tic-Toc Chair</h1>
+
+          <h2>A chair that makes you move</h2>
+          <p>
+            When you’re reading this page, chances are you still haven’t found your perfect chair. Well have a seat and let the following sink in.<br><br>
+
+            The Tic Toc Chair is designed to keep you in motion in the most comfortable way. We know that sitting down all day in the same position is excruciating. It’s curved H-form pattern allows you to balance from side-to-side. Because of this you’ll straighten your back and keep your blood flowing so you’ll feel active and healthy all day long.<br><br>
+
+            Next to being an awesome office chair, Tic Toc is a great addition to your kitchen or living room table. Active people, especially children, will use it’s dynamic and rocking motion to let off some steam.<br><br>
+
+            Tic Toc’s patented swivel seat and H-base are made of beechwood grown and harvested in northwestern Germany, and certified sustainable by the Programme for the Endorsement of Forest Certification (PEFC). The custom gas lift is ISO 9001 certified.<br><br>
+          </p>
+          <p>
+            <a href="{{ "/products/tic-toc-chair" | prepend: site.shopify_eu }}" class="cust-cta hero__cta cta btn" data-toggle="tooltip" data-placement="right" title="Order Your Tic-Toc Chair Now">Order now</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+
+<!-- <div class="values-quote col-xs-12">
+  <span class="values-quote-sign">&ldquo;</span>
+  <p>Our mission is to make people feel better. So, test what people think about standing up. Give it a chance to change a habbit once in a while :)</p>
+</div> -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementsByClassName('modal-img');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+for (i=0; i<img.length; i++) {
+img[i].onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>

@@ -1,0 +1,85 @@
+---
+layout: default
+title: Monitor Arms | Jaswig
+label: "Accessories"
+permalink: /monitor-arms/
+prod_qos: true
+---
+
+<div class="meetup">
+  <div class="testcube-promo container">
+    <div class="row padding-bottom">
+      <div class="col-xs-12 col-sm-5">
+        <div class="meetup__image">
+          <img src="/images/12-Monitor-Arm-Page/Monitro-Arm-Jarvis-Standing-Desk.jpg" alt="Monitor Arm for your Jarvis Standing Desk" title="Put your screen(s) on the correct height">
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-7">
+        <div class="meetup__right-text">
+          <h1 class="large">Jarvis&#8482 Monitor Arm</h1>
+
+          <h2>Saves Desktop Space and Necks</h2>
+          <p>
+            If you’re going for the most ergonomic setup, you’ll want a monitor arm.<br><br>
+
+            Monitors and laptops take up space on your desktop. A monitor arm will save you space, but you can most importantly adjust it to your correct height. <br><br>
+
+            All the monitor arms are so versatile that you can adjust your monitor to any angle, portrait or landscape. Adding a laptop tray also keeps your laptop from taking up space.
+            Applicable on the Jarvis and Cooper, black and white colors are available.<br><br>
+
+          </p>
+          <p>
+            <a href="{{ "/products/monitor-arms" | prepend: site.shopify_eu }}" class="cust-cta hero__cta cta btn" data-toggle="tooltip" data-placement="right" title="Order Your Heavy Duty Monitor Arms for your Standing Desk">Order now</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+
+<!-- <div class="values-quote col-xs-12">
+  <span class="values-quote-sign">&ldquo;</span>
+  <p>Our mission is to make people feel better. So, test what people think about standing up. Give it a chance to change a habbit once in a while :)</p>
+</div> -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementsByClassName('modal-img');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+for (i=0; i<img.length; i++) {
+img[i].onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>

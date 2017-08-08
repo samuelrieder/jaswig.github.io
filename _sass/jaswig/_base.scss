@@ -96,6 +96,10 @@ h5 {
   h2 {
     font-size: 32px;
   }
+
+  h2.notop {
+    margin-top: 0;
+  }
 }
 
 @media (min-width: $screen-lg-min) {

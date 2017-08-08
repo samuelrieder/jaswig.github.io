@@ -1,0 +1,112 @@
+---
+layout: default
+title: ScreenUp for your StandUp | Jaswig
+label: "Accessories"
+permalink: /screenup/
+prod_qos: true
+---
+
+<div class="meetup">
+  <div class="testcube-promo container">
+    <div class="row padding-bottom">
+      <div class="col-xs-12 col-sm-5">
+        <div class="meetup__image">
+          <img src="/images/11-ScreenUp-Page/ScreenUp-Monitor-Stance-StandUp-Standing-Desk.jpg" alt="Laptop stand for your StandUp" title="Put your screen on the correct height">
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-7">
+        <div class="meetup__right-text">
+          <h1 class="large">ScreenUp</h1>
+
+          <h2>Perfect Ergonomic SetUp</h2>
+          <p>
+            When working on your <a href="http://www.jaswig.be/standup/">StandUp</a> standing desk, the perfect position for your laptop or extra monitor is at eye's height. This way you create a perfect ergonomic set up which allows you to enjoy your StandUp even more!
+          </p>
+          <h2>Simple Assembly</h2>
+          <p>
+            The holes in the desktop of your StandUp make it possible to mount the ScreenUp wherever you like. Adding the ScreenUp to your StandUp is as simple as screwing in a bold.
+          </p>
+          <p>
+            <a href="{{ "/products/screenup" | prepend: site.shopify_eu }}" class="cust-cta hero__cta cta btn" data-toggle="tooltip" data-placement="right" title="Order Your Ergonomic Laptop stand for your StandUp Standing Desk">Order now</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="values meetup__gallery">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/1-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" title="Get Up, StandUp" class="modal-img">
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/2-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" tittle="Design Add on for laptop on standing desk StandUp Jaswig" class="modal-img">
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/3-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" title="Ideal for laptop workers" class="modal-img">
+        </div>
+      </div>
+      <br><br>
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/4-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" title="Design Add on for laptop on standing desk StandUp Jaswig" class="modal-img">
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/5-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" tittle="Design Add on for laptop on standing desk StandUp Jaswig" class="modal-img">
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+          <img src="/images/11-ScreenUp-Page/Galery/6-ScreenUp.jpg" alt="Design Add on for laptop on standing desk StandUp Jaswig" title="Design Add on for laptop on standing desk StandUp Jaswig" class="modal-img">
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- <div class="values-quote col-xs-12">
+  <span class="values-quote-sign">&ldquo;</span>
+  <p>Our mission is to make people feel better. So, test what people think about standing up. Give it a chance to change a habbit once in a while :)</p>
+</div> -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementsByClassName('modal-img');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+for (i=0; i<img.length; i++) {
+img[i].onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>

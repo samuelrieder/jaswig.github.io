@@ -218,6 +218,17 @@ input[type="radio"]:focus{
   visibility: hidden;
 }
 
+@media (min-width: 992px) {
+  .one-by-two-margin {
+    width: 12.5%;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+  }
+}
+
  .small-ft {
    font-size: 15px !important;
  }

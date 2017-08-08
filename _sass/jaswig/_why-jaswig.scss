@@ -40,21 +40,13 @@
 }
 
 .why-jaswig-padd {
-  padding: 25px 30px;
-  height: 75px;
-  width: 155px;
+  padding: 18px 30px;
+  height: 60px;
+  width: 160px;
 }
 
 @media (min-width: 991px) {
   .why-jaswig-cta {
     padding: 0 50px;
-  }
-}
-
-@media (max-width: 600px) {
-  .why-jaswig-padd {
-    padding: 16px 16px;
-    height: 75px;
-    width: 100px;
   }
 }

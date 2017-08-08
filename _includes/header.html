@@ -4,9 +4,9 @@
       <div class="brand">
         <a class="site-title" href="{{ site.baseurl }}/">
           {% if page.url == '/' %}
-            <img src="/images/jaswig-logo-small.svg" alt="Logo Jaswig">
+            <img src="/images/logo_black_website.svg" alt="Logo Jaswig">
           {% else %}
-            <img src="/images/jaswig-logo-small.svg" alt="Logo Jaswig Small">
+            <img src="/images/logo_black_website.svg" alt="Logo Jaswig Small">
           {% endif %}
         </a>
       </div>
@@ -19,7 +19,7 @@
             <li class="navigation__item nav-item">
 
               {% if my_page.submenu %}
-                <a class="{% if page.url == my_page.url %} active {% else %} {% if page.prod_qos %} active {% endif %} {% endif %}" href="{{ my_page.permalink }}">{{ my_page.label }}</a>
+                <a class="{% if page.url == my_page.url %} active {% else %} {% if page.prod_qos %}{% if page.label == my_page.label %} active {% endif %} {% endif %} {% endif %}" href="{{ my_page.permalink }}">{{ my_page.label }}</a>
 
                 <ul class="navigation__submenu">
                 {% for item in my_page.submenu %}
@@ -69,6 +69,7 @@
                   {% for my_page in pages %}
                   {% unless page.navsm %}
                     {% if my_page.title and my_page.position %}
+                    {% unless my_page.submenu_en %}
                     <li>
                       {% if page.url == my_page.url %}
                         <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
@@ -76,6 +77,20 @@
                         <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.label }}</a>
                       {% endif %}
                     </li>
+                    {% endunless %}
+
+                    {% if my_page.submenu_en %}
+                    {% for item in my_page.submenu %}
+                      <li>
+                        {% if page.url contains item.link %}
+                          <a class="active" href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>
+                        {% else %}
+                          <a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>
+                        {% endif %}
+                      </li>
+                    {% endfor %}
+                    {% endif %}
+
                     {% endif %}
                     {% endunless %}
                     {% if page.navsm %}

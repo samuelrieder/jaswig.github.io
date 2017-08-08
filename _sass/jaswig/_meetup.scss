@@ -42,7 +42,14 @@
         margin: 0;
       }
     }
+    &__right-text h1 {
+      margin-top: 0;
+    }
   }
+  .no-top-clone {
+    margin-top: 0;
+  }
+
 }
 
 @media (min-width: $screen-md-min) {
@@ -57,6 +64,12 @@
     &__gallery {
       padding: 100px 0;
     }
+    &__right-text h1 {
+      margin-top: -20px;
+    }
+  }
+  .no-top-clone {
+    margin-top: -20px;
   }
 }
 
