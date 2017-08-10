@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Jaswig partners up with Fully - Exciting times ahead!"
-description: Jaswig is announcing its close collaboration with Fully
+description: Jaswig announces its collaboration with Fully
 date: "2017-08-06 20:10:27 +0100"
 cover: "/images/blog/Jaswig-Fully-Partnership.jpg"
 thumbnail: "/images/blog/Jaswig-Fully-Partnership.jpg"
 categories: blog
-published: true
+published: false
 
 shareBox: true
 shareSocial: true
