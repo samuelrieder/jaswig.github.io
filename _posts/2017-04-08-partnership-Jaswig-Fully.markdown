@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Jaswig partners up with Fully - Exciting times ahead!"
-description: Jaswig is announcing its close collaboration with Fully
+description: Jaswig announces its collaboration with Fully
 date: "2017-08-06 20:10:27 +0100"
 cover: "/images/blog/Jaswig-Fully-Partnership.jpg"
 thumbnail: "/images/blog/Jaswig-Fully-Partnership.jpg"
 categories: blog
-published: true
+published: false
 
 shareBox: true
 shareSocial: true
@@ -28,7 +28,7 @@ We have big news, we are setting up a thorough partnership with Fully! New stand
 Mathias, co-founder and head of operations in the United States [(www.jaswig.com)](http://www.jaswig.com/) reached out to Fully a few months back. Mathias, who had just moved back from the US to Belgium, was looking for a strong partnership to run the online business of Jaswig in the US.
 
 He reached out to a few companies and had several very interesting interviews but the conversations with David Kahl, the CEO and founder of Fully were different. They were inspiring and felt very natural.
-In these conversations David also expressed his interest in expanding his business beyond the US, and into the Continent (Europe).
+In these conversations David also shared that spreading to Europe could be interesting for his business.
 
 In May of 2017 David came to Ghent to meet the Jaswig team (Mathias, Sam, Nick, Henri, John and Daphne) as we had a lot to talk about!
 
@@ -46,7 +46,7 @@ Until now, Jaswig has developed two commercial products, [the StandUp](http://ww
 
 But, customers asked for more products. They “demanded” a wider portfolio, and that’s why we joined forces with Fully, as their product portfolio is consists out an extensive array of high quality designs.
 
-Products we will offer that will hopefully cover the demand of our customers are:
+Products we are launching that'll hopefully cover the demand of our customers are:
 
 + The best electric standing desk according to [WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called [Jarvis](http://www.jaswig.be/jarvis/)
 + A standing desk converter called [Cooper](http://www.jaswig.be/Cooper/)
@@ -63,7 +63,7 @@ Fully plays in another league when it comes to volume and turnover. Because of t
 
 This will make us more competitive in the higher volume market so that we can impact more people’s lives, which is the reason why we are in business.
 
-The StandUp is the first product that will be significantly changed in price. Our new price will be: XXXXXXXXX
+The StandUp is the first product that will be significantly changed in price. Our new price will be: €350.
 
 
 ## Production
