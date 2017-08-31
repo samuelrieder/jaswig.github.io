@@ -19,30 +19,30 @@ shareTaglineUrl: "http://www.jaswig.be"
 Case study on how Digipolis manages rapid growth with flexible furniture.
 <!--more-->
 
-Digipolis is a returning customer for which Jaswig solves a problem. 
-They were looking for a simple, flexible and healthy alternative to the alarming amount of 
+Digipolis is a returning customer for which Jaswig solves a problem.
+They were looking for a simple, flexible and healthy alternative to the alarming amount of
 sitting hours.
 
 ## 1. About Digipolis
 
 Digipolis is the main ICT partner of the cities Ghent and Antwerp.
-ICT plays a major role in the coordination of the city’s business management. 
-The police, the fire department, schools and more are all depending on the competent 
+ICT plays a major role in the coordination of the city’s business management.
+The police, the fire department, schools and more are all depending on the competent
 hands of Digipolis.
 
 + Revenue €60M
 + Workforce 212 IT / 13 management / 30 support
 + Office space : 2460M2
-+ [Digipolis](www.digipolis.be)
++ [Digipolis](https://www.digipolis.be/)
 
 ## 2. Problem - Solution
 
 Digipolis continues to grow as the ICT in the city gains importance. It is growing at a firm
-pace every month. Like in most places the work consists of sitting behind the desk and computer for most of the time. 
+pace every month. Like in most places the work consists of sitting behind the desk and computer for most of the time.
 Both health and growth problems are (partly) solved by the implementation of the StandUp desks. The desks are used as landing zones for the nomads on the go, or just before meetings. Digipolis even decorated an entire meeting room with standing desks for healthy meetings.
 
-Digipolis compared many possible solutions but in the end Jaswig was the preferred option. 
-The flexible and compact StandUp are perfect for the growing company. 
+Digipolis compared many possible solutions but in the end Jaswig was the preferred option.
+The flexible and compact StandUp are perfect for the growing company.
 
 To kick of the full Jaswig implementation Digipolis first selected a small group of dedicated people to lead this pilot project. After two weeks of testing, the project was replicated in several other departments.
 
@@ -63,7 +63,7 @@ The implementation has the following measurable consequences:
 
 ## 5. Different Approach on different levels
 
-Digipolis is shifting towards the new way of working. Flexible hours combined with a result 
+Digipolis is shifting towards the new way of working. Flexible hours combined with a result
 based strategy. This complements Jaswig in every way.
 
 + The clean desk principle is incorporated in the compact design of the desk
