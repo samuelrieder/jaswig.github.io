@@ -12,7 +12,7 @@ shareBox: true
 shareSocial: true
 shareTagline: "A healthy standing desk that fits perfectly in your life"
 shareTaglineAction: "More info"
-shareTaglineUrl: "http://www.jaswig.com"
+shareTaglineUrl: "http://www.jaswig.be"
 ---
 
 ### Sitting all day makes you lazy…
@@ -54,4 +54,4 @@ Now please, do you want to get your lazy ass out of your comfortable chair* and 
 
 ![Standing Revolution](/images/blog/standing-revolution.jpg){:.small}
 
-Use a chair as a luxury product and really enjoy when you’re sitting down… 
+Use a chair as a luxury product and really enjoy when you’re sitting down…
