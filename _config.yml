@@ -27,3 +27,6 @@ excerpt_separator: <!--more-->
 # Gem plugins
 gems:
   - jekyll-sitemap
+  
+plugins:
+  - jekyll-redirect-from
