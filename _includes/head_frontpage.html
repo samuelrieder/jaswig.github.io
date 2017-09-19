@@ -98,6 +98,9 @@
     <meta name="p:domain_verify" content="53ead9e12d40c007d00d02e7373831c1"/>
     <!-- End Pinterest code -->
 
+  <link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="alternate" hreflang="x-default">
+  <link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace:'.be','.com' }}" rel="alternate" hreflang="en-us">
+
   <link rel="shortcut icon" href="/favicon.png">
   {% if page.url == '/' %}   <link rel="stylesheet" href="{{ "/css/modal.css" | prepend: site.baseurl }}"> {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
