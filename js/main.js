@@ -10,10 +10,12 @@
 {% include_relative videomodal.js %}
 {% include_relative cookies-warning.js %}
 {% include_relative hero-background.js %}
+{% include_relative bootstrap.min.js %}
 
 $(document).on('ready', function() {
   $('.order-card-text').matchHeight({byRow: true,property: 'height'});
-  var cookiesWarning = new window.CookiesWarning()
+  var cookiesWarning = new window.CookiesWarning();
+  $('[data-toggle="popover"]').popover({ html : true });
 });
 
 /*$(document).on('click', '.hero .cta, .mobile-content .cta', function(event) {
