@@ -68,7 +68,6 @@ function pos_checker() {
         }
       }
     } */
-
     var form_name = document.getElementById("emp-name").value;
     var form_lname = document.getElementById("emp-lname").value;
     var form_email = document.getElementById("email-id").value;
@@ -82,6 +81,9 @@ function pos_checker() {
     var form_chair = $("input[name='j7']:checked").next().html();
     var form_commute = $("input[name='j8']:checked").next().html();
     var form_commute_time = document.getElementById("9-1").value;
+    var total_sit_hrs = (form_sit_after * 1) + (form_avg_sit / 60);
+
+    $('#text-changer').text('You sit '+total_sit_hrs.toFixed(2)+' hours on average a day!');
     $('#emp-name').css('display','none');
     $('#cmp-name').css('display','none');
     $('#submit-form').css('display','none');
