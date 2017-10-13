@@ -141,10 +141,10 @@ function result_blocks() {
   b4*=1;
   console.log(b4);
 
-  if(b1<=4){
+  if(b1<=5){
     $('#b11').removeClass("disp-non");
   } else {
-    if (b1<=6) {
+    if (b1<=7) {
       $('#b12').removeClass("disp-non");
     } else {
       $('#b13').removeClass("disp-non");
