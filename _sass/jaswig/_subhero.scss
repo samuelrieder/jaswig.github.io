@@ -53,8 +53,9 @@
 .cust-subs {
   margin: 0 auto !important;
   float: none !important;
-  background-color: $color-dark;
-  border: 2px solid;
+  background-color: #f2c18b;
+  border: 5px solid;
+  border-radius: 3px;
 }
 
 .cust-subs .hs-form .hs-button.primary.large{
@@ -64,33 +65,68 @@ font-weight: 500 !important;
 letter-spacing: 2px;
 font-size: 13px !important;
   &:hover {
-    color: $color-dark !important;
-    border-left: 2px solid $color-dark !important;
+    color: #f2c18b !important;
+    border: 2px solid #f2c18b !important;
   }
 }
 
 .cust-subs .hs-input {
-  font-family: "Brandon Grotesque" !important;
-  font-weight: 500 !important;
-  letter-spacing: 2px;
+  font-family: "roboto" !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.7px;
   font-size: 13px !important;
+  color: #f2c18b;
 }
 
-.cust-subs-x h2, .cust-subs-x div{
-  color: $color-dark !important;
+.cust-subs-x h2{
+  color: #fff !important;
+  font-family: roboto;
+  font-weight: 300;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+@media (max-width: $screen-md-min) {
+  .cust-subs-x h2{
+    font-size: 34px;
+  }
+}
+
+.cust-subs-x div{
+  color: #fff !important;
 }
 
 .cust-subs-x {
+}
+
+.cust-subs-sp-btn {
+  text-transform: none;
+  background-color: #e4a667 !important;
+  color: #fff !important;
+  font-size: 22px !important;
+  font-weight: 300 !important;
+  padding: 1vw 2vw !important;
+  border-width: 3px;
+    &:hover {
+      background-color: #fff !important;
+      color: #e4a667 !important;
+      border-color: #fff !important;
+  }
 }
 
 .special {
   margin: 0 auto;
   //border-bottom: 1px solid $color-subtle;
   padding: 30px 0;
+  background-color: #f2c18b;
 }
 
 .hbspt-form .submitted-message {
     color: #1c1b1a !important;
     background-color: white;
     border-color: white;
+}
+
+.new-bg-color {
+  background-color: #e4a667 !important;
 }
