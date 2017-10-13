@@ -46,6 +46,7 @@ function pos_checker() {
     $('#controls').addClass("disp-non");
     q_count.innerHTML = "";
     $('#sub-results').removeClass("disp-non");
+    result_blocks();
     /* var divider = end_result();
      if(divider<=51){
       $('#result6').removeClass("disp-non");
@@ -82,7 +83,7 @@ function pos_checker() {
     var form_chair = $("input[name='j7']:checked").next().html();
     var form_commute = $("input[name='j8']:checked").next().html();
     var form_commute_time = document.getElementById("9-1").value;
-    total_sit_hrs = (form_sit_after * 1) + (form_avg_sit / 60);
+    total_sit_hrs = (form_sit_after * 1) + (form_avg_sit * 1);
 
     $('#text-changer').text('You sit '+total_sit_hrs.toFixed(2)+' hours on average a day!');
     $('#emp-name').css('display','none');
@@ -91,7 +92,6 @@ function pos_checker() {
     a = "https://docs.google.com/forms/d/e/1FAIpQLSfyXfJHErvmy8kUTXW4EOhPruUA_grFMEerKE6xUit5Hf3BDQ/formResponse?entry.848066769="+form_name+"&entry.282598785="+form_lname+"&entry.521549914="+form_email+"&entry.458136576="+form_cname+"&entry.1030902005="+form_work+"&entry.1202848100="+form_position+"&entry.337948680="+form_sit_after+"&entry.1186343580="+form_sports+"&entry.1273176667="+form_avg_sit+"&entry.1944927067="+form_interrupt+"&entry.1933737799="+form_chair+"&entry.619591610="+form_commute+"&entry.1613678846="+form_commute_time;
     xmlhttp.open("POST", a, false);
     xmlhttp.send();
-    result_blocks();
   }
 }
 
@@ -126,8 +126,9 @@ function end_result() {
 }
 
 function result_blocks() {
-  //var b1 = $("#5").val();
-  b1=total_sit_hrs;
+  var bx1 = $("#5").val();
+  var bx2 = $("#3").val();
+  b1 = (bx1 * 1) + (bx2 * 1);
   console.log(b1);
   var b2 = $("#6").val();
   //b2=(b2/1.428)+1;
