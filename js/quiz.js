@@ -4,9 +4,10 @@ var enable_prev = true;
 var q_count = document.getElementById('count');
 var xmlhttp = new XMLHttpRequest();
 var a;
+var total_sit_hrs;
 
 $( "#quiz-start" ).click(function() {
-  if($("#emp-name").val() != "" && $("#cmp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
+  if($("#emp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
   $("#title").addClass("disp-non");
   $(".active").removeClass("active");
   $("#intro").addClass("dnt-show");
@@ -45,7 +46,6 @@ function pos_checker() {
     $('#controls').addClass("disp-non");
     q_count.innerHTML = "";
     $('#sub-results').removeClass("disp-non");
-    result_blocks();
     /* var divider = end_result();
      if(divider<=51){
       $('#result6').removeClass("disp-non");
@@ -72,6 +72,7 @@ function pos_checker() {
     var form_lname = document.getElementById("emp-lname").value;
     var form_email = document.getElementById("email-id").value;
     var form_cname = document.getElementById("cmp-name").value;
+    if($("#cmp-name").val() == ""){form_cname = "none";}
     var form_work = document.getElementById("1-1").value;
     var form_position = $("input[name='j2']:checked").next().html();
     var form_sit_after = document.getElementById("3-1").value;
@@ -81,7 +82,7 @@ function pos_checker() {
     var form_chair = $("input[name='j7']:checked").next().html();
     var form_commute = $("input[name='j8']:checked").next().html();
     var form_commute_time = document.getElementById("9-1").value;
-    var total_sit_hrs = (form_sit_after * 1) + (form_avg_sit / 60);
+    total_sit_hrs = (form_sit_after * 1) + (form_avg_sit / 60);
 
     $('#text-changer').text('You sit '+total_sit_hrs.toFixed(2)+' hours on average a day!');
     $('#emp-name').css('display','none');
@@ -90,6 +91,7 @@ function pos_checker() {
     a = "https://docs.google.com/forms/d/e/1FAIpQLSfyXfJHErvmy8kUTXW4EOhPruUA_grFMEerKE6xUit5Hf3BDQ/formResponse?entry.848066769="+form_name+"&entry.282598785="+form_lname+"&entry.521549914="+form_email+"&entry.458136576="+form_cname+"&entry.1030902005="+form_work+"&entry.1202848100="+form_position+"&entry.337948680="+form_sit_after+"&entry.1186343580="+form_sports+"&entry.1273176667="+form_avg_sit+"&entry.1944927067="+form_interrupt+"&entry.1933737799="+form_chair+"&entry.619591610="+form_commute+"&entry.1613678846="+form_commute_time;
     xmlhttp.open("POST", a, false);
     xmlhttp.send();
+    result_blocks();
   }
 }
 
@@ -124,11 +126,12 @@ function end_result() {
 }
 
 function result_blocks() {
-  var b1 = $("#5").val();
-  b1*=1;
+  //var b1 = $("#5").val();
+  b1=total_sit_hrs;
   console.log(b1);
   var b2 = $("#6").val();
-  b2=(b2/1.428)+1;
+  //b2=(b2/1.428)+1;
+  b2*=1;
   console.log(b2);
   var b3 = $("#4").val();
   b3*=1;
@@ -147,10 +150,10 @@ function result_blocks() {
     }
   }
 
-  if(b2<=8){
+  if(b2<=30){
     $('#b21').removeClass("disp-non");
   } else {
-    if (b2<=10) {
+    if (b2<=90) {
       $('#b22').removeClass("disp-non");
     } else {
       $('#b23').removeClass("disp-non");
@@ -270,7 +273,7 @@ $("input:checkbox").on('click', function() {
 });
 
 $("#emp-name,#cmp-name,#emp-lname,#email-id").on("input", function() {
-    if($("#emp-name").val() != "" && $("#cmp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
+    if($("#emp-name").val() != "" && $("#emp-lname").val() != "" && $("#email-id").val() != "" && isEmail($("#email-id").val())) {
       $("#quiz-start").removeClass("disable");
     } else {
       $("#quiz-start").addClass("disable");
