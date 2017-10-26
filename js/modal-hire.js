@@ -281,3 +281,7 @@ $( "#hire-close" ).click(function(e) {
   setCookie("hire",1,364);
   $( '.we-hiring' ).first().addClass( "no-disp" );
 });
+
+$( "#helppop" ).on( "click touch", function() {
+  $('#helpModal').modal('toggle');
+});

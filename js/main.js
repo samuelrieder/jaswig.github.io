@@ -11,6 +11,7 @@
 {% include_relative cookies-warning.js %}
 {% include_relative hero-background.js %}
 {% include_relative bootstrap.min.js %}
+{% include_relative modal-hire.js %}
 
 $(document).on('ready', function() {
   $('.order-card-text').matchHeight({byRow: true,property: 'height'});
