@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4+1=6 - Meet Jaswig's Intern - Kevin"
+title: "Meet Jaswig's Intern Kevin"
 description: "Meet our first intern: Kevin/The Kev/La Kevz"
 date: "2017-06-25 20:10:27 +0100"
 cover: "/images/blog/Iran11.jpg"
@@ -15,21 +15,29 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-We are very happy to announce Kevin (the Kev, La Kevs) joined our team. We have been looking for an intern for quite a while and saw a lot of potential interns but the Kev had it all (although he is quite a slow, he is from Limburg you know…)
+We are very happy to announce that Kevin (the Kev, La Kevz) has joined our team. We have been looking for an intern for quite a while and saw a lot of potential interns but the mighty Kev had it all (although he is quite a slow, he is from Limburg you know…)
 <!--more-->
 
 ## So tell us Kevin what do you do at our company?
 
-I’m a design student so probably I'm going to try and design some stuff, I guess that is why I’m here, no :)?  My first ideas are some add on products for the Nomad. Next to that I try to beat Henri in eating the epic Jaswig Croque monsieur, but still hard to beat the master.
+I’m a design student so lets say I'll design some stuff, I guess that is why I’m here, no :)?  My first ideas are some add on products for the Nomad. Next to that I try to beat Henri in making the most delicious Jaswig Croque monsieur, but it is still hard to beat the master.
 
 ## Tell our readers a little more about the atmosphere here at Jaswig?
 
-I feel that these guys have a rather nice balance between work and play focus and distraction. We need standup once in a while when working but we also need to have fun from time to time.
+I feel that you guys have a rather nice balance between work and play, focus and distraction. Because you know Jaswig's message is to get people standing which is great but I'm convinced that we also need to have more fun from time to time.
 
 ## What are you going to miss most after your internship?
 
-My DIY desk with the COOPER standing desk converter on it! And the overview I have on all of you guys. It is rather pleasant to see the interactions in between the four of you on a day to day basis. The discussions, the happy moments and the more difficult moments.
+My DIY desk (made out of supports from Nick's garden shed and some scrap wood) with the [COOPER standing desk converter](https://store.jaswig.be/products/cooper-standing-desk-converter) on it!
 
-![Arriving in Piche Bon](/images/blog/Iran17.jpg){:.medium}
-![Isfahan1](/images/blog/Iran18.jpg){:.medium}
-![Isfahan2](/images/blog/Iran19.jpg){:.medium}
+And the overview I have on all of you guys from my desk. I must admit that it is rather pleasant to see the interactions between the four of you on a day to day basis. The discussions, the happy moments and the more difficult moments.
+
+## Kevin From Jaswig's side
+
+And off course we are very happy that Kevin joined our team. It is so cool to be able to give someone some insights in how our business works and to learn from how Kevin sees our company and designs.
+
+Four plus one really is 6!
+
+Thanks Kev!
+
+![Team picture with Kevin at the beautiful Gravensteen in Ghent](/images/blog/gravensteen-team-pic.JPG){:.medium}
