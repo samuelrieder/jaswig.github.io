@@ -285,3 +285,8 @@ $( "#hire-close" ).click(function(e) {
 $( "#helppop" ).on( "click touch", function() {
   $('#helpModal').modal('toggle');
 });
+
+
+$( "#callpop" ).on( "click touch", function() {
+  $('#callModal').modal('toggle');
+});
