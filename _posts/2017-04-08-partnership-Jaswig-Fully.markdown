@@ -31,7 +31,7 @@ Jaswig Europe has broadened its product portfolio with the top products from Ful
 ## Products
 
 Until now, Jaswig has developed two commercial products, [the StandUp](http://www.jaswig.be/standup/) and the [MeetUp](http://www.jaswig.be/meetup/). And we’re working hard on our third one, [the SeatUp](http://www.jaswig.be/seatup/).
-But, customers asked for more products. They “demanded” a wider portfolio, and that’s why we joined forces with Fully, as their product portfolio is consists out an extensive array of high quality designs.
+But, customers asked for more products. They “demanded” a wider portfolio, and that’s why we joined forces with Fully, as their product portfolio consists of an extensive array of high quality designs.
 Products we are launching that'll hopefully cover the demand of our customers are:
 + The best electric standing desk according to [WireCutter](http://thewirecutter.com/reviews/best-standing-desk/) called [Jarvis](http://www.jaswig.be/jarvis/)
 + A standing desk converter called [Cooper](http://www.jaswig.be/Cooper/)
@@ -46,6 +46,6 @@ Fully has been disrupting the online furniture industry with their direct-to-con
 
 ## Production
 
-In the past couple of months we have been thinking hard about our supply chain. We had several discussions with David about this as well. These were extremely interesting as Fully really dives deep into its supply chain as a certified B Corp. We, at Jaswig, feel really aligned with everything Fully does in this context and are exciting to learn more about it. More about this in the coming weeks/months :). As we’ll keep on sharing important decisions changes.
+In the past couple of months we have been thinking hard about our supply chain. We had several discussions with David about this as well. These were extremely interesting as Fully really dives deep into its supply chain as a certified B Corp. We, at Jaswig, feel really aligned with everything Fully does in this context and are excited to learn more about it. More about this in the coming weeks/months :). As we’ll keep on sharing important decisions changes.
 
 We’ll keep everyone in the loop via social media and this blog.
