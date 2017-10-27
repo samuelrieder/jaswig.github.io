@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "4+1=6"
-description: Meet our first intern: Kevin/The Kev/La Kevz
-date: "2017-06-28 20:10:27 +0100"
+title: "4+1=6 - Meet Jaswig's Intern - Kevin"
+description: "Meet our first intern: Kevin/The Kev/La Kevz"
+date: "2017-06-25 20:10:27 +0100"
 cover: "/images/blog/Iran11.jpg"
 thumbnail: "/images/blog/Iran11.jpg"
 categories: blog
@@ -10,7 +10,7 @@ published: true
 
 shareBox: true
 shareSocial: true
-shareTagline: "Our intern Kevin"
+shareTagline: "Meet Jaswigs intern Kevin"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
