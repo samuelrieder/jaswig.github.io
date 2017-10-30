@@ -22,7 +22,7 @@ We are very happy to announce that Kevin (the Kev, La Kevz) has joined our team.
 
 First of all this is me. Always nice to be able to put a face on someone.
 
-![Kevins intern jaswig](/images/blog/Kevin-intern-jaswig.JPG){:.medium}
+![Kevins intern jaswig](/images/blog/Kevin-intern-jaswig.JPG){:.small}
 
 I’m a design student so lets say I'll design some stuff, I guess that is why I’m here, no :)?  My first ideas are some add on products for the Nomad. Next to that I try to beat Henri in making the most delicious Jaswig Croque monsieur, but it is still hard to beat the master.
 
