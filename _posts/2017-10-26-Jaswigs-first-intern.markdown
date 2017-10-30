@@ -3,8 +3,8 @@ layout: post
 title: "Meet Jaswig's Intern Kevin"
 description: "Meet our first intern: Kevin/The Kev/La Kevz"
 date: "2017-06-25 20:10:27 +0100"
-cover: "/images/blog/hero image blogpost keving.JPG"
-thumbnail: "/images/blog/hero image blogpost keving.JPG"
+cover: "/images/blog/hero image blogpost kevin.JPG"
+thumbnail: "/images/blog/hero image blogpost kevin.JPG"
 categories: blog
 published: true
 
