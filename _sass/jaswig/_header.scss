@@ -387,6 +387,15 @@ header input[type=checkbox]{
   	text-decoration: underline !important;
 }
 
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+  -o-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear;
+}
+.fade.in {
+  opacity: 1;
+}
 
 /* popover end */
 
