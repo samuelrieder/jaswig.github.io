@@ -244,12 +244,11 @@
  @media (max-width: 767px) {
     .testimonial-text {
      color: #fff;
-     margin: 0 10%;
-    transform: translateY(15%);
+     margin: 10%;
     text-decoration: none !important;
    }
    .carousel-inner {
-     height: 338px;
+     height: auto;
    }
  }
 
