@@ -18,7 +18,7 @@ shareTaglineUrl: "http://www.jaswig.be"
 Happiness has been studied extensively over the centuries. And philosophers, psychologists and neuroscientists are making nice progress.
 <!--more-->
 
-## The happiness formula: 
+## The happiness formula
 
 H = S + C + V
 
@@ -37,7 +37,7 @@ Variable or intermittent noise can have a profound and direct impact on your hap
 
 Many people move away from their working places or start working quite far away from where they live. There can be several reasons for this, because cities are expensive places to live or because people just want a bigger house or because there is not enough work where they live. But guess what, you tend to adapt rapidly to your larger mansion while you won’t adapt to the longer commuting times. So if you suffer from increased levels of stress a first step to reduce them could be to move closer to where you work or switch jobs of course!
 
-## Lack of control:
+## Lack of control
 
 You know it already at this stage but, things that we don’t control stress us out. People that have a sense of control perform better, are happier and more at ease. Changing a company's environment to increase the sense of control among workers is a really effective way to increase their sense of engagement, energy and happiness. Let them choose where to sit, let them choose what furniture they want, let them choose when to work (if possible). Give them a sense of belonging and control.
 
