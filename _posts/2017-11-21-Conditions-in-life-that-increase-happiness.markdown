@@ -40,7 +40,7 @@ Many people live quite far from where they work. For several reasons, because ci
 
 ## 3 Lack of control
 
-You know it already at this stage but, things that we don’t control stress us out. People that have a sense of control perform better, are happier and more at ease. Changing a company's environment to increase the sense of control among workers is a really effective way to increase their sense of engagement, energy and happiness. Let them choose where to sit, let them choose what furniture they want, let them choose when to work (if possible). Give them a sense of belonging and control.
+You know it already at this stage but, things that we don’t control stress us out. People that have a sense of control over their environment perform better, are happier and more at ease. Changing a company's environment to increase the sense of control among workers is a really effective way to increase their sense of engagement, energy and happiness. Let people choose where they sit, let them choose what furniture they want, let them choose when they want to work (if possible). Give them a sense of belonging and control.
 
 ## 2 Shame
 
