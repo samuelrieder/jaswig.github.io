@@ -31,7 +31,8 @@ Today we are going to zoom in on C, the 5 conditions of your life that can have 
 
 ## 5 Noise
 
-Variable or intermittent noise can have a profound and direct impact on your happiness. This kind of noise increases stress indicators in you blood. So it is really worthwhile reducing. For example, by introducing moment of quietness in your life or invest in a good noise cancelling headphone for at the office. http://www.techradar.com/news/audio/portable-audio/best-noise-cancelling-headphones-1280490
+Variable or intermittent noise can have a profound and direct impact on your happiness. This kind of noise increases stress indicators in you blood. So it is really worthwhile reducing. For example, by introducing moment of quietness in your life or invest in a [good noise cancelling headphone](http://www.techradar.com/news/audio/portable-audio/best-noise-cancelling-headphones-1280490) for at the office.
+
 
 ## 4 Commuting
 
