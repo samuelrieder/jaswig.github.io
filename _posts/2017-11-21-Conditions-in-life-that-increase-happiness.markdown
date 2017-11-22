@@ -36,7 +36,7 @@ Variable or intermittent noise can have a profound and direct impact on your hap
 
 ## 4 Commuting
 
-Many people move away from their working places or start working quite far away from where they live. There can be several reasons for this, because cities are expensive places to live or because people just want a bigger house or because there is not enough work where they live. But guess what, you tend to adapt rapidly to your larger mansion while you won’t adapt to the longer commuting times. So if you suffer from increased levels of stress a first step to reduce them could be to move closer to where you work or switch jobs of course!
+Many people live quite far from where they work. For several reasons, because cities are expensive places to live or because people just want a bigger house or because there is not enough work where they live. But guess what, you tend to adapt rapidly to your larger mansion while you won’t adapt to the longer commuting times. So if you suffer from increased levels of stress a first step to reduce them could be to move closer to where you work or switch jobs of course!
 
 ## 3 Lack of control
 
