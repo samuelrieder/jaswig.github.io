@@ -19,8 +19,7 @@ shareTaglineUrl: "http://www.jaswig.be"
 Objects are designed to solve problems, to fulfill emotional and/or basic necessities.
 <!--more-->
 
-*“Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.”*
--	Steve Jobs
+*“Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.”* - Steve Jobs
 
 ## 1. Problem solving designs
 
