@@ -17,7 +17,7 @@ shareTaglineUrl: "http://www.jaswig.be"
 
 ### Sitting all day makes you lazy…
 
-How many hours did you sit down yesterday (yes please, do the [calculation](http://www.juststand.org/tabid/866/Default.aspx)? You might think you’re an active person, but chances are high you sit down for more than 16 hours a day and are only active for about 2-4 hours.
+How many hours did you sit down yesterday (yes please, do the [calculation](http://www.jaswig.be/quiz/)? You might think you’re an active person, but chances are high you sit down for more than 16 hours a day and are only active for about 2-4 hours.
 <!--more-->
 I admit; I was one of those people. Only 25 years and already suffering from back and neck issues because of my horrible posture. Nope, I can’t accept living a life in pain! And those few hours at the gym didn’t solve it…
 
