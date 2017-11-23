@@ -60,7 +60,7 @@ Since this standing desk requires little space with a subtle design, we’d reco
 in offices to create different kinds of flex spots.
 
 
-+ subtle design
+/+ subtle design
 + wood and natural
 + easily adjustable without electronic
 + ergonomic footrest build in
@@ -89,4 +89,4 @@ Now that you know about ‘Cooper’, it is time to know the pros and cons
 
 While this option is not recommended, in certain cases it is simply not necessary. 
 Do you want to know if you require a standing desk? Find out by taking this three-minute test: 
-Take the [test](http://www.jaswig.be/quiz/).
+[test](http://www.jaswig.be/quiz/).
