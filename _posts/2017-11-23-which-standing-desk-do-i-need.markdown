@@ -40,7 +40,7 @@ stability but it will only do it a lot better than your older desk. Despite the 
 less mobile, it won’t bother you since you can’t lift that baby alone ;-)
  
 To sum it up, we have listed the pros and cons of using an Electric standing desk: 
-\+ big desk
+\+ big desk\
 \+ great for office and home use
 \+ easily adjustable
 \+ customizable
