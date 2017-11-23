@@ -10,7 +10,7 @@ published: false
 
 shareBox: true
 shareSocial: true
-shareTagline: "Finding flow"
+shareTagline: "Deskercise with Jessica Alba"
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
