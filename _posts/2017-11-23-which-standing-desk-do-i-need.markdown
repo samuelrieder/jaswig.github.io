@@ -15,7 +15,8 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
 
-A little standing goes a long way. It increases your body’s muscle strength and flexibility. 
+A little standing goes a long way. It increases your body’s muscle strength and flexibility.
+<!--more-->
 So don’t feel bad if you have a problem sitting for a long time.There is a great solution that can help you out- ‘Standing desks’! 
 There are a lot of options available in the market and some might fit your need better than the others. So without waiting any further, 
 let’s check out the options available.
