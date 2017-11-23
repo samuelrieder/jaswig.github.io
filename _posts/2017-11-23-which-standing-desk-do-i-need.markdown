@@ -40,14 +40,14 @@ stability but it will only do it a lot better than your older desk. Despite the 
 less mobile, it won’t bother you since you can’t lift that baby alone ;-)
  
 To sum it up, we have listed the pros and cons of using an Electric standing desk: 
-+ big desk
-+ great for office and home use
-+ easily adjustable
-+ customizable
-+ stable
-- more expensive
-- needs a cable
-- replaces old desk
+\+ big desk
+\+ great for office and home use
+\+ easily adjustable
+\+ customizable
+\+ stable
+\- more expensive
+\- needs a cable
+\- replaces old desk
 
 ![Jarvis desk](/images/blog/jarvis.jpg){:.medium}
 
@@ -60,13 +60,13 @@ Since this standing desk requires little space with a subtle design, we’d reco
 in offices to create different kinds of flex spots.
 
 
-/+ subtle design
-+ wood and natural
-+ easily adjustable without electronic
-+ ergonomic footrest build in
-- smaller working surface
-- doesn’t replace existing setup
-- not made for low standard chairs
+\+ subtle design
+\+ wood and natural
+\+ easily adjustable without electronic
+\+ ergonomic footrest build in
+\- smaller working surface
+\- doesn’t replace existing setup
+\- not made for low standard chairs
 
 ![StandUp desk](/images/blog/standup.jpg){:.medium}
 
@@ -77,11 +77,11 @@ Cooper is part of the converter desk family and can be mounted on any existing d
 It is a great way to move without investing in a totally new set up.
 
 Now that you know about ‘Cooper’, it is time to know the pros and cons
-+ mount on existing desk
-+ affordable sit-stand solution
-+ easily adjustable without electronic
-- makes your desk more crowded
-- smaller surface to work on
+\+ mount on existing desk
+\+ affordable sit-stand solution
+\+ easily adjustable without electronic
+\- makes your desk more crowded
+\- smaller surface to work on
 
 ![Cooper standing desk](/images/blog/cooper.jpg){:.medium}
 
