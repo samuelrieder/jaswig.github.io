@@ -3,8 +3,8 @@ layout: post
 title: "Which standing desk do I need?"
 description: There are a lot of options available in the market and some might fit your need better than the others.
 date: "2017-11-23 11:00:27 +0100"
-cover: "/images/blog/why-you-should-use-a-standing-desk.jpg"
-thumbnail: "/images/blog/which-standing-desk-do-i-need.jpg"
+cover: "/images/blog/jeanpierre.jpg"
+thumbnail: "/images/blog/ashley.jpg"
 categories: blog
 published: true
 
@@ -14,8 +14,6 @@ shareTagline: "There are a lot of options available in the market and some might
 shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.be"
 ---
-
-## Which standing desk do I need?
 
 A little standing goes a long way. It increases your body’s muscle strength and flexibility. 
 So don’t feel bad if you have a problem sitting for a long time.There is a great solution that can help you out- ‘Standing desks’! 
