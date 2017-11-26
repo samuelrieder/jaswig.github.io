@@ -143,6 +143,11 @@
     }
   }
 }
+
+.fix-wid {
+  max-width: 492px;
+  margin: 0 auto;
+}
 /* footer style */
 ._form_5 form {
 margin: 0 !important;
@@ -232,6 +237,7 @@ margin: 0 !important;
 /* blogpost template style */
 ._form_9 {
   max-width: 492px;
+  margin: 0 auto;
 }
 ._form_9 form {
 margin: 0 !important;
