@@ -90,28 +90,7 @@
 
 //1% logo
 .opep_logo{
-   float: right;
-   display: block;
    width: 120px;
-   margin: 0 auto;
-  }
-
-  @media (min-width: 726px) and (max-width: 991px) {
-    .opep_logo{
-    margin-right: 130px;
-    }
-  }
-
-  @media (min-width: 600px) and (max-width: 725px) {
-    .opep_logo{
-    margin-right: 14%;
-    }
-  }
-
-  @media (min-width: 492px) and (max-width: 599px) {
-    .opep_logo{
-    margin-right: 8%;
-    }
   }
 
 .sec-foo-logo {
@@ -186,7 +165,7 @@
     margin-top: 5px;
   }
   .opep_logo {
-    margin: -25px auto 0px !important;
+    margin: 0px auto 0px !important;
   }
 }
 
