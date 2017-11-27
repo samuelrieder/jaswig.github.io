@@ -2,7 +2,7 @@
 layout: post
 title: "Creating native woodlands in Flanders"
 description: ""
-date: "2017-06-25 20:10:27 +0100"
+date: "2017-11-26 20:10:27 +0100"
 cover: "/images/blog/trees-zoom.jpg"
 thumbnail: "/images/blog/trees-zoom.jpg"
 categories: blog
@@ -23,7 +23,7 @@ Via our 1% for the planet donations to [Natuurpunt](https://www.natuurpunt.be/) 
 
 This is the land that was partly bought with the money that Jaswig has donated to Natuurpunt, in total 3 ha!
 
-![Land bought with donations of Jaswig](/images/blog/Natuurpunt-hero-picture.jpg){:.medium}
+![Land bought with donations of Jaswig](/images/blog/Natuurpunt-hero-picture.jpg){:.large}
 
 ## Diversity and Nature's Services
 
