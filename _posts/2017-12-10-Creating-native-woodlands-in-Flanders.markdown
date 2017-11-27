@@ -3,10 +3,10 @@ layout: post
 title: "Creating native woodlands in Flanders"
 description: ""
 date: "2017-06-25 20:10:27 +0100"
-cover: "/images/blog/golden-autumn-leaves.jpg"
-thumbnail: "/images/blog/Natuurpunt-hero-picture.jpg"
+cover: "/images/blog/trees-zoom.jpg"
+thumbnail: "/images/blog/trees-zoom.jpg"
 categories: blog
-published: false
+published: true
 
 shareBox: true
 shareSocial: true
@@ -18,6 +18,12 @@ shareTaglineUrl: "http://www.jaswig.be"
 Via our 1% for the planet donations to [Natuurpunt](https://www.natuurpunt.be/) we are transforming 3 ha of agricultural land into native woodlands.
 
 <!--more-->
+
+## Making it concrete
+
+This is the land that was partly bought with the money that Jaswig has donated to Natuurpunt, in total 3 ha!
+
+![Land bought with donations of Jaswig](/images/blog/Natuurpunt-hero-picture.jpg){:.medium}
 
 ## Diversity and Nature's Services
 
@@ -36,7 +42,11 @@ But what do we constantly hear around us. Messages like: the amounts of insects 
 
 ## Jaswig Action
 
-On the 26th of November we all joined a [tree-panting day](https://www.natuurpunt.be/agenda/boomplantdag-zottegem-kom-een-van-de-5000-bomen-mee-planten-24468). The goal of that day was simple: plant 5000 new trees. During that day we’ve also put the symbolic spade in the ground on the piece of land we (you) helped to acquire. In the coming months similar tree planting actions will be organised on this land as well.
+On the 26th of November we all joined a [tree-panting day](https://www.natuurpunt.be/agenda/boomplantdag-zottegem-kom-een-van-de-5000-bomen-mee-planten-24468). The goal of that day was simple: plant 5000 new trees. During that day we’ve also put the symbolic spade in the ground on the piece of land we (you) helped to acquire. In the coming months similar tree planting actions will be organised on this land as well. Here are some nice pictures of us planting trees and the environment!
+
+![Environmental actions of jaswig](/images/blog/overview-tree-planting.jpg){:.medium}
+![Trees that were planted already during the day](/images/blog/trees-zoom.jpg){:.medium}
+![Jaswig team ready to plant some trees](/images/blog/jaswig-group-planting-trees.jpg){:.medium}
 
 ## Thank you
 
