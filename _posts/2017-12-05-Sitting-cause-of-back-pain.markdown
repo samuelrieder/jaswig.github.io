@@ -47,4 +47,4 @@ The rule of thumb is:
 **“The best position is always the next position!”**
 
 
-[![Our bodies are made to move](/images/blog/Thumb-video-jessica.jpg)](https://www.facebook.com/fullyus/videos/10155934971154914/ "Our bodies are made to move - Click to Watch!")
+[![Our bodies are made to move](/images/blog/Thumb-video-our-bodies-are-made-to-move.jpg)](https://www.facebook.com/fullyus/videos/10155934971154914/ "Our bodies are made to move - Click to Watch!")
