@@ -23,10 +23,10 @@ One popular formulation is this equation:
 
 H = S + C + V
 
-H = Happiness :-)
-S = Set point, the biological/genetical point around which you naturally reside in terms of happiness
-C = conditions of your life
-V = voluntary activities
+ H = Happiness :-)  
+ S = Set point, the biological/genetical point around which you naturally reside in terms of happiness  
+ C = conditions of your life  
+ V = voluntary activities
 
 Today we are going to zoom in on C, the 5 conditions of your life that can have a large impact on your direct happiness. It shouldn’t come as a surprise that quite a lot of factors are also relevant for your working environment :-)
 
