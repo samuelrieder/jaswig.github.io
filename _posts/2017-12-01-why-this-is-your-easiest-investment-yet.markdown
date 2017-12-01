@@ -16,7 +16,7 @@ shareTaglineUrl: "http://www.jaswig.be"
 ---
 We’re all sitting too much. The average European sits around 10 hours a day, and that’s why a standing desk will be your easiest investment this year.
 <!--more-->
-Not sure how many hours you are sitting? Take this test short test.
+Not sure how many hours you are sitting? [Take this short test.](http://www.jaswig.be/quiz/)
 
 ## 3 Your health
 
