@@ -44,7 +44,7 @@ So make your body and mind happy with this purchase ;-)
 These three points summarize why this will be your surest investment yet.
 Buying standing desks these days is even easier, simply buy online and get them delivered straight to your door!
 
-Sources:
+ Sources:  
  [Truth behind standing desks](https://www.health.harvard.edu/blog/the-truth-behind-standing-desks-2016092310264)  
  [Hidden psychological effects of a standing desk](https://lifehacker.com/the-hidden-psychological-benefits-of-a-standing-desk-955696631)  
  [7 benefits of a standing desk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk) 
