@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why we use toxic non-reusable varnish"
-description: Leading an examined life - Research on varnish.
+description: Leading an examined life - Research on varnish of our standing desk products.
 date: "2017-06-28 20:10:27 +0100"
 cover: "/images/blog/Close Up Blogpost Varnish 1.jpg"
 thumbnail: "/images/blog/Close Up Blogpost Varnish 1.jpg"
@@ -29,7 +29,7 @@ At ‘Jaswig’ we have made numerous mistakes and there is a high chance that w
 
 ## The right question to the right people with the right knowledge:
 
-We strongly believe that our ecological, financial, personal and thus our overall success will be the result of how successfully we are able to pose the right questions to the right people with the right knowledge. This was a crucial point for us when we were rethinking the choices we made about the varnish we use. 
+We strongly believe that our ecological, financial, personal and thus our overall success will be the result of how successfully we are able to pose the right questions to the right people with the right knowledge. This was a crucial point for us when we were rethinking the choices we made about the varnish we use.
 
 ## Our Varnish Research:
 
@@ -49,7 +49,7 @@ Since we did not have the financial means to perform our own scientific study, a
 
 ## Toxic nature of the water based varnish
 
-Another less positive piece of information that we learned is that water based varnish is probably more toxic than solvent based ones for the people who apply it. As many are not aware of the small but existing toxicity of this type of varnish, most people do not cover themselves enough when they are using water based varnishes. So we have a lot of work to do in educating the manufacturers of our product to make sure that they protect themselves enough while they apply this varnish! 
+Another less positive piece of information that we learned is that water based varnish is probably more toxic than solvent based ones for the people who apply it. As many are not aware of the small but existing toxicity of this type of varnish, most people do not cover themselves enough when they are using water based varnishes. So we have a lot of work to do in educating the manufacturers of our product to make sure that they protect themselves enough while they apply this varnish!
 
 ## Increased cost:
 
@@ -61,6 +61,6 @@ Nevertheless, it is still very frustrating that the varnish we apply cannot be s
 
 We believe in the fact that the most successful company will be the company that asks the right questions and not necessarily the one that has all the answers already. Next to that business will probably always come with an environmental cost. And that is why we are a part of 1% for the Planet, an organization that draws in funds to partly balance the impact of the businesses on the environment. Hopefully the total operations of business can become a force for net environmental profits but we still have a lot of battles to win before this will become a reality.
 
-The technical details of the varnish we use can be found in the following links 
+The technical details of the varnish we use can be found in the following links
 * [Techinical file 1](https://jaswigbvba.box.com/s/9b3a60e2521m5hqf9dsz05yt3ujpgrww)
 * [Techinical file 2](https://jaswigbvba.box.com/s/eiy5348dijbuqpr20v9jrkocu3cwwd7j)

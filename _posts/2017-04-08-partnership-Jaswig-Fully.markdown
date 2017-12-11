@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jaswig partners up with Fully - Exciting times ahead!"
-description: Jaswig announces its collaboration with Fully
+description: Jaswig announces its collaboration with Fully and aims for a powerful partnership
 date: "2017-08-06 20:10:27 +0100"
 cover: "/images/blog/Jaswig-Fully-Partnership.jpg"
 thumbnail: "/images/blog/Jaswig-Fully-Partnership.jpg"
@@ -39,10 +39,10 @@ Products we are launching that'll hopefully cover the demand of our customers ar
 + [Topo standing mat](http://www.jaswig.be/topo-anti-fatigue-mat/)
 + other exciting accessories
 Go and take a look on our brand [new website](http://www.jaswig.be/)!
- 
+
 ## Pricing
 
-Fully has been disrupting the online furniture industry with their direct-to-consumer model for 10 years now. In partnering with Fully, we will be working to make our products more accessible for more people. This fits in nicely with our mission to make more people move throughout their working day! 
+Fully has been disrupting the online furniture industry with their direct-to-consumer model for 10 years now. In partnering with Fully, we will be working to make our products more accessible for more people. This fits in nicely with our mission to make more people move throughout their working day!
 
 ## Production
 
