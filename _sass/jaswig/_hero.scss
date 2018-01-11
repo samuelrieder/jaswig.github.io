@@ -1,7 +1,6 @@
 .hero {
   height: auto;
 	position: relative;
-  padding: 0 0 20%;
 
   $text-shadow: #000;
 
@@ -104,5 +103,11 @@
     background-color: rgba(#fff,0.8) !important;
     color: $color-dark !important;
     border-color: rgba(#fff,0.4) !important;
+  }
+}
+
+@media (max-width: 443px) {
+  .hero__headline {
+    margin: 9vw auto 5vw;
   }
 }
