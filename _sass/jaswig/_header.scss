@@ -384,7 +384,10 @@ header input[type=checkbox]{
 .popover-body {
   	margin: 0 !important;
     color: #9a9a9a !important;
-  	text-decoration: underline !important;
+}
+
+.popover-underline {
+  text-decoration: underline;
 }
 
 .fade {
