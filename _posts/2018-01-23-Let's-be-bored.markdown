@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's be bored."
+title: "Is being bored a bad thing?."
 description: In this environment of high stimuli we need to learn to be bored again. 
 date: "2017-01-23 10:10:27 +0100"
 cover: "/images/blog/Let's be bored again-01.png"
