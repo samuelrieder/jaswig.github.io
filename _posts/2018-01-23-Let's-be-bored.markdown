@@ -34,7 +34,7 @@ This new science of performance argues that you get better at a skill as you dev
 
 (Get) Inspired by
 
-[Podcast with Cal Newport and Ezra Klein](https://soundcloud.com/panoply/cal-newport-on-doing-deep-work-and-escaping-social-media)
+.[Podcast with Cal Newport and Ezra Klein](https://soundcloud.com/panoply/cal-newport-on-doing-deep-work-and-escaping-social-media)
 
-[Book “Deep Work” by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?s=books&ie=UTF8&qid=1516709963&sr=1-1&keywords=deep+work
+.[Book “Deep Work” by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?s=books&ie=UTF8&qid=1516709963&sr=1-1&keywords=deep+work
 )
