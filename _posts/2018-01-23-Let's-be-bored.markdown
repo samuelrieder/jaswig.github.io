@@ -33,6 +33,8 @@ The ability to perform this deep work is becoming increasingly rare at exactly t
 This new science of performance argues that you get better at a skill as you develop more myelin around the relevant neurons, allowing the corresponding circuit to fire more effortlessly and effectively. To be great at something is to be well myelinated. If you have spare time don’t fill it up with shallow work. Try and be bored, or go deep in developing a skill.
 
 (Get) Inspired by
+
 [Podcast with Cal Newport and Ezra Klein](https://soundcloud.com/panoply/cal-newport-on-doing-deep-work-and-escaping-social-media)
+
 [Book “Deep Work” by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?s=books&ie=UTF8&qid=1516709963&sr=1-1&keywords=deep+work
 )
