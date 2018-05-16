@@ -18,6 +18,8 @@ shareTaglineUrl: "http://www.jaswig.be"
 Both businesses and individuals have a responsibility towards the planet. So, Jaswig needs to take up its responsibility and put its money where its mouth is!
 <!--more-->
 
+Update: We've recently decided to stop working with the 1% Foundation due to internal changes. We'd like to quickly restart this partnership once it is a viable option for us. Please read on, because we are still 99% :-) behind this initiative! 
+
 ## 1. So Why are we a part of it?
 
 Jaswig can be shaped according to our beliefs and values. We are modeling it in such a way that it is sustainable. We make sure it is viable financially, ecologically and also socially. To uphold the ecological sustainability, we not only wanted to invest in the best possible materials, factories and design but also have a larger impact on the world. And that is why we choose to be a part of [1% for the planet](http://www.onepercentfortheplanet.org/).
