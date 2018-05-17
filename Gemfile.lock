@@ -142,9 +142,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-redirect-from
   jekyll-sitemap
   shopify_theme
 
 BUNDLED WITH
-   1.12.5
-
+   1.16.0
