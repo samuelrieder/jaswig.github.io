@@ -274,11 +274,15 @@ $(document).ready(function () {
   if (document.cookie.indexOf("hire=") < 0){
       $( '.we-hiring' ).first().removeClass( "no-disp" );
   }
+  if (document.cookie.indexOf("sale=") < 0){
+      $( '.we-hiring' ).first().removeClass( "no-disp" );
+  }
 });
 
 $( "#hire-close" ).click(function(e) {
   e.preventDefault();
   setCookie("hire",1,364);
+  setCookie("sale",1,364);
   $( '.we-hiring' ).first().addClass( "no-disp" );
 });
 
