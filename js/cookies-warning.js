@@ -8,12 +8,26 @@ function CookiesWarning() {
 }
 
 CookiesWarning.prototype.isAccepted = function () {
+  $('script').each(function(){
+      if($(this).attr('data-cookiescript') == 'accepted'){
+          var temp = this;
+      temp.setAttribute('type','text/javascript');
+      document.body.appendChild(temp);
+      }
+  });
   return window.Cookies.get('isCookiesAccepted')
 };
 
 CookiesWarning.prototype.accept = function () {
-  window.Cookies.set('isCookiesAccepted', true, { expires: 365 })
-  this.$component.$root.trigger('accepted')
+  window.Cookies.set('isCookiesAccepted', true, { expires: 365 });
+  this.$component.$root.trigger('accepted');
+  $('script').each(function(){
+      if($(this).attr('data-cookiescript') == 'accepted'){
+          var temp = this;
+  		temp.setAttribute('type','text/javascript');
+  		document.body.appendChild(temp);
+      }
+  });
 };
 
 CookiesWarning.prototype.getDOM = function ($root) {
