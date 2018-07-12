@@ -15,7 +15,7 @@
 
 $(document).on('ready', function() {
   $('.order-card-text').matchHeight({byRow: true,property: 'height'});
-  var cookiesWarning = new window.CookiesWarning();
+  //var cookiesWarning = new window.CookiesWarning();
   $('[data-toggle="popover"]').popover({ html : true });
 });
 
