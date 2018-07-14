@@ -95,7 +95,7 @@ header .nav-mobile {
 }
 
 header input[type=checkbox]:checked ~ .nav-mobile {
-  z-index: 4;
+  z-index: 1000000;
   display: block;
   position: absolute;
   top: 50px;
